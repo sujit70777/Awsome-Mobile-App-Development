@@ -33,7 +33,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [KAndroid](https://github.com/pawegio/KAndroid) - Kotlin library for Android 
 - [GankClient-Kotlin](https://github.com/githubwing/GankClient-Kotlin) - gank.io kotlin实现的干货集中营 Android 客户端 Kotlin Dagger Databinding Rxjava Retrofit Okhttp3 
 - [codeview-android](https://github.com/Softwee/codeview-android) - Display code with syntax highlighting 🔆 in native way. 
-- [Murmur](https://github.com//nekocode/Murmur) - 📻 A third-party DoubanFM android client. 
+- [Murmur](https://github.com/nekocode/Murmur) - 📻 A third-party DoubanFM android client. 
 - [input-mask-android](https://github.com//RedMadRobot/input-mask-android) - User input masking library repo. 
 - [FingerprintAuthHelper](https://github.com//pro100svitlo/FingerprintAuthHelper) - A small library that allows You to easily manage fingererprint authentication inside your Activity or Fragment on dev… 
 - [LightCalendarView](https://github.com//recruit-mp/LightCalendarView) - A lightweight monthly calendar view for Android , fully written in Kotlin. Designed to meet the minimum demands for ty… 
