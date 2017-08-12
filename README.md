@@ -49,7 +49,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [AsyncAwait](https://github.com/metalabdesign/AsyncAwait) - async/await for Android built upon coroutines introduced in Kotlin 1.1 
 - [StickySwitch](https://github.com/GwonHyeok/StickySwitch) - ⭐️ beautiful switch widget with sticky animation ⭐️ 
 - [simpletask-android](https://github.com/mpcjanssen/simpletask-android) -  
-- [android-architecture-counter-sample](https://github.com//dlew/android-architecture-counter-sample) - Sample app using Android architecture components 
+- [android-architecture-counter-sample](https://github.com/dlew/android-architecture-counter-sample) - Sample app using Android architecture components 
 - [Evil-Hide](https://github.com//blackbbc/Evil-Hide) - An android app that can hide other apps' icon in the launcher without root permission. 一个用于隐藏应用的app（不需要Root权限） 
 - [fakeit](https://github.com//moove-it/fakeit) - The Kotlin fake data generator library! 
 - [kotlin-koi](https://github.com//mcxiaoke/kotlin-koi) - Koi, a lightweight kotlin library for Android Development. 
