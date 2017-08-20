@@ -57,7 +57,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [FunctionalAndroidReference](https://github.com/pakoito/FunctionalAndroidReference) - Showcase project of Functional Reactive Programming on Android , using RxJava. 
 - [kotlin-android-flux](https://github.com/satorufujiwara/kotlin-android-flux) - Example of Android app with Flux and Kotlin and Dagger2 and famous libraries. 
 - [AndroidDeviceNames](https://github.com/tslamic/AndroidDeviceNames) - A tiny Android library that transforms the device model name into something users can understand. 
-- [KedditBySteps](https://github.com//juanchosaravia/KedditBySteps) - Small Reddit Android client developed with Kotlin 
+- [KedditBySteps](https://github.com/juanchosaravia/KedditBySteps) - Small Reddit Android client developed with Kotlin 
 - [Stepper-Touch](https://github.com//DanielMartinus/Stepper-Touch) - Stepper Touch for Android based on: https://material.uplabs.com/posts/stepper-touch-interface 
 - [ActivityStarter](https://github.com//MarcinMoskala/ActivityStarter) - Simple Android Library, that provides easy way to start the Activities with arguments. 
 - [LabCoat](https://github.com//Commit451/LabCoat) - GitLab client for Android . Mirror of project on GitLab 
