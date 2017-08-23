@@ -60,7 +60,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [KedditBySteps](https://github.com/juanchosaravia/KedditBySteps) - Small Reddit Android client developed with Kotlin 
 - [Stepper-Touch](https://github.com/DanielMartinus/Stepper-Touch) - Stepper Touch for Android based on: https://material.uplabs.com/posts/stepper-touch-interface 
 - [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Simple Android Library, that provides easy way to start the Activities with arguments. 
-- [LabCoat](https://github.com//Commit451/LabCoat) - GitLab client for Android . Mirror of project on GitLab 
+- [LabCoat](https://github.com/Commit451/LabCoat) - GitLab client for Android . Mirror of project on GitLab 
 - [Pr0](https://github.com//mopsalarm/Pr0) - Offizielle pr0gramm app für Android . Download auf https://app.pr0gramm.com 
 - [android-kotlin-samples](https://github.com//irontec/android-kotlin-samples) - Some basic samples of Kotlin for Android 
 - [palettehelper](https://github.com//hzsweers/palettehelper) - Utility Android app for generating color palettes of images using the Palette library. Written in Kotlin. 
