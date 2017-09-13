@@ -83,7 +83,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [FontBinder](https://github.com/nitrico/FontBinder) - Easy font usage in your Android XML layouts 
 - [Kotpref](https://github.com/chibatching/Kotpref) - Kotpref - Android SharedPreferences delegation library for Kotlin 
 - [kotlinAndroidLib](https://github.com/VolodymyrLykhonis/kotlinAndroidLib) - Kotlin "sugar" for Android 
-- [kaffeine](https://github.com//ragunathjawahar/kaffeine) - Kaffeine is a Kotlin-flavored Android library for accelerating development. 
+- [kaffeine](https://github.com/ragunathjawahar/kaffeine) - Kaffeine is a Kotlin-flavored Android library for accelerating development. 
 - [Put.io](https://github.com//DSteve595/Put.io) - Put.io for Android ! 
 - [twittnuker](https://github.com//vanita5/twittnuker) - Android 4.0+ Twitter Client 
 - [audiowave-progressbar](https://github.com//alxrm/audiowave-progressbar) - Lightweight audiowave progressbar for Android 
