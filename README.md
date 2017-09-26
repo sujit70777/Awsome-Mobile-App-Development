@@ -97,7 +97,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [realmfieldnameshelper](https://github.com/cmelchior/realmfieldnameshelper) - Realm extension library used to create more type-safe queries. 
 - [GradleAspectJ-Android](https://github.com/Archinamon/GradleAspectJ-Android) - gradle plug-in adding supports of AspectJ into Android project 
 - [android-drawable-dsl](https://github.com/infotech-group/android-drawable-dsl) - DSL for constructing the drawables in Kotlin instead of in XML 
-- [AsyncAwait-Android](https://github.com//nhaarman/AsyncAwait-Android) - Utilizing async-await in Android 
+- [AsyncAwait-Android](https://github.com/nhaarman/AsyncAwait-Android) - Utilizing async-await in Android 
 - [chicago-roboto](https://github.com//rharter/chicago-roboto) - Web and Android app for Chicago Roboto conference 
 - [redchain](https://github.com//hotpodata/redchain) - An Android app written in Kotlin to help keep you motivated towards your daily goal(s) 
 - [mpv-android](https://github.com//mpv-android/mpv-android) - #mpv- android @ freenode 
