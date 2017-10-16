@@ -27,7 +27,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [android-snowfall](https://github.com/JetradarMobile/android-snowfall) - Fully customizable implementation of "Snowfall View" on Android .
 - [debug-bottle](https://github.com/kiruto/debug-bottle) - 🍼 Debug Bottle is an Android runtime debug / develop tools written using kotlin language.
 - [Bubble-Picker](https://github.com/igalata/Bubble-Picker) - An easy-to-use animation which can be used for content picking for Android
-- [tachiyomi](https://github.com/inorichi/tachiyomi) - Free and open source manga reader for Android 
+- [tachiyomi](https://github.com/inorichi/tachiyomi) - Free and open source manga reader for Android
 - [Fuel](https://github.com/kittinunf/Fuel) - The easiest HTTP networking library for Kotlin/ Android 
 - [Kotlin-for-Android-Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers) - Companion App for the book 
 - [KAndroid](https://github.com/pawegio/KAndroid) - Kotlin library for Android 
