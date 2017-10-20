@@ -31,7 +31,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Fuel](https://github.com/kittinunf/Fuel) - The easiest HTTP networking library for Kotlin/ Android
 - [Kotlin-for-Android-Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers) - Companion App for the book
 - [KAndroid](https://github.com/pawegio/KAndroid) - Kotlin library for Android
-- [GankClient-Kotlin](https://github.com/githubwing/GankClient-Kotlin) - gank.io kotlin实现的干货集中营 Android 客户端 Kotlin Dagger Databinding Rxjava Retrofit Okhttp3 
+- [GankClient-Kotlin](https://github.com/githubwing/GankClient-Kotlin) - gank.io kotlin实现的干货集中营 Android 客户端 Kotlin Dagger Databinding Rxjava Retrofit Okhttp3
 - [codeview-android](https://github.com/Softwee/codeview-android) - Display code with syntax highlighting 🔆 in native way. 
 - [Murmur](https://github.com/nekocode/Murmur) - 📻 A third-party DoubanFM android client. 
 - [input-mask-android](https://github.com/RedMadRobot/input-mask-android) - User input masking library repo. 
