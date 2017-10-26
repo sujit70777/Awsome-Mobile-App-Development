@@ -38,7 +38,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [FingerprintAuthHelper](https://github.com/pro100svitlo/FingerprintAuthHelper) - A small library that allows You to easily manage fingererprint authentication inside your Activity or Fragment on dev…
 - [LightCalendarView](https://github.com/recruit-mp/LightCalendarView) - A lightweight monthly calendar view for Android , fully written in Kotlin. Designed to meet the minimum demands for ty…
 - [LastAdapter](https://github.com/nitrico/LastAdapter) - Don't write a RecyclerView adapter again. Not even a ViewHolder!
-- [CircleLayout](https://github.com/francoiscampbell/CircleLayout) - An Android layout for arranging children along a circle 
+- [CircleLayout](https://github.com/francoiscampbell/CircleLayout) - An Android layout for arranging children along a circle
 - [DateTimeRangePicker](https://github.com/skedgo/DateTimeRangePicker) - A date time range picker for android written in Kotlin 
 - [kotlin-dagger-example](https://github.com/damianpetla/kotlin-dagger-example) - Example of Android project showing integration with Kotlin and Dagger 2 
 - [KBinding](https://github.com/BennyWang/KBinding) - Android MVVM framework write in kotlin, develop Android has never been so fun. 
