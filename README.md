@@ -43,7 +43,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [kotlin-dagger-example](https://github.com/damianpetla/kotlin-dagger-example) - Example of Android project showing integration with Kotlin and Dagger 2
 - [KBinding](https://github.com/BennyWang/KBinding) - Android MVVM framework write in kotlin, develop Android has never been so fun.
 - [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) - A simple calendar with events, customizable widget and no ads.
-- [stencil](https://github.com/thoughtbot/stencil) - Android library, written exclusively in kotlin, for animating the path created from text 
+- [stencil](https://github.com/thoughtbot/stencil) - Android library, written exclusively in kotlin, for animating the path created from text
 - [PassAndroid](https://github.com/ligi/PassAndroid) - Android App to view passes 
 - [OfficialFoldingTabBar.Android](https://github.com/Yalantis/OfficialFoldingTabBar.Android) -  
 - [AsyncAwait](https://github.com/metalabdesign/AsyncAwait) - async/await for Android built upon coroutines introduced in Kotlin 1.1 
