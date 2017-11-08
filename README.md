@@ -52,7 +52,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [android-architecture-counter-sample](https://github.com/dlew/android-architecture-counter-sample) - Sample app using Android architecture components
 - [Evil-Hide](https://github.com/blackbbc/Evil-Hide) - An android app that can hide other apps' icon in the launcher without root permission. 一个用于隐藏应用的app（不需要Root权限）
 - [fakeit](https://github.com/moove-it/fakeit) - The Kotlin fake data generator library!
-- [kotlin-koi](https://github.com/mcxiaoke/kotlin-koi) - Koi, a lightweight kotlin library for Android Development. 
+- [kotlin-koi](https://github.com/mcxiaoke/kotlin-koi) - Koi, a lightweight kotlin library for Android Development.
 - [red-moon](https://github.com/raatmarien/red-moon) - An android screen filter app for night time phone use 
 - [FunctionalAndroidReference](https://github.com/pakoito/FunctionalAndroidReference) - Showcase project of Functional Reactive Programming on Android , using RxJava. 
 - [kotlin-android-flux](https://github.com/satorufujiwara/kotlin-android-flux) - Example of Android app with Flux and Kotlin and Dagger2 and famous libraries. 
