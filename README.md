@@ -66,7 +66,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [palettehelper](https://github.com/hzsweers/palettehelper) - Utility Android app for generating color palettes of images using the Palette library. Written in Kotlin.
 - [SurvivalManual](https://github.com/ligi/SurvivalManual) - Libre Survival Manual for Android with offline in mind
 - [NewsCatchr-OpenSource](https://github.com/jlelse/NewsCatchr-OpenSource) - Code of the NewsCatchr app
-- [androidKotlin](https://github.com/yoavst/androidKotlin) - Kotlin extenstion method for better Android development 
+- [androidKotlin](https://github.com/yoavst/androidKotlin) - Kotlin extenstion method for better Android development
 - [Apollo](https://github.com/lsxiao/Apollo) - 🚀 Best IPC and APT RxBus for android (进程间通信,编译时注解的RxBus) 
 - [bodyweight-fitness-android](https://github.com/mazurio/bodyweight-fitness-android) - Bodyweight Fitness ( Android ) 
 - [intellij-java2smali](https://github.com/ollide/intellij-java2smali) - A plugin for IntelliJ IDEA & Android Studio to easily compile Java & Kotlin files to smali. 
