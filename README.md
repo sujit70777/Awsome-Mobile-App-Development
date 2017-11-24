@@ -69,7 +69,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [androidKotlin](https://github.com/yoavst/androidKotlin) - Kotlin extenstion method for better Android development
 - [Apollo](https://github.com/lsxiao/Apollo) - 🚀 Best IPC and APT RxBus for android (进程间通信,编译时注解的RxBus)
 - [bodyweight-fitness-android](https://github.com/mazurio/bodyweight-fitness-android) - Bodyweight Fitness ( Android )
-- [intellij-java2smali](https://github.com/ollide/intellij-java2smali) - A plugin for IntelliJ IDEA & Android Studio to easily compile Java & Kotlin files to smali. 
+- [intellij-java2smali](https://github.com/ollide/intellij-java2smali) - A plugin for IntelliJ IDEA & Android Studio to easily compile Java & Kotlin files to smali.
 - [SimpleRatingBar](https://github.com/bravoborja/SimpleRatingBar) - SimpleRatingBar allows us to create a RatingBar with margin between items 
 - [animated-clock-icon](https://github.com/alxrm/animated-clock-icon) - Easy-to-use animated clock icon for Android 
 - [android-mvp-kotlin-starter](https://github.com/ravidsrk/android-mvp-kotlin-starter) - [WIP] [ Android MVP Kotlin] Android App starter based on Kotlin + MVP + Dagger2 + RxJava2 + Robolectric + Espresso + M… 
