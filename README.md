@@ -90,7 +90,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [simple-range-view](https://github.com/bendikv/simple-range-view) - SimpleRangeView is custom view component for Android , that provides for the selection of a range
 - [StockTicker](https://github.com/premnirmal/StockTicker) - A resizable stock ticker widget for your android home screen, written in Kotlin
 - [OpenConference-android](https://github.com/OpenConference/OpenConference-android) - An Android App for your Conference
-- [android](https://github.com/standardnotes/android) - Standard Notes Android app. 
+- [android](https://github.com/standardnotes/android) - Standard Notes Android app.
 - [Gank.io-for-Kotlin-Android](https://github.com/YeungKC/Gank.io-for-Kotlin-Android) - 一个 Kotlin 开发的 Gank.io 客户端 
 - [FanfouHandpick](https://github.com/TonnyL/FanfouHandpick) - 📖 A Fanfou Handpick Client Developed by Kotlin 
 - [tropos-android](https://github.com/thoughtbot/tropos-android) - Weather and Forecasts for Humans 
