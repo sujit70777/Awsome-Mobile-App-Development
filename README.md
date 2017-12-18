@@ -95,7 +95,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [FanfouHandpick](https://github.com/TonnyL/FanfouHandpick) - 📖 A Fanfou Handpick Client Developed by Kotlin
 - [tropos-android](https://github.com/thoughtbot/tropos-android) - Weather and Forecasts for Humans
 - [realmfieldnameshelper](https://github.com/cmelchior/realmfieldnameshelper) - Realm extension library used to create more type-safe queries.
-- [GradleAspectJ-Android](https://github.com/Archinamon/GradleAspectJ-Android) - gradle plug-in adding supports of AspectJ into Android project 
+- [GradleAspectJ-Android](https://github.com/Archinamon/GradleAspectJ-Android) - gradle plug-in adding supports of AspectJ into Android project
 - [android-drawable-dsl](https://github.com/infotech-group/android-drawable-dsl) - DSL for constructing the drawables in Kotlin instead of in XML 
 - [AsyncAwait-Android](https://github.com/nhaarman/AsyncAwait-Android) - Utilizing async-await in Android 
 - [chicago-roboto](https://github.com/rharter/chicago-roboto) - Web and Android app for Chicago Roboto conference 
