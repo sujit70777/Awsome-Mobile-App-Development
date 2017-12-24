@@ -101,7 +101,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [chicago-roboto](https://github.com/rharter/chicago-roboto) - Web and Android app for Chicago Roboto conference
 - [redchain](https://github.com/hotpodata/redchain) - An Android app written in Kotlin to help keep you motivated towards your daily goal(s)
 - [mpv-android](https://github.com/mpv-android/mpv-android) - #mpv- android @ freenode
-- [kotlin-mvp-example](https://github.com/Yalantis/kotlin-mvp-example) - A small client server app on Kotlin that is using MVP architecture 
+- [kotlin-mvp-example](https://github.com/Yalantis/kotlin-mvp-example) - A small client server app on Kotlin that is using MVP architecture
 - [monotweety](https://github.com/yshrsmz/monotweety) - Simple Twitter Client just for tweeting, written in Kotlin with reactive MVVM-like approach 
 - [Reduks](https://github.com/beyondeye/Reduks) - A "batteries included" port of Reduxjs for Kotlin+ Android 
 - [AdvancedRecyclerView](https://github.com/StephenVinouze/AdvancedRecyclerView) - An easy, empowering Kotlin library for RecyclerView 
