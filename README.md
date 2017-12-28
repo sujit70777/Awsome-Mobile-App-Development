@@ -111,7 +111,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 ## Libraries
 
 - [KAConf](https://github.com/mariomac/kaconf) - KickAss Configuration. An annotation-based configuration system for Java and Kotlin
-- [Anko](https://github.com/Kotlin/anko) - Anko is a library which makes Android application development faster and easier. 
+- [Anko](https://github.com/Kotlin/anko) - Anko is a library which makes Android application development faster and easier.
 - [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Android Library that provide simpler way to start the Activities with multiple arguments.
 - [SQLDelight](https://github.com/square/sqldelight) - Generates Java models from CREATE TABLE statements.
 - [RxKotlin](https://github.com/ReactiveX/RxKotlin) - Kotlin Adaptor for RxJava
