@@ -133,7 +133,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Kwery](https://github.com/andrewoma/kwery) - Kwery is an SQL library for Kotlin.
 - [kotlin-core](https://github.com/lightningkite/kotlin-core) and its related reposiories - A full framework for making Android apps. Based on Anko and Kotson.
 - [Kotlin NoSQL](https://github.com/cheptsov/kotlin-nosql) - Kotlin NoSQL is a reactive and type-safe DSL for working with NoSQL databases.
-- [Exposed](https://github.com/JetBrains/Exposed) - Exposed is a prototype for a lightweight SQL library written over JDBC driver for Kotlin language. 
+- [Exposed](https://github.com/JetBrains/Exposed) - Exposed is a prototype for a lightweight SQL library written over JDBC driver for Kotlin language.
 - [Klaxon](https://github.com/cbeust/klaxon) - Klaxon is a lightweight library to parse JSON in Kotlin.
 - [Kobalt ](https://github.com/cbeust/kobalt) - Kobalt is a modern and versatile build system.
 - [jackson-module-kotlin](https://github.com/FasterXML/jackson-module-kotlin) - Module that adds support for serialization/deserialization of Kotlin classes and data classes.
