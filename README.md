@@ -193,3 +193,5 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Kotlin-Website-CN](https://github.com/cctanfujun/kotlin-web-site-cn)
 - [Kotlin Reference in Chinese](https://www.kotlincn.net/)
 
+## More Libraries
+- [RxAndroid](https://github.com/ReactiveX/RxAndroid) - RxJava bindings for Android
