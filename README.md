@@ -195,3 +195,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 
 ## More Libraries
 - [RxAndroid](https://github.com/ReactiveX/RxAndroid) - RxJava bindings for Android
+- [Toasty](https://github.com/GrenderG/Toasty) - The usual Toast, but with steroids
