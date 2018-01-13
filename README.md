@@ -198,3 +198,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Toasty](https://github.com/GrenderG/Toasty) - The usual Toast, but with steroids
 - [Moshi](https://github.com/square/moshi) - A modern JSON library for Android and Java
 - [Calligraphy](https://github.com/chrisjenx/Calligraphy) - Custom fonts in Android the easy way
+- [Timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API on top of Android's Log class
