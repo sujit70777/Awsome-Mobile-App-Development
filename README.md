@@ -200,3 +200,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Calligraphy](https://github.com/chrisjenx/Calligraphy) - Custom fonts in Android the easy way
 - [Timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API on top of Android's Log class
 - [ExoPlayer](https://github.com/google/ExoPlayer) - An extensible media player for Android
+- [Glide](https://github.com/bumptech/glide) - Fast and efficient image loading library for Android
