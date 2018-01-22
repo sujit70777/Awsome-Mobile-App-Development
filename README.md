@@ -8,7 +8,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Kotlin Home](https://kotlinlang.org/)
 - [Kotlin Documents](https://kotlinlang.org/docs/reference/)
 - [Try Kotlin in your Browser](https://try.kotlinlang.org/)
-- [Kotlin Blog](http://blog.jetbrains.com/kotlin)
+- [Kotlin Blog](https://blog.jetbrains.com/kotlin)
 - [Kotlin GitHub](https://github.com/JetBrains/kotlin)
 - [Kotlin Koans](https://github.com/Kotlin/kotlin-koans)
 - [Issue Tracker](https://youtrack.jetbrains.com/issues/KT)
