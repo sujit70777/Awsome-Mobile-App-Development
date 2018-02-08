@@ -156,7 +156,6 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [PultusORM](https://github.com/s4kibs4mi/PultusORM) - PultusORM is a sqlite ORM library.
 - [Voice Overlay](https://github.com/algolia/voice-overlay-android/) - An overlay that gets your user’s voice permission and input as text in a customizable UI. The library covers speech to text and proper permission handling.
 
-
 ## Tutorials
 - [Kotlin for Android (I~IV)](http://antonioleiva.com/kotlin/)
 - [Kotlin for Android Developers](http://www.javaadvent.com/2015/12/kotlin-android.html)
