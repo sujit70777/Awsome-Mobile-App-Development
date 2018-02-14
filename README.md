@@ -167,7 +167,6 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Learn Kotlin while developing an Android App](https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
 - [Kotlin for Android & Java Developers](https://www.manning.com/livevideo/kotlin-for-android-and-java-developers)
 
-
 ## Tools
 - [IntelliJ IDEA 15](https://www.jetbrains.com/idea/download/) - The best Kotlin IDE, support Java, Groovy, Scala and Android development.
 - [dokka](https://github.com/Kotlin/dokka) - Dokka is a documentation engine for Kotlin, performing the same function as javadoc for Java.
