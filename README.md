@@ -203,3 +203,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [material-dialogs](https://github.com/afollestad/material-dialogs) - A beautiful, fluid, and extensible dialogs API for Kotlin and Java
 - [LoganSquare](https://github.com/bluelinelabs/LoganSquare) - Super-fast JSON parsing and serialization library for Android
 - [Lottie](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android
+- [Retrofit](https://github.com/square/retrofit) - Type-safe HTTP client for Android and Java by Square
