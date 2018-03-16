@@ -157,7 +157,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Voice Overlay](https://github.com/algolia/voice-overlay-android/) - An overlay that gets your user’s voice permission and input as text in a customizable UI. The library covers speech to text and proper permission handling.
 
 ## Tutorials
-- [Kotlin for Android (I~IV)](http://antonioleiva.com/kotlin/)
+- [Kotlin for Android (I~IV)](https://antonioleiva.com/kotlin/)
 - [Kotlin for Android Developers](http://www.javaadvent.com/2015/12/kotlin-android.html)
 - [Streamline Android Java Code with Kotlin](http://www.sitepoint.com/streamline-android-java-code-with-kotlin/)
 - [Android development with Kotlin](http://inaka.net/blog/2016/01/15/android-development-with-kotlin/)
