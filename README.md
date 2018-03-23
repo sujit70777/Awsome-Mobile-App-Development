@@ -210,3 +210,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [PhotoView](https://github.com/chrisbanes/PhotoView) - Implementation of ImageView for Android that supports zooming
 - [requery](https://github.com/requery/requery) - Modern SQL based query and persistence for Java / Kotlin / Android
 - [MvRx](https://github.com/airbnb/MvRx) - Android MvRx: Model View Intent + RxJava
+- [RxJava](https://github.com/ReactiveX/RxJava) - Reactive Extensions for the JVM
