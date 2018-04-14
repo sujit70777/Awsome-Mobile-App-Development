@@ -213,3 +213,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [RxJava](https://github.com/ReactiveX/RxJava) - Reactive Extensions for the JVM
 - [Stetho](https://github.com/facebook/stetho) - A debug bridge for Android applications
 - [FlexboxLayout](https://github.com/google/flexbox-layout) - Android port of the CSS Flexible Box Layout Module
+- [TapTargetView](https://github.com/KeepSafe/TapTargetView) - An Android library for showing tap targets, feature discovery, etc.
