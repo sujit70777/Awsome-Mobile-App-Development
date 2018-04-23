@@ -215,3 +215,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [FlexboxLayout](https://github.com/google/flexbox-layout) - Android port of the CSS Flexible Box Layout Module
 - [TapTargetView](https://github.com/KeepSafe/TapTargetView) - An Android library for showing tap targets, feature discovery, etc.
 - [RxPermissions](https://github.com/tbruyelle/RxPermissions) - Android runtime permissions powered by RxJava
+- [Picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android
