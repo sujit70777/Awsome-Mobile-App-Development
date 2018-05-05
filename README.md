@@ -107,7 +107,6 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [AdvancedRecyclerView](https://github.com/StephenVinouze/AdvancedRecyclerView) - An easy, empowering Kotlin library for RecyclerView
 - [AndroidX (Jetpack) GitHub release notes](https://github.com/mahozad/androidx-release-notes) - Get release notes and changelog for AndroidX libraries in GitHub
 
-
 ## Libraries
 
 - [KAConf](https://github.com/mariomac/kaconf) - KickAss Configuration. An annotation-based configuration system for Java and Kotlin
