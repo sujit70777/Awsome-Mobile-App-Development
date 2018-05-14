@@ -217,3 +217,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android
 - [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
 - [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform / multi-format serialization
+- [MockK](https://github.com/mockk/mockk) - Mocking library for Kotlin
