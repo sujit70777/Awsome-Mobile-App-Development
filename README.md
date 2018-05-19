@@ -218,3 +218,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
 - [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform / multi-format serialization
 - [MockK](https://github.com/mockk/mockk) - Mocking library for Kotlin
+- [Plaid](https://github.com/nickbutcher/plaid) - An app which showcases Android UI/UX design patterns
