@@ -140,7 +140,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [KBuilders](https://github.com/Levelmoney/kbuilders) - KBuilders turns your Java builders into beautiful Type-Safe Builders.
 - [Result](https://github.com/kittinunf/Result) - This is a tiny framework for modelling success/failure of operations in Kotlin.
 - [Tornado FX](https://github.com/edvin/tornadofx) - A New JavaFX App Framework for Kotlin.
-- [Spek](http://jetbrains.github.io/spek) - A Specification Framework for Kotlin
+- [Spek](https://jetbrains.github.io/spek) - A Specification Framework for Kotlin
 - [Klutter](https://github.com/kohesive/klutter) - Library of many small useful things
 - [Kovert](https://github.com/kohesive/kovert) - an invisible, super easy and powerful REST and Web framework overt Vert.x or Undertow
 - [Injekt](https://github.com/kohesive/injekt) - native Kotlin dependency injection (object registry style)
