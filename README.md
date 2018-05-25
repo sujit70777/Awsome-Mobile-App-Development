@@ -221,3 +221,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Plaid](https://github.com/nickbutcher/plaid) - An app which showcases Android UI/UX design patterns
 - [ButterKnife](https://github.com/JakeWharton/butterknife) - Field and method binding for Android views
 - [EventBus](https://github.com/greenrobot/EventBus) - Simplifies communication between Activities, Fragments, and background threads
+- [simple-stack](https://github.com/Zhuinden/simple-stack) - A simple backstack for handling Android navigation, independent of Fragments/Views
