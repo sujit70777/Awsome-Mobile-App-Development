@@ -223,3 +223,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [EventBus](https://github.com/greenrobot/EventBus) - Simplifies communication between Activities, Fragments, and background threads
 - [simple-stack](https://github.com/Zhuinden/simple-stack) - A simple backstack for handling Android navigation, independent of Fragments/Views
 - [ViewAnimator](https://github.com/florent37/ViewAnimator) - Android view animations, powerful and easy to use
+- [Conductor](https://github.com/bluelinelabs/Conductor) - A small, view-based framework for building Android applications
