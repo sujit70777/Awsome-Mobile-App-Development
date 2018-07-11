@@ -227,3 +227,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection
 - [Android-Iconics](https://github.com/mikepenz/Android-Iconics) - Use any icon font or vector/icon pack in your Android project
 - [floatingsearchview](https://github.com/arimorty/floatingsearchview) - Android UI widget implementing a floating search box
+- [android-architecture](https://github.com/googlesamples/android-architecture) - A collection of samples showcasing different architectural approaches for Android apps
