@@ -229,3 +229,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [floatingsearchview](https://github.com/arimorty/floatingsearchview) - Android UI widget implementing a floating search box
 - [android-architecture](https://github.com/googlesamples/android-architecture) - A collection of samples showcasing different architectural approaches for Android apps
 - [FloatingActionButton](https://github.com/Clans/FloatingActionButton) - Android Floating Action Button with Material Design animations
+- [OkHttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications
