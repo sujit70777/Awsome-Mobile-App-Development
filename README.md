@@ -230,3 +230,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [android-architecture](https://github.com/googlesamples/android-architecture) - A collection of samples showcasing different architectural approaches for Android apps
 - [FloatingActionButton](https://github.com/Clans/FloatingActionButton) - Android Floating Action Button with Material Design animations
 - [OkHttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications
+- [Okio](https://github.com/square/okio) - A modern I/O library that complements java.io and java.nio
