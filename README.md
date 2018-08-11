@@ -24,7 +24,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [SearchFilter](https://github.com/Yalantis/SearchFilter) - Implementing Search Filter Animation in Kotlin for Quora Meets LinkedIn, Our App Design Concept
 - [Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin) - A showcase music app for Android entirely written using Kotlin language
 - [Kotlin-Android-Template](https://github.com/nekocode/Kotlin-Android-Template) - 🚀 An Android project template using Kotlin/MVP/ReactiveX. It provides a generator to fast create a Kotlin Android tem...
-- [android-snowfall](https://github.com/JetradarMobile/android-snowfall) - Fully customizable implementation of "Snowfall View" on Android .
+- [android-snowfall](https://github.com/JetradarMobile/android-snowfall) - Fully customizable implementation of "Snowfall View" on Android.
 - [debug-bottle](https://github.com/kiruto/debug-bottle) - 🍼 Debug Bottle is an Android runtime debug / develop tools written using kotlin language.
 - [Bubble-Picker](https://github.com/igalata/Bubble-Picker) - An easy-to-use animation which can be used for content picking for Android
 - [tachiyomi](https://github.com/inorichi/tachiyomi) - Free and open source manga reader for Android
