@@ -235,3 +235,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [MaterialViewPager](https://github.com/florent37/MaterialViewPager) - Android Library - Material ViewPager in your app
 - [greenDAO](https://github.com/greenrobot/greenDAO) - An Android ORM making SQLite database access easy
 - [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) - Android RecyclerView Animators
+- [iosched](https://github.com/google/iosched) - The Google I/O Android app
