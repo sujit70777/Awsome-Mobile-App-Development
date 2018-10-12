@@ -245,3 +245,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful Android chart view / graph view library
 - [DBFlow](https://github.com/Raizlabs/DBFlow) - A robust, powerful, and very simple ORM android database library
+- [Gson](https://github.com/google/gson) - A Java/Kotlin library for converting Java Objects into JSON and back
