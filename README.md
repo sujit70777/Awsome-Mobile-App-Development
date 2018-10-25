@@ -2,7 +2,6 @@
 
 A list of awesome Kotlin android projects, libraries, documents and other resources.
 
-
 ## Website
 
 - [Kotlin Home](https://kotlinlang.org/)
