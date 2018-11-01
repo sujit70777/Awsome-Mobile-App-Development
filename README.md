@@ -247,3 +247,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Gson](https://github.com/google/gson) - A Java/Kotlin library for converting Java Objects into JSON and back
 - [shimmer-android](https://github.com/facebook/shimmer-android) - An easy way to add a shimmering effect to views, like the one used at the top of Facebook News Feed
 - [Litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android
+- [Epoxy](https://github.com/airbnb/epoxy) - Android library for building complex RecyclerView layouts
