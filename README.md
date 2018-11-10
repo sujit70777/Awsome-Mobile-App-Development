@@ -249,3 +249,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android
 - [Epoxy](https://github.com/airbnb/epoxy) - Android library for building complex RecyclerView layouts
 - [CircleImageView](https://github.com/hdodenhof/CircleImageView) - A circular ImageView for Android
+- [Koin](https://github.com/InsertKoinIO/koin) - A pragmatic lightweight dependency injection framework for Kotlin
