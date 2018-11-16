@@ -250,3 +250,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Epoxy](https://github.com/airbnb/epoxy) - Android library for building complex RecyclerView layouts
 - [CircleImageView](https://github.com/hdodenhof/CircleImageView) - A circular ImageView for Android
 - [Koin](https://github.com/InsertKoinIO/koin) - A pragmatic lightweight dependency injection framework for Kotlin
+- [PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher) - A fully annotation based API to handle Android runtime permissions
