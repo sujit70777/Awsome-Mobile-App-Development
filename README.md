@@ -252,3 +252,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Koin](https://github.com/InsertKoinIO/koin) - A pragmatic lightweight dependency injection framework for Kotlin
 - [PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher) - A fully annotation based API to handle Android runtime permissions
 - [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip) - An interactive indicator to navigate between the different pages of a ViewPager
+- [RoundedImageView](https://github.com/vinc3m1/RoundedImageView) - Fast rounded corners and rounded circle ImageView for Android
