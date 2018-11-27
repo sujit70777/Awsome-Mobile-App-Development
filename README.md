@@ -254,3 +254,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip) - An interactive indicator to navigate between the different pages of a ViewPager
 - [RoundedImageView](https://github.com/vinc3m1/RoundedImageView) - Fast rounded corners and rounded circle ImageView for Android
 - [mockito-kotlin](https://github.com/nhaarman/mockito-kotlin) - Using Mockito with Kotlin
+- [NumberProgressBar](https://github.com/daimajia/NumberProgressBar) - Yet another cool progress bar which indicates progress by numbers
