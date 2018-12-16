@@ -256,3 +256,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [mockito-kotlin](https://github.com/nhaarman/mockito-kotlin) - Using Mockito with Kotlin
 - [NumberProgressBar](https://github.com/daimajia/NumberProgressBar) - Yet another cool progress bar which indicates progress by numbers
 - [ThreeTenABP](https://github.com/JakeWharton/threetenabp) - Android backport of the ThreeTen date/time library
+- [nachos](https://github.com/hootsuite/nachos) - An Android library that facilitates the creation of a chip auto-complete field
