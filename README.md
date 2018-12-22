@@ -257,3 +257,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [NumberProgressBar](https://github.com/daimajia/NumberProgressBar) - Yet another cool progress bar which indicates progress by numbers
 - [ThreeTenABP](https://github.com/JakeWharton/threetenabp) - Android backport of the ThreeTen date/time library
 - [nachos](https://github.com/hootsuite/nachos) - An Android library that facilitates the creation of a chip auto-complete field
+- [subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view) - Custom view with pan and zoom gestures for large images
