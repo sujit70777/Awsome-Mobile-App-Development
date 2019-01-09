@@ -261,3 +261,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Agera](https://github.com/google/agera) - A reactive programming library for Android from Google
 - [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) - An easy to use library that provides a nice and easy way to use a drawer
 - [glide-transformations](https://github.com/wasabeef/glide-transformations) - An Android transformation library for Glide
+
+## More Resources
+
+- [Kotlin Slack](https://surveys.jetbrains.com/s3/kotlin-slack-sign-up) - Official Kotlin Slack community sign-up
