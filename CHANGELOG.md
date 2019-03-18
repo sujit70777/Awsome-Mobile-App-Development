@@ -13,3 +13,6 @@ Notable changes to this project.
 
 ### 2019-03-17
 - Minor cleanup and organization.
+
+### 2019-03-18
+- Added new library references.
