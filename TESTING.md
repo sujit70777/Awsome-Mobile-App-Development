@@ -7,3 +7,4 @@ Testing tools and frameworks for Android and Kotlin projects.
 - [Spek](https://github.com/spekframework/spek) - A Kotlin specification framework for the JVM
 - [AssertJ Android](https://github.com/square/assertj-android) - Extension for AssertJ for Android specific tests
 - [Spoon](https://github.com/square/spoon) - Distributed instrumentation test runner for Android
+- [Truth](https://github.com/google/truth) - Fluent assertions library for Java and Android
