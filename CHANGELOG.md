@@ -16,3 +16,6 @@ Notable changes to this project.
 
 ### 2019-03-18
 - Added new library references.
+
+### 2019-03-24
+- Added a few new resources.
