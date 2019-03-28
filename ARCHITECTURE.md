@@ -6,3 +6,4 @@ Architecture patterns, sample apps, and related libraries for Android.
 - [RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework
 - [Toothpick](https://github.com/stephanenicolas/toothpick) - A scope tree based Dependency Injection library
 - [Store](https://github.com/dropbox/Store) - A functional reactive framework for data loading
+- [AutoDispose](https://github.com/uber/AutoDispose) - Automatic binding+disposal of RxJava streams
