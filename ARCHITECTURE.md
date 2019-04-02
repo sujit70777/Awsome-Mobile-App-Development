@@ -7,3 +7,4 @@ Architecture patterns, sample apps, and related libraries for Android.
 - [Toothpick](https://github.com/stephanenicolas/toothpick) - A scope tree based Dependency Injection library
 - [Store](https://github.com/dropbox/Store) - A functional reactive framework for data loading
 - [AutoDispose](https://github.com/uber/AutoDispose) - Automatic binding+disposal of RxJava streams
+- [RxLifecycle](https://github.com/trello/RxLifecycle) - Lifecycle handling APIs for Android when using RxJava
