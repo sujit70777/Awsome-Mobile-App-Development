@@ -9,3 +9,4 @@ Architecture patterns, sample apps, and related libraries for Android.
 - [AutoDispose](https://github.com/uber/AutoDispose) - Automatic binding+disposal of RxJava streams
 - [RxLifecycle](https://github.com/trello/RxLifecycle) - Lifecycle handling APIs for Android when using RxJava
 - [android-boilerplate](https://github.com/ribot/android-boilerplate) - A boilerplate for Android with MVP architecture
+- [uamp](https://github.com/android/uamp) - Universal Android Music Player sample
