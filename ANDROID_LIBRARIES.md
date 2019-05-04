@@ -10,3 +10,4 @@ A curated list of additional Android libraries, complementing the main [README](
 - [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - A powerful and easy to use Android utils library
 - [Better-Link-Movement-Method](https://github.com/saket/Better-Link-Movement-Method) - Better handling of clickable links inside TextViews
 - [RootBeer](https://github.com/scottyab/rootbeer) - Root detection library for Android
+- [kotlinx.html](https://github.com/Kotlin/kotlinx.html) - DSL for building HTML in Kotlin
