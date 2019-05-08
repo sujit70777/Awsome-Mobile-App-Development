@@ -10,3 +10,4 @@ Architecture patterns, sample apps, and related libraries for Android.
 - [RxLifecycle](https://github.com/trello/RxLifecycle) - Lifecycle handling APIs for Android when using RxJava
 - [android-boilerplate](https://github.com/ribot/android-boilerplate) - A boilerplate for Android with MVP architecture
 - [uamp](https://github.com/android/uamp) - Universal Android Music Player sample
+- [tivi](https://github.com/chrisbanes/tivi) - TV show tracking Android app, used as an architecture reference
