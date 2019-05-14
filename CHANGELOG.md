@@ -22,3 +22,6 @@ Notable changes to this project.
 
 ### 2019-05-10
 - General maintenance.
+
+### 2019-05-14
+- Minor cleanup and organization.
