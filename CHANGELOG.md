@@ -34,3 +34,6 @@ Notable changes to this project.
 
 ### 2019-05-17
 - Small documentation improvements.
+
+### 2019-05-27
+- Minor cleanup and organization.
