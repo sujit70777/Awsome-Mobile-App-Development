@@ -12,3 +12,4 @@ Architecture patterns, sample apps, and related libraries for Android.
 - [uamp](https://github.com/android/uamp) - Universal Android Music Player sample
 - [tivi](https://github.com/chrisbanes/tivi) - TV show tracking Android app, used as an architecture reference
 - [android-sunflower](https://github.com/googlesamples/android-sunflower) - A gardening app illustrating Android Jetpack architecture
+- [animation-samples](https://github.com/android/animation-samples) - Official Android animation sample apps
