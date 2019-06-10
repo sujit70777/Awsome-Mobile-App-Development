@@ -37,3 +37,6 @@ Notable changes to this project.
 
 ### 2019-05-27
 - Minor cleanup and organization.
+
+### 2019-06-10
+- Added a few new resources.
