@@ -12,3 +12,4 @@ A curated list of additional Android libraries, complementing the main [README](
 - [RootBeer](https://github.com/scottyab/rootbeer) - Root detection library for Android
 - [kotlinx.html](https://github.com/Kotlin/kotlinx.html) - DSL for building HTML in Kotlin
 - [kotlinx.cli](https://github.com/Kotlin/kotlinx.cli) - Kotlin command-line interface parsing library
+- [Wire](https://github.com/square/wire) - Protocol buffers for Android, Kotlin, and Java
