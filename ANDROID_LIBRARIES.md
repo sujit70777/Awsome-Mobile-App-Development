@@ -14,3 +14,4 @@ A curated list of additional Android libraries, complementing the main [README](
 - [kotlinx.cli](https://github.com/Kotlin/kotlinx.cli) - Kotlin command-line interface parsing library
 - [Wire](https://github.com/square/wire) - Protocol buffers for Android, Kotlin, and Java
 - [JavaPoet](https://github.com/square/javapoet) - A Java API for generating source files
+- [Seismic](https://github.com/square/seismic) - Shake detection library for Android
