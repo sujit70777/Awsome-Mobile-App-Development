@@ -10,3 +10,4 @@ Developer tools and utilities for Android and Kotlin development.
 - [Hyperion-Android](https://github.com/willowtreeapps/Hyperion-Android) - An in-app tool window for debugging on Android
 - [Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - View and edit your app database and preferences in browser
 - [Telescope](https://github.com/mattprecious/telescope) - Automatic bug reporting for Android apps
+- [gradle-license-plugin](https://github.com/jaredsburrows/gradle-license-plugin) - Gradle plugin for generating license reports
