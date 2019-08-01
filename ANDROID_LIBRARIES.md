@@ -16,3 +16,4 @@ A curated list of additional Android libraries, complementing the main [README](
 - [JavaPoet](https://github.com/square/javapoet) - A Java API for generating source files
 - [Seismic](https://github.com/square/seismic) - Shake detection library for Android
 - [Tape](https://github.com/square/tape) - A lightweight, efficient, file-based FIFO queue
+- [Otto](https://github.com/square/otto) - An enhanced event bus with emphasis on Android support
