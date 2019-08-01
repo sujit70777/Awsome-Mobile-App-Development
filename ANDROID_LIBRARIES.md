@@ -15,3 +15,4 @@ A curated list of additional Android libraries, complementing the main [README](
 - [Wire](https://github.com/square/wire) - Protocol buffers for Android, Kotlin, and Java
 - [JavaPoet](https://github.com/square/javapoet) - A Java API for generating source files
 - [Seismic](https://github.com/square/seismic) - Shake detection library for Android
+- [Tape](https://github.com/square/tape) - A lightweight, efficient, file-based FIFO queue
