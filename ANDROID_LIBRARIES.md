@@ -18,3 +18,4 @@ A curated list of additional Android libraries, complementing the main [README](
 - [Tape](https://github.com/square/tape) - A lightweight, efficient, file-based FIFO queue
 - [Otto](https://github.com/square/otto) - An enhanced event bus with emphasis on Android support
 - [kotlinx.atomicfu](https://github.com/Kotlin/kotlinx.atomicfu) - Atomic operations library for Kotlin multiplatform
+- [Reaktive](https://github.com/badoo/Reaktive) - Kotlin multiplatform reactive extensions
