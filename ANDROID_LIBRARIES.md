@@ -20,3 +20,4 @@ A curated list of additional Android libraries, complementing the main [README](
 - [kotlinx.atomicfu](https://github.com/Kotlin/kotlinx.atomicfu) - Atomic operations library for Kotlin multiplatform
 - [Reaktive](https://github.com/badoo/Reaktive) - Kotlin multiplatform reactive extensions
 - [RxAndroidBle](https://github.com/Polidea/RxAndroidBle) - Reactive Bluetooth Low Energy library for Android
+- [Paris](https://github.com/airbnb/paris) - Airbnb's Android styling library
