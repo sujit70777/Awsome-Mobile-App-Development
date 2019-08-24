@@ -12,3 +12,4 @@ Developer tools and utilities for Android and Kotlin development.
 - [Telescope](https://github.com/mattprecious/telescope) - Automatic bug reporting for Android apps
 - [gradle-license-plugin](https://github.com/jaredsburrows/gradle-license-plugin) - Gradle plugin for generating license reports
 - [gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin) - Gradle plugin for publishing artifacts to Maven repositories
+- [gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher) - Gradle plugin to upload builds to the Google Play Store
