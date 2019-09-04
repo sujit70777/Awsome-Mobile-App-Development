@@ -64,3 +64,6 @@ Notable changes to this project.
 
 ### 2019-09-03
 - Added new library references.
+
+### 2019-09-04
+- Small documentation improvements.
