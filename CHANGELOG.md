@@ -70,3 +70,6 @@ Notable changes to this project.
 
 ### 2019-09-06
 - Updated resource links.
+
+### 2019-09-07
+- Added a few new resources.
