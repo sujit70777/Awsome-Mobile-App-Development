@@ -79,3 +79,6 @@ Notable changes to this project.
 
 ### 2019-09-19
 - Added new library references.
+
+### 2019-09-27
+- General maintenance.
