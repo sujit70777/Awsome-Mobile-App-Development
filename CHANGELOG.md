@@ -85,3 +85,6 @@ Notable changes to this project.
 
 ### 2019-10-04
 - General maintenance.
+
+### 2019-10-09
+- Updated resource links.
