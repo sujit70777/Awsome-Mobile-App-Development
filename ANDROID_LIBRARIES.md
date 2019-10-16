@@ -33,3 +33,4 @@ A curated list of additional Android libraries, complementing the main [README](
 - [Rebound](https://github.com/facebook/rebound) - Java library for modeling spring dynamics
 - [SoLoader](https://github.com/facebook/SoLoader) - Native code loader for Android
 - [EasyPermissions](https://github.com/googlesamples/easypermissions) - Simplify Android M system permissions
+- [Ktor](https://github.com/ktorio/ktor) - Framework for building asynchronous servers and clients in Kotlin
