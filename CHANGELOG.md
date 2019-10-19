@@ -88,3 +88,6 @@ Notable changes to this project.
 
 ### 2019-10-09
 - Updated resource links.
+
+### 2019-10-19
+- Added a few new resources.
