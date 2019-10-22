@@ -91,3 +91,6 @@ Notable changes to this project.
 
 ### 2019-10-19
 - Added a few new resources.
+
+### 2019-10-22
+- Reorganized a few entries.
