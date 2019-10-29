@@ -100,3 +100,6 @@ Notable changes to this project.
 
 ### 2019-10-27
 - Reorganized a few entries.
+
+### 2019-10-29
+- Small documentation improvements.
