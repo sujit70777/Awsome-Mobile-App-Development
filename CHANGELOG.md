@@ -121,3 +121,6 @@ Notable changes to this project.
 
 ### 2019-11-18
 - Small documentation improvements.
+
+### 2019-11-21
+- Small documentation improvements.
