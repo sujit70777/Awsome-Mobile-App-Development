@@ -130,3 +130,6 @@ Notable changes to this project.
 
 ### 2019-11-25
 - Small documentation improvements.
+
+### 2019-12-01
+- Minor cleanup and organization.
