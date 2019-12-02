@@ -133,3 +133,6 @@ Notable changes to this project.
 
 ### 2019-12-01
 - Minor cleanup and organization.
+
+### 2019-12-02
+- Added a few new resources.
