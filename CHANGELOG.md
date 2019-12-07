@@ -139,3 +139,6 @@ Notable changes to this project.
 
 ### 2019-12-04
 - Added new library references.
+
+### 2019-12-07
+- Updated resource links.
