@@ -154,3 +154,6 @@ Notable changes to this project.
 
 ### 2019-12-12
 - General maintenance.
+
+### 2019-12-13
+- Reorganized a few entries.
