@@ -160,3 +160,6 @@ Notable changes to this project.
 
 ### 2019-12-13
 - Reorganized a few entries.
+
+### 2019-12-14
+- Minor cleanup and organization.
