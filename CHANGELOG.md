@@ -181,3 +181,6 @@ Notable changes to this project.
 
 ### 2019-12-29
 - Added a few new resources.
+
+### 2019-12-30
+- Updated resource links.
