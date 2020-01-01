@@ -187,3 +187,6 @@ Notable changes to this project.
 
 ### 2019-12-31
 - Updated resource links.
+
+### 2020-01-01
+- Small documentation improvements.
