@@ -190,3 +190,6 @@ Notable changes to this project.
 
 ### 2020-01-01
 - Small documentation improvements.
+
+### 2020-01-04
+- Small wording tweak.
