@@ -205,3 +205,6 @@ Notable changes to this project.
 
 ### 2020-01-19
 - Reorganized a few entries.
+
+### 2020-01-19
+- Routine maintenance pass.
