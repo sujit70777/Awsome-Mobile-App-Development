@@ -211,3 +211,6 @@ Notable changes to this project.
 
 ### 2020-01-20
 - Updated a few links.
+
+### 2020-01-23
+- Housekeeping update.
