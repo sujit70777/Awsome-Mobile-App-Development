@@ -214,3 +214,6 @@ Notable changes to this project.
 
 ### 2020-01-23
 - Housekeeping update.
+
+### 2020-01-25
+- Small documentation improvements.
