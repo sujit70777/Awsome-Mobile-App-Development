@@ -223,3 +223,6 @@ Notable changes to this project.
 
 ### 2020-01-27
 - Minor cleanup.
+
+### 2020-02-04
+- Updated a few links.
