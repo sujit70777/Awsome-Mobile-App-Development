@@ -226,3 +226,6 @@ Notable changes to this project.
 
 ### 2020-02-04
 - Updated a few links.
+
+### 2020-02-05
+- Small wording tweak.
