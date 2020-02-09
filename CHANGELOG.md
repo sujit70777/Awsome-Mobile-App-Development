@@ -232,3 +232,6 @@ Notable changes to this project.
 
 ### 2020-02-09
 - Housekeeping update.
+
+### 2020-02-09
+- Minor cleanup.
