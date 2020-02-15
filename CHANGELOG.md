@@ -238,3 +238,6 @@ Notable changes to this project.
 
 ### 2020-02-15
 - Updated a few links.
+
+### 2020-02-15
+- Reorganized a few entries.
