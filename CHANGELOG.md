@@ -247,3 +247,6 @@ Notable changes to this project.
 
 ### 2020-02-18
 - General maintenance.
+
+### 2020-02-24
+- Fixed minor formatting.
