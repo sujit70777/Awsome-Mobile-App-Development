@@ -250,3 +250,6 @@ Notable changes to this project.
 
 ### 2020-02-24
 - Fixed minor formatting.
+
+### 2020-02-25
+- Housekeeping update.
