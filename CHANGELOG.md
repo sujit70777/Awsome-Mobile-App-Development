@@ -265,3 +265,6 @@ Notable changes to this project.
 
 ### 2020-02-29
 - General maintenance.
+
+### 2020-03-01
+- Small wording tweak.
