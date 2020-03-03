@@ -268,3 +268,6 @@ Notable changes to this project.
 
 ### 2020-03-01
 - Small wording tweak.
+
+### 2020-03-03
+- Fixed minor formatting.
