@@ -277,3 +277,6 @@ Notable changes to this project.
 
 ### 2020-03-05
 - Routine maintenance pass.
+
+### 2020-03-07
+- Housekeeping update.
