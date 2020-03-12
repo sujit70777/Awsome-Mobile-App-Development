@@ -283,3 +283,6 @@ Notable changes to this project.
 
 ### 2020-03-08
 - General maintenance.
+
+### 2020-03-12
+- Minor cleanup.
