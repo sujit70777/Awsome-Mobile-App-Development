@@ -289,3 +289,6 @@ Notable changes to this project.
 
 ### 2020-03-13
 - Housekeeping update.
+
+### 2020-03-18
+- Reorganized a few entries.
