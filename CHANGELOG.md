@@ -310,3 +310,6 @@ Notable changes to this project.
 
 ### 2020-04-02
 - General maintenance.
+
+### 2020-04-04
+- Small documentation improvements.
