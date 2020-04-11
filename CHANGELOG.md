@@ -322,3 +322,6 @@ Notable changes to this project.
 
 ### 2020-04-10
 - Routine maintenance pass.
+
+### 2020-04-11
+- Reorganized a few entries.
