@@ -328,3 +328,6 @@ Notable changes to this project.
 
 ### 2020-04-15
 - General maintenance.
+
+### 2020-04-21
+- Reorganized a few entries.
