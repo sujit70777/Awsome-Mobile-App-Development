@@ -331,3 +331,6 @@ Notable changes to this project.
 
 ### 2020-04-21
 - Reorganized a few entries.
+
+### 2020-04-24
+- Small wording tweak.
