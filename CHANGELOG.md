@@ -340,3 +340,6 @@ Notable changes to this project.
 
 ### 2020-05-06
 - Small wording tweak.
+
+### 2020-05-08
+- Small wording tweak.
