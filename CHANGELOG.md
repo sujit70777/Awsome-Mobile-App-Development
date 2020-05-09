@@ -343,3 +343,6 @@ Notable changes to this project.
 
 ### 2020-05-08
 - Small wording tweak.
+
+### 2020-05-09
+- Routine maintenance pass.
