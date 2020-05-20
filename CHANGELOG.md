@@ -358,3 +358,6 @@ Notable changes to this project.
 
 ### 2020-05-19
 - Small documentation improvements.
+
+### 2020-05-20
+- Routine maintenance pass.
