@@ -364,3 +364,6 @@ Notable changes to this project.
 
 ### 2020-05-24
 - Housekeeping update.
+
+### 2020-05-24
+- Updated a few links.
