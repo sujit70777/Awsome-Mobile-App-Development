@@ -370,3 +370,6 @@ Notable changes to this project.
 
 ### 2020-05-25
 - Housekeeping update.
+
+### 2020-05-27
+- Reorganized a few entries.
