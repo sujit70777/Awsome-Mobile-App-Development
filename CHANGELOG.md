@@ -373,3 +373,6 @@ Notable changes to this project.
 
 ### 2020-05-27
 - Reorganized a few entries.
+
+### 2020-05-29
+- Reorganized a few entries.
