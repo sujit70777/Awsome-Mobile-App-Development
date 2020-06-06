@@ -382,3 +382,6 @@ Notable changes to this project.
 
 ### 2020-06-05
 - Routine maintenance pass.
+
+### 2020-06-06
+- Small wording tweak.
