@@ -388,3 +388,6 @@ Notable changes to this project.
 
 ### 2020-06-09
 - Housekeeping update.
+
+### 2020-06-13
+- Updated a few links.
