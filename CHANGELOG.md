@@ -394,3 +394,6 @@ Notable changes to this project.
 
 ### 2020-06-15
 - General maintenance.
+
+### 2020-06-18
+- Housekeeping update.
