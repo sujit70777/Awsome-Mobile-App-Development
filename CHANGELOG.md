@@ -409,3 +409,6 @@ Notable changes to this project.
 
 ### 2020-06-24
 - Small documentation improvements.
+
+### 2020-06-28
+- Reorganized a few entries.
