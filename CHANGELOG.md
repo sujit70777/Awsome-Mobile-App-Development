@@ -412,3 +412,6 @@ Notable changes to this project.
 
 ### 2020-06-28
 - Reorganized a few entries.
+
+### 2020-06-30
+- Minor cleanup.
