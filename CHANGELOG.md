@@ -415,3 +415,6 @@ Notable changes to this project.
 
 ### 2020-06-30
 - Minor cleanup.
+
+### 2020-07-03
+- Housekeeping update.
