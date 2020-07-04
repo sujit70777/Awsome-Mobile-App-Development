@@ -418,3 +418,6 @@ Notable changes to this project.
 
 ### 2020-07-03
 - Housekeeping update.
+
+### 2020-07-04
+- Fixed minor formatting.
