@@ -421,3 +421,6 @@ Notable changes to this project.
 
 ### 2020-07-04
 - Fixed minor formatting.
+
+### 2020-07-05
+- Updated a few links.
