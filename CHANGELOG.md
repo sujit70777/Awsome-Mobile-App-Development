@@ -430,3 +430,6 @@ Notable changes to this project.
 
 ### 2020-07-07
 - Updated a few links.
+
+### 2020-07-10
+- Small wording tweak.
