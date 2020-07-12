@@ -433,3 +433,6 @@ Notable changes to this project.
 
 ### 2020-07-10
 - Small wording tweak.
+
+### 2020-07-12
+- Routine maintenance pass.
