@@ -442,3 +442,6 @@ Notable changes to this project.
 
 ### 2020-07-22
 - Reorganized a few entries.
+
+### 2020-07-23
+- Reorganized a few entries.
