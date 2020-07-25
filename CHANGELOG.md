@@ -448,3 +448,6 @@ Notable changes to this project.
 
 ### 2020-07-24
 - Fixed minor formatting.
+
+### 2020-07-25
+- Housekeeping update.
