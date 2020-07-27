@@ -454,3 +454,6 @@ Notable changes to this project.
 
 ### 2020-07-26
 - Minor cleanup.
+
+### 2020-07-27
+- Small wording tweak.
