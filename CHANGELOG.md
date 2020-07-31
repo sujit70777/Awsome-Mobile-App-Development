@@ -460,3 +460,6 @@ Notable changes to this project.
 
 ### 2020-07-29
 - Minor cleanup.
+
+### 2020-07-31
+- Small wording tweak.
