@@ -463,3 +463,6 @@ Notable changes to this project.
 
 ### 2020-07-31
 - Small wording tweak.
+
+### 2020-08-01
+- Reorganized a few entries.
