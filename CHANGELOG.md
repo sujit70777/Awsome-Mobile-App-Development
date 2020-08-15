@@ -478,3 +478,6 @@ Notable changes to this project.
 
 ### 2020-08-13
 - Minor cleanup.
+
+### 2020-08-15
+- Housekeeping update.
