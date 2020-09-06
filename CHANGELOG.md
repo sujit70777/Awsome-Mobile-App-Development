@@ -499,3 +499,6 @@ Notable changes to this project.
 
 ### 2020-08-29
 - General maintenance.
+
+### 2020-09-06
+- Fixed minor formatting.
