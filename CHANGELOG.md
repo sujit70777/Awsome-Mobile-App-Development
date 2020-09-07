@@ -502,3 +502,6 @@ Notable changes to this project.
 
 ### 2020-09-06
 - Fixed minor formatting.
+
+### 2020-09-07
+- General maintenance.
