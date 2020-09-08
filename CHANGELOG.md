@@ -505,3 +505,6 @@ Notable changes to this project.
 
 ### 2020-09-07
 - General maintenance.
+
+### 2020-09-08
+- Housekeeping update.
