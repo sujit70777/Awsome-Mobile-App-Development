@@ -508,3 +508,6 @@ Notable changes to this project.
 
 ### 2020-09-08
 - Housekeeping update.
+
+### 2020-09-09
+- Reorganized a few entries.
