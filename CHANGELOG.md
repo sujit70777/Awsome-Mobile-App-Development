@@ -520,3 +520,6 @@ Notable changes to this project.
 
 ### 2020-09-12
 - Reorganized a few entries.
+
+### 2020-09-12
+- Small documentation improvements.
