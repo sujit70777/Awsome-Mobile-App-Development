@@ -523,3 +523,6 @@ Notable changes to this project.
 
 ### 2020-09-12
 - Small documentation improvements.
+
+### 2020-09-13
+- Reorganized a few entries.
