@@ -526,3 +526,6 @@ Notable changes to this project.
 
 ### 2020-09-13
 - Reorganized a few entries.
+
+### 2020-09-13
+- Routine maintenance pass.
