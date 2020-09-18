@@ -538,3 +538,6 @@ Notable changes to this project.
 
 ### 2020-09-17
 - Small wording tweak.
+
+### 2020-09-18
+- Small documentation improvements.
