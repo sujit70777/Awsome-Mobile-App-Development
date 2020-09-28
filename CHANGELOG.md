@@ -553,3 +553,6 @@ Notable changes to this project.
 
 ### 2020-09-27
 - Updated a few links.
+
+### 2020-09-28
+- Routine maintenance pass.
