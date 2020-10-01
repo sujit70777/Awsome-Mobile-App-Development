@@ -559,3 +559,6 @@ Notable changes to this project.
 
 ### 2020-09-29
 - Minor cleanup.
+
+### 2020-10-01
+- Updated a few links.
