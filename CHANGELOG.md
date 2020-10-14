@@ -574,3 +574,6 @@ Notable changes to this project.
 
 ### 2020-10-14
 - Fixed minor formatting.
+
+### 2020-10-14
+- Minor cleanup.
