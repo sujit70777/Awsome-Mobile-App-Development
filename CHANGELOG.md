@@ -580,3 +580,6 @@ Notable changes to this project.
 
 ### 2020-10-17
 - Small documentation improvements.
+
+### 2020-10-20
+- Routine maintenance pass.
