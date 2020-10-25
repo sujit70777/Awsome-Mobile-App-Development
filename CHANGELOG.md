@@ -583,3 +583,6 @@ Notable changes to this project.
 
 ### 2020-10-20
 - Routine maintenance pass.
+
+### 2020-10-25
+- Small wording tweak.
