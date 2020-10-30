@@ -589,3 +589,6 @@ Notable changes to this project.
 
 ### 2020-10-29
 - General maintenance.
+
+### 2020-10-30
+- Reorganized a few entries.
