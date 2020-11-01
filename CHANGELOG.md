@@ -592,3 +592,6 @@ Notable changes to this project.
 
 ### 2020-10-30
 - Reorganized a few entries.
+
+### 2020-11-01
+- Minor cleanup.
