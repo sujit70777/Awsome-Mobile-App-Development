@@ -604,3 +604,6 @@ Notable changes to this project.
 
 ### 2020-11-04
 - Housekeeping update.
+
+### 2020-11-08
+- Routine maintenance pass.
