@@ -613,3 +613,6 @@ Notable changes to this project.
 
 ### 2020-11-15
 - General maintenance.
+
+### 2020-11-18
+- Updated a few links.
