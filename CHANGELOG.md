@@ -622,3 +622,6 @@ Notable changes to this project.
 
 ### 2020-11-19
 - Routine maintenance pass.
+
+### 2020-11-21
+- Updated a few links.
