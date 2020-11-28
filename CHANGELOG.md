@@ -628,3 +628,6 @@ Notable changes to this project.
 
 ### 2020-11-21
 - Housekeeping update.
+
+### 2020-11-28
+- Reorganized a few entries.
