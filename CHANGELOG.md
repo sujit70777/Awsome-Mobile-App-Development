@@ -640,3 +640,6 @@ Notable changes to this project.
 
 ### 2020-12-08
 - Reorganized a few entries.
+
+### 2020-12-09
+- Routine maintenance pass.
