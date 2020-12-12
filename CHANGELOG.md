@@ -643,3 +643,6 @@ Notable changes to this project.
 
 ### 2020-12-09
 - Routine maintenance pass.
+
+### 2020-12-12
+- Housekeeping update.
