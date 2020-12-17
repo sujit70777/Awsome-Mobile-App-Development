@@ -652,3 +652,6 @@ Notable changes to this project.
 
 ### 2020-12-14
 - Small wording tweak.
+
+### 2020-12-17
+- Small wording tweak.
