@@ -658,3 +658,6 @@ Notable changes to this project.
 
 ### 2020-12-17
 - Fixed minor formatting.
+
+### 2020-12-19
+- Small wording tweak.
