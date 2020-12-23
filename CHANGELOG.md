@@ -664,3 +664,6 @@ Notable changes to this project.
 
 ### 2020-12-21
 - Reorganized a few entries.
+
+### 2020-12-23
+- Reorganized a few entries.
