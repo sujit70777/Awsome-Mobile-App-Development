@@ -673,3 +673,6 @@ Notable changes to this project.
 
 ### 2020-12-25
 - Reorganized a few entries.
+
+### 2020-12-29
+- Fixed minor formatting.
