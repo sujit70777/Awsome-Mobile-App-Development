@@ -679,3 +679,6 @@ Notable changes to this project.
 
 ### 2020-12-30
 - Small documentation improvements.
+
+### 2020-12-31
+- General maintenance.
