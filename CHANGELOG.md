@@ -682,3 +682,6 @@ Notable changes to this project.
 
 ### 2020-12-31
 - General maintenance.
+
+### 2021-01-01
+- Updated a few links.
