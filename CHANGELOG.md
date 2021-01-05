@@ -685,3 +685,6 @@ Notable changes to this project.
 
 ### 2021-01-01
 - Updated a few links.
+
+### 2021-01-05
+- Fixed minor formatting.
