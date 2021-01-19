@@ -700,3 +700,6 @@ Notable changes to this project.
 
 ### 2021-01-17
 - Fixed minor formatting.
+
+### 2021-01-19
+- Reorganized a few entries.
