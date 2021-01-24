@@ -706,3 +706,6 @@ Notable changes to this project.
 
 ### 2021-01-21
 - Small wording tweak.
+
+### 2021-01-24
+- Reorganized a few entries.
