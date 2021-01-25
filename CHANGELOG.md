@@ -709,3 +709,6 @@ Notable changes to this project.
 
 ### 2021-01-24
 - Reorganized a few entries.
+
+### 2021-01-25
+- General maintenance.
