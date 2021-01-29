@@ -712,3 +712,6 @@ Notable changes to this project.
 
 ### 2021-01-25
 - General maintenance.
+
+### 2021-01-29
+- Small wording tweak.
