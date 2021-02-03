@@ -718,3 +718,6 @@ Notable changes to this project.
 
 ### 2021-01-31
 - Fixed minor formatting.
+
+### 2021-02-03
+- Small wording tweak.
