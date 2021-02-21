@@ -730,3 +730,6 @@ Notable changes to this project.
 
 ### 2021-02-20
 - Housekeeping update.
+
+### 2021-02-21
+- Minor cleanup.
