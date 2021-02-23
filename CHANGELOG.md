@@ -733,3 +733,6 @@ Notable changes to this project.
 
 ### 2021-02-21
 - Minor cleanup.
+
+### 2021-02-23
+- Updated a few links.
