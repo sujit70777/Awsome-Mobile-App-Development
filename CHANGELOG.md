@@ -748,3 +748,6 @@ Notable changes to this project.
 
 ### 2021-03-05
 - Reorganized a few entries.
+
+### 2021-03-05
+- Updated a few links.
