@@ -778,3 +778,6 @@ Notable changes to this project.
 
 ### 2021-03-22
 - Routine maintenance pass.
+
+### 2021-03-24
+- Minor cleanup.
