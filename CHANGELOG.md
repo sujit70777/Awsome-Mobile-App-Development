@@ -790,3 +790,6 @@ Notable changes to this project.
 
 ### 2021-04-02
 - Small documentation improvements.
+
+### 2021-04-03
+- Housekeeping update.
