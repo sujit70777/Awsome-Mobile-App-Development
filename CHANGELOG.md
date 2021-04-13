@@ -799,3 +799,6 @@ Notable changes to this project.
 
 ### 2021-04-06
 - Routine maintenance pass.
+
+### 2021-04-13
+- Updated a few links.
