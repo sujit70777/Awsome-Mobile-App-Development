@@ -802,3 +802,6 @@ Notable changes to this project.
 
 ### 2021-04-13
 - Updated a few links.
+
+### 2021-04-24
+- Small wording tweak.
