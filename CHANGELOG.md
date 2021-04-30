@@ -811,3 +811,6 @@ Notable changes to this project.
 
 ### 2021-04-27
 - Reorganized a few entries.
+
+### 2021-04-30
+- Small wording tweak.
