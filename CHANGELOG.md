@@ -838,3 +838,6 @@ Notable changes to this project.
 
 ### 2021-05-11
 - Housekeeping update.
+
+### 2021-05-13
+- Fixed minor formatting.
