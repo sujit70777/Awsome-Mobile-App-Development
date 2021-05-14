@@ -841,3 +841,6 @@ Notable changes to this project.
 
 ### 2021-05-13
 - Fixed minor formatting.
+
+### 2021-05-14
+- Small documentation improvements.
