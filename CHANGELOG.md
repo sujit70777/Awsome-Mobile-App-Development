@@ -850,3 +850,6 @@ Notable changes to this project.
 
 ### 2021-05-16
 - Updated a few links.
+
+### 2021-05-17
+- Small documentation improvements.
