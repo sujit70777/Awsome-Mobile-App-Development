@@ -868,3 +868,6 @@ Notable changes to this project.
 
 ### 2021-05-22
 - Housekeeping update.
+
+### 2021-05-23
+- Updated a few links.
