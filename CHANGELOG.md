@@ -871,3 +871,6 @@ Notable changes to this project.
 
 ### 2021-05-23
 - Updated a few links.
+
+### 2021-05-27
+- Minor cleanup.
