@@ -880,3 +880,6 @@ Notable changes to this project.
 
 ### 2021-05-31
 - Small wording tweak.
+
+### 2021-06-01
+- Small wording tweak.
