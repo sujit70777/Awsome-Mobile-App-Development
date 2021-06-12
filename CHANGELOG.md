@@ -901,3 +901,6 @@ Notable changes to this project.
 
 ### 2021-06-10
 - Housekeeping update.
+
+### 2021-06-12
+- Minor cleanup.
