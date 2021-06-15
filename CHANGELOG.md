@@ -904,3 +904,6 @@ Notable changes to this project.
 
 ### 2021-06-12
 - Minor cleanup.
+
+### 2021-06-15
+- General maintenance.
