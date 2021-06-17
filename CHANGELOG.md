@@ -910,3 +910,6 @@ Notable changes to this project.
 
 ### 2021-06-17
 - General maintenance.
+
+### 2021-06-17
+- Small wording tweak.
