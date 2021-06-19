@@ -913,3 +913,6 @@ Notable changes to this project.
 
 ### 2021-06-17
 - Small wording tweak.
+
+### 2021-06-19
+- Reorganized a few entries.
