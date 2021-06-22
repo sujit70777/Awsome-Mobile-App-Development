@@ -922,3 +922,6 @@ Notable changes to this project.
 
 ### 2021-06-21
 - General maintenance.
+
+### 2021-06-22
+- Small wording tweak.
