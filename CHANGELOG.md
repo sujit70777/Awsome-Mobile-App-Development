@@ -925,3 +925,6 @@ Notable changes to this project.
 
 ### 2021-06-22
 - Small wording tweak.
+
+### 2021-06-24
+- Updated a few links.
