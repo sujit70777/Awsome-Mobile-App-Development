@@ -928,3 +928,6 @@ Notable changes to this project.
 
 ### 2021-06-24
 - Updated a few links.
+
+### 2021-06-27
+- Small documentation improvements.
