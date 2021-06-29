@@ -931,3 +931,6 @@ Notable changes to this project.
 
 ### 2021-06-27
 - Small documentation improvements.
+
+### 2021-06-29
+- Reorganized a few entries.
