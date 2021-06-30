@@ -934,3 +934,6 @@ Notable changes to this project.
 
 ### 2021-06-29
 - Reorganized a few entries.
+
+### 2021-06-30
+- Housekeeping update.
