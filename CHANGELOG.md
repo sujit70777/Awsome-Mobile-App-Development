@@ -940,3 +940,6 @@ Notable changes to this project.
 
 ### 2021-07-02
 - Housekeeping update.
+
+### 2021-07-03
+- Reorganized a few entries.
