@@ -958,3 +958,6 @@ Notable changes to this project.
 
 ### 2021-07-10
 - Small wording tweak.
+
+### 2021-07-11
+- Reorganized a few entries.
