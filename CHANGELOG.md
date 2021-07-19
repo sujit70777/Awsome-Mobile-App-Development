@@ -964,3 +964,6 @@ Notable changes to this project.
 
 ### 2021-07-14
 - General maintenance.
+
+### 2021-07-19
+- Reorganized a few entries.
