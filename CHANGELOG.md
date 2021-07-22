@@ -970,3 +970,6 @@ Notable changes to this project.
 
 ### 2021-07-21
 - Routine maintenance pass.
+
+### 2021-07-22
+- Updated a few links.
