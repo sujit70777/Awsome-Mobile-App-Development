@@ -973,3 +973,6 @@ Notable changes to this project.
 
 ### 2021-07-22
 - Updated a few links.
+
+### 2021-07-25
+- Fixed minor formatting.
