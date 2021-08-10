@@ -982,3 +982,6 @@ Notable changes to this project.
 
 ### 2021-08-04
 - Small documentation improvements.
+
+### 2021-08-10
+- Minor cleanup.
