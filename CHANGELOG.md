@@ -988,3 +988,6 @@ Notable changes to this project.
 
 ### 2021-08-12
 - Updated a few links.
+
+### 2021-08-13
+- Reorganized a few entries.
