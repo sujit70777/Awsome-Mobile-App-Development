@@ -994,3 +994,6 @@ Notable changes to this project.
 
 ### 2021-08-14
 - Routine maintenance pass.
+
+### 2021-08-14
+- Updated a few links.
