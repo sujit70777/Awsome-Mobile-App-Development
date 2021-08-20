@@ -1000,3 +1000,6 @@ Notable changes to this project.
 
 ### 2021-08-18
 - Updated a few links.
+
+### 2021-08-20
+- Routine maintenance pass.
