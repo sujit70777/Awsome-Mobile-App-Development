@@ -1006,3 +1006,6 @@ Notable changes to this project.
 
 ### 2021-08-22
 - Routine maintenance pass.
+
+### 2021-08-27
+- Reorganized a few entries.
