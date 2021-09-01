@@ -1009,3 +1009,6 @@ Notable changes to this project.
 
 ### 2021-08-27
 - Reorganized a few entries.
+
+### 2021-09-01
+- Fixed minor formatting.
