@@ -1015,3 +1015,6 @@ Notable changes to this project.
 
 ### 2021-09-03
 - General maintenance.
+
+### 2021-09-05
+- Fixed minor formatting.
