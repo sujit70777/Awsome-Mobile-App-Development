@@ -1018,3 +1018,6 @@ Notable changes to this project.
 
 ### 2021-09-05
 - Fixed minor formatting.
+
+### 2021-09-06
+- Housekeeping update.
