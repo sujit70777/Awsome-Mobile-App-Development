@@ -1021,3 +1021,6 @@ Notable changes to this project.
 
 ### 2021-09-06
 - Housekeeping update.
+
+### 2021-09-10
+- Updated a few links.
