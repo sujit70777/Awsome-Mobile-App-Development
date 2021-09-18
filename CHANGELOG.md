@@ -1033,3 +1033,6 @@ Notable changes to this project.
 
 ### 2021-09-16
 - General maintenance.
+
+### 2021-09-18
+- Updated a few links.
