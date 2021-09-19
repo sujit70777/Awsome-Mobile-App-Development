@@ -1036,3 +1036,6 @@ Notable changes to this project.
 
 ### 2021-09-18
 - Updated a few links.
+
+### 2021-09-19
+- Minor cleanup.
