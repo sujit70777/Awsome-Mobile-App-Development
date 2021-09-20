@@ -1039,3 +1039,6 @@ Notable changes to this project.
 
 ### 2021-09-19
 - Minor cleanup.
+
+### 2021-09-20
+- Fixed minor formatting.
