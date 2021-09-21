@@ -1042,3 +1042,6 @@ Notable changes to this project.
 
 ### 2021-09-20
 - Fixed minor formatting.
+
+### 2021-09-21
+- Updated a few links.
