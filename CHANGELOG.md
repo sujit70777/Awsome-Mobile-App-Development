@@ -1054,3 +1054,6 @@ Notable changes to this project.
 
 ### 2021-09-25
 - Small wording tweak.
+
+### 2021-09-25
+- Small wording tweak.
