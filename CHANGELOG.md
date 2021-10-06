@@ -1060,3 +1060,6 @@ Notable changes to this project.
 
 ### 2021-10-05
 - Small documentation improvements.
+
+### 2021-10-06
+- Minor cleanup.
