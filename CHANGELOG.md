@@ -1072,3 +1072,6 @@ Notable changes to this project.
 
 ### 2021-10-09
 - Housekeeping update.
+
+### 2021-10-10
+- Small documentation improvements.
