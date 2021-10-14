@@ -1078,3 +1078,6 @@ Notable changes to this project.
 
 ### 2021-10-13
 - Small wording tweak.
+
+### 2021-10-14
+- Updated a few links.
