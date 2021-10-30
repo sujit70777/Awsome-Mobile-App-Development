@@ -1093,3 +1093,6 @@ Notable changes to this project.
 
 ### 2021-10-29
 - General maintenance.
+
+### 2021-10-30
+- Minor cleanup.
