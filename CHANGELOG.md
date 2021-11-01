@@ -1099,3 +1099,6 @@ Notable changes to this project.
 
 ### 2021-11-01
 - Housekeeping update.
+
+### 2021-11-01
+- Fixed minor formatting.
