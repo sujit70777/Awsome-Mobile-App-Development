@@ -1102,3 +1102,6 @@ Notable changes to this project.
 
 ### 2021-11-01
 - Fixed minor formatting.
+
+### 2021-11-02
+- Updated a few links.
