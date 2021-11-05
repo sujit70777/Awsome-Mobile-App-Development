@@ -1108,3 +1108,6 @@ Notable changes to this project.
 
 ### 2021-11-03
 - Small wording tweak.
+
+### 2021-11-05
+- Housekeeping update.
