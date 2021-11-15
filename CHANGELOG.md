@@ -1120,3 +1120,6 @@ Notable changes to this project.
 
 ### 2021-11-12
 - Minor cleanup.
+
+### 2021-11-15
+- Small wording tweak.
