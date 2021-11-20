@@ -1123,3 +1123,6 @@ Notable changes to this project.
 
 ### 2021-11-15
 - Small wording tweak.
+
+### 2021-11-20
+- Fixed minor formatting.
