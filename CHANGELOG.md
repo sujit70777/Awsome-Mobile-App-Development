@@ -1129,3 +1129,6 @@ Notable changes to this project.
 
 ### 2021-11-20
 - Routine maintenance pass.
+
+### 2021-11-21
+- Fixed minor formatting.
