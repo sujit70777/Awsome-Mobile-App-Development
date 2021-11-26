@@ -1138,3 +1138,6 @@ Notable changes to this project.
 
 ### 2021-11-24
 - General maintenance.
+
+### 2021-11-26
+- Small wording tweak.
