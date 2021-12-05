@@ -1153,3 +1153,6 @@ Notable changes to this project.
 
 ### 2021-11-30
 - Updated a few links.
+
+### 2021-12-05
+- Minor cleanup.
