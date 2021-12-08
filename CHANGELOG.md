@@ -1162,3 +1162,6 @@ Notable changes to this project.
 
 ### 2021-12-08
 - General maintenance.
+
+### 2021-12-08
+- Fixed minor formatting.
