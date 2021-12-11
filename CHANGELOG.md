@@ -1165,3 +1165,6 @@ Notable changes to this project.
 
 ### 2021-12-08
 - Fixed minor formatting.
+
+### 2021-12-11
+- Fixed minor formatting.
