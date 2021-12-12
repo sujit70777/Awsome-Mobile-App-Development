@@ -1168,3 +1168,6 @@ Notable changes to this project.
 
 ### 2021-12-11
 - Fixed minor formatting.
+
+### 2021-12-12
+- Small wording tweak.
