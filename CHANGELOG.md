@@ -1174,3 +1174,6 @@ Notable changes to this project.
 
 ### 2021-12-13
 - Small documentation improvements.
+
+### 2021-12-15
+- Reorganized a few entries.
