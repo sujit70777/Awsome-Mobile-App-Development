@@ -1186,3 +1186,6 @@ Notable changes to this project.
 
 ### 2021-12-19
 - General maintenance.
+
+### 2021-12-21
+- Housekeeping update.
