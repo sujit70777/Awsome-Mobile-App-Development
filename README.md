@@ -3,16 +3,17 @@
 
 ## Table of Contents
 
-- [Website](#website)
-- [Android](#android)
-- [Tools](#tools)
-- [Resources](#resources)
-- [Others](#others)
-- [More Libraries](#more-libraries)
-- [Android Libraries](ANDROID_LIBRARIES.md)
-- [Testing](TESTING.md)
-- [Architecture](ARCHITECTURE.md)
-- [Tools & Utilities](TOOLS.md)
+- [Awesome-kotlin-android](#awesome-kotlin-android)
+  - [Table of Contents](#table-of-contents)
+  - [Website](#website)
+  - [Android](#android)
+  - [Libraries](#libraries)
+  - [Tutorials](#tutorials)
+  - [Tools](#tools)
+  - [Resources](#resources)
+  - [Others](#others)
+  - [More Libraries](#more-libraries)
+  - [More Resources](#more-resources)
 
 
 A list of awesome Kotlin android projects, libraries, documents and other resources.
@@ -33,7 +34,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Twidere-Android](https://github.com/TwidereProject/Twidere-Android)
 - [kotterknife](https://github.com/JakeWharton/kotterknife) - View "injection" library for Android.
 - [Multi-Selection](https://github.com/Yalantis/Multi-Selection) - Multiselection Solution for Android in Kotlin
-- [BlackLight](https://github.com/PaperAirplane-Dev-Team/BlackLight) - A light Sina Weibo client for Android
+- [BlackLight](https://github.com/PaperAirplane-Dev-Team/BlackLight) - A light Sina Weibo client for Android.
 - [JellyToolbar](https://github.com/Yalantis/JellyToolbar)
 - [SearchFilter](https://github.com/Yalantis/SearchFilter) - Implementing Search Filter Animation in Kotlin for Quora Meets LinkedIn, Our App Design Concept
 - [Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin) - A showcase music app for Android entirely written using Kotlin language
