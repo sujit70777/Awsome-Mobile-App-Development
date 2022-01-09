@@ -281,6 +281,6 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 ## More Resources
 
 - [Kotlin Slack](https://surveys.jetbrains.com/s3/kotlin-slack-sign-up) - Official Kotlin Slack community sign-up
-- [Android Weekly](https://androidweekly.net/) - Weekly newsletter of Android development links
+- [Android Weekly](https://androidweekly.net/) - Weekly newsletter of Android development links.
 - [Kotlin Weekly](https://kotlinweekly.net/) - Weekly newsletter of Kotlin development links
 - [/r/androiddev](https://www.reddit.com/r/androiddev/) - Android developer community on Reddit
