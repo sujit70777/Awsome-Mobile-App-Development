@@ -215,7 +215,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Glide](https://github.com/bumptech/glide) - Fast and efficient image loading library for Android
 - [LeakCanary](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java
 - [material-dialogs](https://github.com/afollestad/material-dialogs) - A beautiful, fluid, and extensible dialogs API for Kotlin and Java
-- [LoganSquare](https://github.com/bluelinelabs/LoganSquare) - Super-fast JSON parsing and serialization library for Android
+- [LoganSquare](https://github.com/bluelinelabs/LoganSquare) - Super-fast JSON parsing and serialization library for Android.
 - [Lottie](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android
 - [Retrofit](https://github.com/square/retrofit) - Type-safe HTTP client for Android and Java by Square
 - [Aesthetic](https://github.com/afollestad/aesthetic) - Android theme engine, at runtime
