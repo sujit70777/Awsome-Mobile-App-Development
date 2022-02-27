@@ -12,7 +12,7 @@ A curated list of additional Android libraries, complementing the main [README](
 - [RootBeer](https://github.com/scottyab/rootbeer) - Root detection library for Android
 - [kotlinx.html](https://github.com/Kotlin/kotlinx.html) - DSL for building HTML in Kotlin
 - [kotlinx.cli](https://github.com/Kotlin/kotlinx.cli) - Kotlin command-line interface parsing library
-- [Wire](https://github.com/square/wire) - Protocol buffers for Android, Kotlin, and Java
+- [Wire](https://github.com/square/wire) - Protocol buffers for Android, Kotlin, and Java.
 - [JavaPoet](https://github.com/square/javapoet) - A Java API for generating source files
 - [Seismic](https://github.com/square/seismic) - Shake detection library for Android
 - [Tape](https://github.com/square/tape) - A lightweight, efficient, file-based FIFO queue
