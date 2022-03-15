@@ -28,7 +28,7 @@ A curated list of additional Android libraries, complementing the main [README](
 - [Filament](https://github.com/google/filament) - Real-time physically based rendering engine
 - [AppAuth-Android](https://github.com/openid/AppAuth-Android) - OAuth2/OIDC client library for Android
 - [Lingver](https://github.com/YarikSOffice/Lingver) - Managing locales on Android made easy
-- [android-job](https://github.com/evernote/android-job) - Library to run and schedule jobs on Android
+- [android-job](https://github.com/evernote/android-job) - Library to run and schedule jobs on Android.
 - [android-priority-jobqueue](https://github.com/yigit/android-priority-jobqueue) - A JobQueue for Android with priority support
 - [Rebound](https://github.com/facebook/rebound) - Java library for modeling spring dynamics.
 - [SoLoader](https://github.com/facebook/SoLoader) - Native code loader for Android
