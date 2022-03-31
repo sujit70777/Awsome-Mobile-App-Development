@@ -231,7 +231,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [RxPermissions](https://github.com/tbruyelle/RxPermissions) - Android runtime permissions powered by RxJava
 - [Picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android.
 - [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
-- [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform / multi-format serialization
+- [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform / multi-format serialization.
 - [MockK](https://github.com/mockk/mockk) - Mocking library for Kotlin
 - [Plaid](https://github.com/nickbutcher/plaid) - An app which showcases Android UI/UX design patterns
 - [ButterKnife](https://github.com/JakeWharton/butterknife) - Field and method binding for Android views
