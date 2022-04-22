@@ -224,7 +224,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [PhotoView](https://github.com/chrisbanes/PhotoView) - Implementation of ImageView for Android that supports zooming
 - [requery](https://github.com/requery/requery) - Modern SQL based query and persistence for Java / Kotlin / Android
 - [MvRx](https://github.com/airbnb/MvRx) - Android MvRx: Model View Intent + RxJava
-- [RxJava](https://github.com/ReactiveX/RxJava) - Reactive Extensions for the JVM
+- [RxJava](https://github.com/ReactiveX/RxJava) - Reactive Extensions for the JVM.
 - [Stetho](https://github.com/facebook/stetho) - A debug bridge for Android applications.
 - [FlexboxLayout](https://github.com/google/flexbox-layout) - Android port of the CSS Flexible Box Layout Module
 - [TapTargetView](https://github.com/KeepSafe/TapTargetView) - An Android library for showing tap targets, feature discovery, etc.
