@@ -220,7 +220,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Retrofit](https://github.com/square/retrofit) - Type-safe HTTP client for Android and Java by Square
 - [Aesthetic](https://github.com/afollestad/aesthetic) - Android theme engine, at runtime.
 - [CameraView](https://github.com/natario1/CameraView) - A well documented, high-level interface that makes capturing pictures and videos easy
-- [Dagger](https://github.com/google/dagger) - A fast dependency injector for Android and Java
+- [Dagger](https://github.com/google/dagger) - A fast dependency injector for Android and Java.
 - [PhotoView](https://github.com/chrisbanes/PhotoView) - Implementation of ImageView for Android that supports zooming
 - [requery](https://github.com/requery/requery) - Modern SQL based query and persistence for Java / Kotlin / Android
 - [MvRx](https://github.com/airbnb/MvRx) - Android MvRx: Model View Intent + RxJava
