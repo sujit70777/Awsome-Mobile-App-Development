@@ -30,7 +30,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 
 ## Android
 
-- [anko](https://github.com/Kotlin/anko) - Pleasant Android application development
+- [anko](https://github.com/Kotlin/anko) - Pleasant Android application development.
 - [Twidere-Android](https://github.com/TwidereProject/Twidere-Android)
 - [kotterknife](https://github.com/JakeWharton/kotterknife) - View "injection" library for Android.
 - [Multi-Selection](https://github.com/Yalantis/Multi-Selection) - Multiselection Solution for Android in Kotlin
