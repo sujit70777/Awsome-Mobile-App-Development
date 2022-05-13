@@ -26,7 +26,7 @@ A curated list of additional Android libraries, complementing the main [README](
 - [DiagonalLayout](https://github.com/florent37/DiagonalLayout) - Android view for diagonal layouts.
 - [Oboe](https://github.com/google/oboe) - High-performance audio library for Android.
 - [Filament](https://github.com/google/filament) - Real-time physically based rendering engine
-- [AppAuth-Android](https://github.com/openid/AppAuth-Android) - OAuth2/OIDC client library for Android
+- [AppAuth-Android](https://github.com/openid/AppAuth-Android) - OAuth2/OIDC client library for Android.
 - [Lingver](https://github.com/YarikSOffice/Lingver) - Managing locales on Android made easy
 - [android-job](https://github.com/evernote/android-job) - Library to run and schedule jobs on Android.
 - [android-priority-jobqueue](https://github.com/yigit/android-priority-jobqueue) - A JobQueue for Android with priority support
