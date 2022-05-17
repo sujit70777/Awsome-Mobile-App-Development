@@ -13,7 +13,7 @@ Architecture patterns, sample apps, and related libraries for Android.
 - [tivi](https://github.com/chrisbanes/tivi) - TV show tracking Android app, used as an architecture reference
 - [android-sunflower](https://github.com/googlesamples/android-sunflower) - A gardening app illustrating Android Jetpack architecture
 - [animation-samples](https://github.com/android/animation-samples) - Official Android animation sample apps.
-- [topeka](https://github.com/android/topeka) - A quiz sample app demonstrating Android UI patterns
+- [topeka](https://github.com/android/topeka) - A quiz sample app demonstrating Android UI patterns.
 
 ## See Also
 
