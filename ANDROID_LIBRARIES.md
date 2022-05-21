@@ -13,7 +13,7 @@ A curated list of additional Android libraries, complementing the main [README](
 - [kotlinx.html](https://github.com/Kotlin/kotlinx.html) - DSL for building HTML in Kotlin
 - [kotlinx.cli](https://github.com/Kotlin/kotlinx.cli) - Kotlin command-line interface parsing library
 - [Wire](https://github.com/square/wire) - Protocol buffers for Android, Kotlin, and Java.
-- [JavaPoet](https://github.com/square/javapoet) - A Java API for generating source files
+- [JavaPoet](https://github.com/square/javapoet) - A Java API for generating source files.
 - [Seismic](https://github.com/square/seismic) - Shake detection library for Android.
 - [Tape](https://github.com/square/tape) - A lightweight, efficient, file-based FIFO queue
 - [Otto](https://github.com/square/otto) - An enhanced event bus with emphasis on Android support
