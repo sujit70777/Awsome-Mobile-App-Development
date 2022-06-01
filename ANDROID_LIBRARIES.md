@@ -10,7 +10,7 @@ A curated list of additional Android libraries, complementing the main [README](
 - [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - A powerful and easy to use Android utils library.
 - [Better-Link-Movement-Method](https://github.com/saket/Better-Link-Movement-Method) - Better handling of clickable links inside TextViews.
 - [RootBeer](https://github.com/scottyab/rootbeer) - Root detection library for Android.
-- [kotlinx.html](https://github.com/Kotlin/kotlinx.html) - DSL for building HTML in Kotlin
+- [kotlinx.html](https://github.com/Kotlin/kotlinx.html) - DSL for building HTML in Kotlin.
 - [kotlinx.cli](https://github.com/Kotlin/kotlinx.cli) - Kotlin command-line interface parsing library
 - [Wire](https://github.com/square/wire) - Protocol buffers for Android, Kotlin, and Java.
 - [JavaPoet](https://github.com/square/javapoet) - A Java API for generating source files.
