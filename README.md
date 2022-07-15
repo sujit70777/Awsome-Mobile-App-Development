@@ -185,7 +185,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [IntelliJ IDEA 15](https://www.jetbrains.com/idea/download/) - The best Kotlin IDE, support Java, Groovy, Scala and Android development.
 - [dokka](https://github.com/Kotlin/dokka) - Dokka is a documentation engine for Kotlin, performing the same function as javadoc for Java.
 - [kotlin-vim](https://github.com/udalov/kotlin-vim) - Kotlin plugin for Vim. Featuring syntax highlighting and basic indentation
-- [kotlin-sublime-package](https://github.com/vkostyukov/kotlin-sublime-package) - Sublime Text 2 Package for Kotlin Programming Language
+- [kotlin-sublime-package](https://github.com/vkostyukov/kotlin-sublime-package) - Sublime Text 2 Package for Kotlin Programming Language.
 - [language-kotlin](https://atom.io/packages/language-kotlin) - Kotlin language support in Atom.
 - [kotlin-plugin-eclipse](https://marketplace.eclipse.org/content/kotlin-plugin-eclipse) - The Kotlin Plugin for Eclipse helps you write, run, debug and test programs in Kotlin language.
 - [android-parcelable-intellij-plugin-kotlin](https://github.com/nekocode/android-parcelable-intellij-plugin-kotlin) - Plugin which generates Android Parcelable boilerplate code in Intellji/Android Studio.
