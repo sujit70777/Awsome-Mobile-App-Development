@@ -34,7 +34,7 @@ A curated list of additional Android libraries, complementing the main [README](
 - [SoLoader](https://github.com/facebook/SoLoader) - Native code loader for Android
 - [EasyPermissions](https://github.com/googlesamples/easypermissions) - Simplify Android M system permissions.
 - [Ktor](https://github.com/ktorio/ktor) - Framework for building asynchronous servers and clients in Kotlin
-- [DiskLruCache](https://github.com/JakeWharton/DiskLruCache) - A cache that uses a bounded amount of space on disk
+- [DiskLruCache](https://github.com/JakeWharton/DiskLruCache) - A cache that uses a bounded amount of space on disk.
 - [drag-select-recyclerview](https://github.com/afollestad/drag-select-recyclerview) - Drag to select multiple items in a RecyclerView.
 - [Material Components for Android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components
 
