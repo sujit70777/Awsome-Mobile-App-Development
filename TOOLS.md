@@ -13,7 +13,7 @@ Developer tools and utilities for Android and Kotlin development.
 - [gradle-license-plugin](https://github.com/jaredsburrows/gradle-license-plugin) - Gradle plugin for generating license reports.
 - [gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin) - Gradle plugin for publishing artifacts to Maven repositories
 - [gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher) - Gradle plugin to upload builds to the Google Play Store
-- [truetime-android](https://github.com/instacart/truetime-android) - NTP based time library for Android
+- [truetime-android](https://github.com/instacart/truetime-android) - NTP based time library for Android.
 - [Hugo](https://github.com/JakeWharton/hugo) - Annotation triggered method call logging for debug builds
 - [material-design-icons](https://github.com/google/material-design-icons) - Official Material Design icon library
 
