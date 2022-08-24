@@ -31,7 +31,7 @@ A curated list of additional Android libraries, complementing the main [README](
 - [android-job](https://github.com/evernote/android-job) - Library to run and schedule jobs on Android.
 - [android-priority-jobqueue](https://github.com/yigit/android-priority-jobqueue) - A JobQueue for Android with priority support.
 - [Rebound](https://github.com/facebook/rebound) - Java library for modeling spring dynamics.
-- [SoLoader](https://github.com/facebook/SoLoader) - Native code loader for Android
+- [SoLoader](https://github.com/facebook/SoLoader) - Native code loader for Android.
 - [EasyPermissions](https://github.com/googlesamples/easypermissions) - Simplify Android M system permissions.
 - [Ktor](https://github.com/ktorio/ktor) - Framework for building asynchronous servers and clients in Kotlin
 - [DiskLruCache](https://github.com/JakeWharton/DiskLruCache) - A cache that uses a bounded amount of space on disk.
