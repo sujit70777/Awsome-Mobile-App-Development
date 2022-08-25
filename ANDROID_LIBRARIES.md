@@ -16,7 +16,7 @@ A curated list of additional Android libraries, complementing the main [README](
 - [JavaPoet](https://github.com/square/javapoet) - A Java API for generating source files.
 - [Seismic](https://github.com/square/seismic) - Shake detection library for Android.
 - [Tape](https://github.com/square/tape) - A lightweight, efficient, file-based FIFO queue
-- [Otto](https://github.com/square/otto) - An enhanced event bus with emphasis on Android support
+- [Otto](https://github.com/square/otto) - An enhanced event bus with emphasis on Android support.
 - [kotlinx.atomicfu](https://github.com/Kotlin/kotlinx.atomicfu) - Atomic operations library for Kotlin multiplatform
 - [Reaktive](https://github.com/badoo/Reaktive) - Kotlin multiplatform reactive extensions
 - [RxAndroidBle](https://github.com/Polidea/RxAndroidBle) - Reactive Bluetooth Low Energy library for Android
