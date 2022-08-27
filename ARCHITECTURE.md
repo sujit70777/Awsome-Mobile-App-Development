@@ -11,7 +11,7 @@ Architecture patterns, sample apps, and related libraries for Android.
 - [android-boilerplate](https://github.com/ribot/android-boilerplate) - A boilerplate for Android with MVP architecture.
 - [uamp](https://github.com/android/uamp) - Universal Android Music Player sample.
 - [tivi](https://github.com/chrisbanes/tivi) - TV show tracking Android app, used as an architecture reference.
-- [android-sunflower](https://github.com/googlesamples/android-sunflower) - A gardening app illustrating Android Jetpack architecture
+- [android-sunflower](https://github.com/googlesamples/android-sunflower) - A gardening app illustrating Android Jetpack architecture.
 - [animation-samples](https://github.com/android/animation-samples) - Official Android animation sample apps.
 - [topeka](https://github.com/android/topeka) - A quiz sample app demonstrating Android UI patterns.
 
