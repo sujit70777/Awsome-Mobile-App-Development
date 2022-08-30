@@ -22,7 +22,7 @@ A curated list of additional Android libraries, complementing the main [README](
 - [RxAndroidBle](https://github.com/Polidea/RxAndroidBle) - Reactive Bluetooth Low Energy library for Android
 - [Paris](https://github.com/airbnb/paris) - Airbnb's Android styling library
 - [DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch) - Deep link routing framework by Airbnb
-- [ExpansionPanel](https://github.com/florent37/ExpansionPanel) - Android view for material expansion panels
+- [ExpansionPanel](https://github.com/florent37/ExpansionPanel) - Android view for material expansion panels.
 - [DiagonalLayout](https://github.com/florent37/DiagonalLayout) - Android view for diagonal layouts.
 - [Oboe](https://github.com/google/oboe) - High-performance audio library for Android.
 - [Filament](https://github.com/google/filament) - Real-time physically based rendering engine
