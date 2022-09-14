@@ -248,7 +248,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Okio](https://github.com/square/okio) - A modern I/O library that complements java.io and java.nio
 - [AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel) - An Android library that provides a simple way to add a draggable sliding up panel
 - [MaterialViewPager](https://github.com/florent37/MaterialViewPager) - Android Library - Material ViewPager in your app.
-- [greenDAO](https://github.com/greenrobot/greenDAO) - An Android ORM making SQLite database access easy
+- [greenDAO](https://github.com/greenrobot/greenDAO) - An Android ORM making SQLite database access easy.
 - [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) - Android RecyclerView Animators
 - [iosched](https://github.com/google/iosched) - The Google I/O Android app.
 - [AppIntro](https://github.com/AppIntro/AppIntro) - Library to create cool intros for Android apps.
