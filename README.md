@@ -256,7 +256,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Dexter](https://github.com/Karumi/Dexter) - Android library that simplifies the process of requesting permissions at runtime.
 - [Duktape-Android](https://github.com/square/duktape-android) - Android bindings for the Duktape JavaScript interpreter.
 - [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) - A Swiss Army Knife for Android to provide swipe function to any View
-- [Blurry](https://github.com/wasabeef/Blurry) - Blurry is an easy blur library for Android
+- [Blurry](https://github.com/wasabeef/Blurry) - Blurry is an easy blur library for Android.
 - [Fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful Android chart view / graph view library
 - [DBFlow](https://github.com/Raizlabs/DBFlow) - A robust, powerful, and very simple ORM android database library.
