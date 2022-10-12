@@ -129,7 +129,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Android Library that provide simpler way to start the Activities with multiple arguments.
 - [SQLDelight](https://github.com/square/sqldelight) - Generates Java models from CREATE TABLE statements.
 - [RxKotlin](https://github.com/ReactiveX/RxKotlin) - Kotlin Adaptor for RxJava.
-- [SuperSLiM](https://github.com/TonicArtos/SuperSLiM) - A layout manager for the RecyclerView
+- [SuperSLiM](https://github.com/TonicArtos/SuperSLiM) - A layout manager for the RecyclerView.
 - [Kotlin/Native](https://github.com/JetBrains/kotlin-native) - a LLVM backend for the Kotlin compiler
 - [Bubble-Picker](https://github.com/igalata/Bubble-Picker) - An easy-to-use animation which can be used for content picking for Android.
 - [KBinding](https://github.com/BennyWang/KBinding) - Android MVVM framework write in kotlin.
