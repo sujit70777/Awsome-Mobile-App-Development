@@ -237,7 +237,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [ButterKnife](https://github.com/JakeWharton/butterknife) - Field and method binding for Android views.
 - [EventBus](https://github.com/greenrobot/EventBus) - Simplifies communication between Activities, Fragments, and background threads.
 - [simple-stack](https://github.com/Zhuinden/simple-stack) - A simple backstack for handling Android navigation, independent of Fragments/Views
-- [ViewAnimator](https://github.com/florent37/ViewAnimator) - Android view animations, powerful and easy to use
+- [ViewAnimator](https://github.com/florent37/ViewAnimator) - Android view animations, powerful and easy to use.
 - [Conductor](https://github.com/bluelinelabs/Conductor) - A small, view-based framework for building Android applications.
 - [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection
 - [Android-Iconics](https://github.com/mikepenz/Android-Iconics) - Use any icon font or vector/icon pack in your Android project
