@@ -252,7 +252,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) - Android RecyclerView Animators
 - [iosched](https://github.com/google/iosched) - The Google I/O Android app.
 - [AppIntro](https://github.com/AppIntro/AppIntro) - Library to create cool intros for Android apps.
-- [AboutLibraries](https://github.com/mikepenz/AboutLibraries) - Automatically detects all libraries used in an Android project and displays them
+- [AboutLibraries](https://github.com/mikepenz/AboutLibraries) - Automatically detects all libraries used in an Android project and displays them.
 - [Dexter](https://github.com/Karumi/Dexter) - Android library that simplifies the process of requesting permissions at runtime.
 - [Duktape-Android](https://github.com/square/duktape-android) - Android bindings for the Duktape JavaScript interpreter.
 - [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) - A Swiss Army Knife for Android to provide swipe function to any View
