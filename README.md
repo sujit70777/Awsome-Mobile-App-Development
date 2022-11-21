@@ -99,7 +99,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Kotpref](https://github.com/chibatching/Kotpref) - Kotpref - Android SharedPreferences delegation library for Kotlin.
 - [kotlinAndroidLib](https://github.com/VolodymyrLykhonis/kotlinAndroidLib) - Kotlin "sugar" for Android.
 - [kaffeine](https://github.com/ragunathjawahar/kaffeine) - Kaffeine is a Kotlin-flavored Android library for accelerating development.
-- [Put.io](https://github.com/DSteve595/Put.io) - Put.io for Android !
+- [Put.io](https://github.com/DSteve595/Put.io) - Put.io for Android !.
 - [twittnuker](https://github.com/vanita5/twittnuker) - Android 4.0+ Twitter Client.
 - [audiowave-progressbar](https://github.com/alxrm/audiowave-progressbar) - Lightweight audiowave progressbar for Android
 - [simple-range-view](https://github.com/bendikv/simple-range-view) - SimpleRangeView is custom view component for Android , that provides for the selection of a range.
