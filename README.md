@@ -133,7 +133,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Kotlin/Native](https://github.com/JetBrains/kotlin-native) - a LLVM backend for the Kotlin compiler.
 - [Bubble-Picker](https://github.com/igalata/Bubble-Picker) - An easy-to-use animation which can be used for content picking for Android.
 - [KBinding](https://github.com/BennyWang/KBinding) - Android MVVM framework write in kotlin.
-- [TornadoFX](https://github.com/edvin/tornadofx) - Lightweight JavaFX Framework for Kotlin
+- [TornadoFX](https://github.com/edvin/tornadofx) - Lightweight JavaFX Framework for Kotlin.
 - [KotlinPreferencesObject](https://github.com/MarcinMoskala/KotlinPreferencesObject) - Kotlin Android Library, that makes preference usage in Kotlin simple and fun, using single object with fields binded to SharedPreferences.
 - [Kotter Knife](https://github.com/JakeWharton/kotterknife) - View "injection" library for Android.
 - [Koi](https://github.com/mcxiaoke/kotlin-koi) - A lightweight kotlin library for Android, including many useful extensions, async functions and quick adapter.
