@@ -161,7 +161,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Injekt](https://github.com/kohesive/injekt) - native Kotlin dependency injection (object registry style)
 - [Solr-Undertow](https://github.com/kohesive/solr-undertow) - standalone high perforamnce, simple Solr server. Embeddeable as a library.
 - [Gradle Script Kotlin](https://github.com/gradle/gradle-script-kotlin) - Kotlin language support for Gradle build scripts.
-- [Kotgo](https://github.com/nekocode/kotgo) - An android development framework on kotlin using MVP architecture.
+- [Kotgo](https://github.com/nekocode/kotgo) - An Android development framework on Kotlin using MVP architecture.
 - [KillerTask](https://github.com/inaka/KillerTask) - Android AsyncTask wrapper library, written in Kotlin.
 - [Bansa](https://github.com/brianegan/bansa) - A state container for Kotlin & Java, inspired by Elm & Redux.
 - [KotlinTest](https://github.com/kotlintest/kotlintest) - A kotlin test framework inspired by ScalaTest.
