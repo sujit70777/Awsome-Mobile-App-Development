@@ -1213,3 +1213,6 @@ Notable changes to this project.
 
 ### 2023-01-03
 - Small documentation improvements.
+
+### 2023-01-05
+- Reorganized a few entries.
