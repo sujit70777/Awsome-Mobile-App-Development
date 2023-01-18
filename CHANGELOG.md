@@ -1234,3 +1234,6 @@ Notable changes to this project.
 
 ### 2023-01-17
 - Updated a few links.
+
+### 2023-01-18
+- Small wording tweak.
