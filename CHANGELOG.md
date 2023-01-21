@@ -1243,3 +1243,6 @@ Notable changes to this project.
 
 ### 2023-01-20
 - Routine maintenance pass.
+
+### 2023-01-21
+- Reorganized a few entries.
