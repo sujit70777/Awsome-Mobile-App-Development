@@ -1219,3 +1219,6 @@ Notable changes to this project.
 
 ### 2023-01-21
 - Minor cleanup.
+
+### 2023-01-26
+- Updated a few links.
