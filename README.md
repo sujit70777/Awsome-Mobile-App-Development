@@ -33,7 +33,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [anko](https://github.com/Kotlin/anko) - Pleasant Android application development.
 - [Twidere-Android](https://github.com/TwidereProject/Twidere-Android)
 - [kotterknife](https://github.com/JakeWharton/kotterknife) - View "injection" library for Android.
-- [Multi-Selection](https://github.com/Yalantis/Multi-Selection) - Multiselection Solution for Android in Kotlin
+- [Multi-Selection](https://github.com/Yalantis/Multi-Selection) - Multiselection Solution for Android in Kotlin.
 - [BlackLight](https://github.com/PaperAirplane-Dev-Team/BlackLight) - A light Sina Weibo client for Android.
 - [JellyToolbar](https://github.com/Yalantis/JellyToolbar)
 - [SearchFilter](https://github.com/Yalantis/SearchFilter) - Implementing Search Filter Animation in Kotlin for Quora Meets LinkedIn, Our App Design Concept.
