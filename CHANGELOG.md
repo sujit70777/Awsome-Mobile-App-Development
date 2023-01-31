@@ -1258,3 +1258,6 @@ Notable changes to this project.
 
 ### 2023-01-29
 - Updated a few links.
+
+### 2023-01-31
+- Reorganized a few entries.
