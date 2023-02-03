@@ -1273,3 +1273,6 @@ Notable changes to this project.
 
 ### 2023-02-03
 - Small documentation improvements.
+
+### 2023-02-03
+- Fixed minor formatting.
