@@ -1288,3 +1288,6 @@ Notable changes to this project.
 
 ### 2023-02-06
 - Small documentation improvements.
+
+### 2023-02-07
+- Minor cleanup.
