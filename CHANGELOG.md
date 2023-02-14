@@ -1303,3 +1303,6 @@ Notable changes to this project.
 
 ### 2023-02-14
 - General maintenance.
+
+### 2023-02-14
+- Reorganized a few entries.
