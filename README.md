@@ -140,7 +140,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Wasabi](https://github.com/hhariri/wasabi) - An HTTP Framework.
 - [Kara Web Framework](https://github.com/TinyMission/kara) - Kara is a web framework for the JVM written in Kotlin.
 - [Kovenant](https://github.com/mplatvoet/kovenant) - Promises for Kotlin
-- [KAndroid](https://github.com/pawegio/KAndroid) - Kotlin library for Android providing useful extensions to eliminate boilerplate code
+- [KAndroid](https://github.com/pawegio/KAndroid) - Kotlin library for Android providing useful extensions to eliminate boilerplate code.
 - [Fuel](https://github.com/kittinunf/Fuel) - The easiest HTTP networking library for Kotlin/Android.
 - [funKTionale](https://github.com/MarioAriasC/funKTionale) - Functional constructs and patterns for Kotlin.
 - [Kotson](https://github.com/SalomonBrys/Kotson) - Gson for Kotlin, Kotson enables you to parse and write JSON with Google's Gson using a conciser and easier syntax.
