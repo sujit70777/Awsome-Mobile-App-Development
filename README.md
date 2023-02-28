@@ -93,7 +93,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [LastPagerAdapter](https://github.com/rakshakhegde/LastPagerAdapter) - Don't write a ViewPager Adapter! Hook up your ViewPager to your data model using Android Data Binding Framework. With...
 - [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - A gallery for viewing photos and videos without ads.
 - [kotlin-jetpack](https://github.com/nsk-mironov/kotlin-jetpack) - A collection of useful extension methods for Android.
-- [Keddit](https://github.com/juanchosaravia/Keddit) - Keddit: A Reddit Android client using Kotlin (Retrofit, RxJava, RxAndroid...)
+- [Keddit](https://github.com/juanchosaravia/Keddit) - Keddit: A Reddit Android client using Kotlin (Retrofit, RxJava, RxAndroid...).
 - [gobandroid](https://github.com/ligi/gobandroid) - A Goban for Android.
 - [FontBinder](https://github.com/nitrico/FontBinder) - Easy font usage in your Android XML layouts.
 - [Kotpref](https://github.com/chibatching/Kotpref) - Kotpref - Android SharedPreferences delegation library for Kotlin.
