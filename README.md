@@ -136,7 +136,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [TornadoFX](https://github.com/edvin/tornadofx) - Lightweight JavaFX Framework for Kotlin.
 - [KotlinPreferencesObject](https://github.com/MarcinMoskala/KotlinPreferencesObject) - Kotlin Android Library, that makes preference usage in Kotlin simple and fun, using single object with fields binded to SharedPreferences.
 - [Kotter Knife](https://github.com/JakeWharton/kotterknife) - View "injection" library for Android.
-- [Koi](https://github.com/mcxiaoke/kotlin-koi) - A lightweight kotlin library for Android, including many useful extensions, async functions and quick adapter.
+- [Koi](https://github.com/mcxiaoke/kotlin-koi) - A lightweight Kotlin library for Android, including many useful extensions, async functions and quick adapter.
 - [Wasabi](https://github.com/hhariri/wasabi) - An HTTP Framework.
 - [Kara Web Framework](https://github.com/TinyMission/kara) - Kara is a web framework for the JVM written in Kotlin.
 - [Kovenant](https://github.com/mplatvoet/kovenant) - Promises for Kotlin
