@@ -1333,3 +1333,6 @@ Notable changes to this project.
 
 ### 2023-03-04
 - Minor cleanup.
+
+### 2023-03-05
+- Small wording tweak.
