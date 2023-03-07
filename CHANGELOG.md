@@ -1249,3 +1249,6 @@ Notable changes to this project.
 
 ### 2023-03-06
 - General maintenance.
+
+### 2023-03-07
+- Small documentation improvements.
