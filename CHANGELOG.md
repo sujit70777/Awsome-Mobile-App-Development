@@ -1390,3 +1390,6 @@ Notable changes to this project.
 
 ### 2023-03-25
 - Routine maintenance pass.
+
+### 2023-03-26
+- Updated a few links.
