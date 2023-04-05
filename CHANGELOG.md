@@ -1303,3 +1303,6 @@ Notable changes to this project.
 
 ### 2023-04-05
 - Updated a few links.
+
+### 2023-04-05
+- Fixed minor formatting.
