@@ -1300,3 +1300,6 @@ Notable changes to this project.
 
 ### 2023-04-02
 - Small wording tweak.
+
+### 2023-04-05
+- Updated a few links.
