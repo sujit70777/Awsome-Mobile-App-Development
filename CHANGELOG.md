@@ -1414,3 +1414,6 @@ Notable changes to this project.
 
 ### 2023-04-05
 - Minor cleanup.
+
+### 2023-04-09
+- Fixed minor formatting.
