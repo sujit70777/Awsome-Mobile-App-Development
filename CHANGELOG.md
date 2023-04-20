@@ -1309,3 +1309,6 @@ Notable changes to this project.
 
 ### 2023-04-10
 - Reorganized a few entries.
+
+### 2023-04-20
+- Small wording tweak.
