@@ -164,7 +164,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Kotgo](https://github.com/nekocode/kotgo) - An Android development framework on Kotlin using MVP architecture.
 - [KillerTask](https://github.com/inaka/KillerTask) - Android AsyncTask wrapper library, written in Kotlin.
 - [Bansa](https://github.com/brianegan/bansa) - A state container for Kotlin & Java, inspired by Elm & Redux.
-- [KotlinTest](https://github.com/kotlintest/kotlintest) - A kotlin test framework inspired by ScalaTest.
+- [KotlinTest](https://github.com/kotlintest/kotlintest) - A Kotlin test framework inspired by ScalaTest.
 - [kotlin.logging](https://github.com/MicroUtils/kotlin.logging) - A logging framework for Kotlin.
 - [KotlinDiscreteMathToolkit](https://github.com/MarcinMoskala/KotlinDiscreteMathToolkit) - Set of extensions for Kotlin that provides Discrete math functionalities.
 - [PultusORM](https://github.com/s4kibs4mi/PultusORM) - PultusORM is a sqlite ORM library.
