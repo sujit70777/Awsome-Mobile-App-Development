@@ -1312,3 +1312,6 @@ Notable changes to this project.
 
 ### 2023-04-20
 - Small wording tweak.
+
+### 2023-04-29
+- Housekeeping update.
