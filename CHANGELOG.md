@@ -1465,3 +1465,6 @@ Notable changes to this project.
 
 ### 2023-04-30
 - Housekeeping update.
+
+### 2023-05-01
+- Fixed minor formatting.
