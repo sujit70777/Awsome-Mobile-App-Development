@@ -1321,3 +1321,6 @@ Notable changes to this project.
 
 ### 2023-05-04
 - Housekeeping update.
+
+### 2023-05-05
+- Minor cleanup.
