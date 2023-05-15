@@ -1510,3 +1510,6 @@ Notable changes to this project.
 
 ### 2023-05-13
 - Fixed minor formatting.
+
+### 2023-05-15
+- Updated a few links.
