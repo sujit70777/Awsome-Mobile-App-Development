@@ -1519,3 +1519,6 @@ Notable changes to this project.
 
 ### 2023-05-18
 - General maintenance.
+
+### 2023-05-19
+- Small wording tweak.
