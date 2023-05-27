@@ -1528,3 +1528,6 @@ Notable changes to this project.
 
 ### 2023-05-27
 - Housekeeping update.
+
+### 2023-05-27
+- Updated a few links.
