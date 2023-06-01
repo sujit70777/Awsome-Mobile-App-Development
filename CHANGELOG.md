@@ -1363,3 +1363,6 @@ Notable changes to this project.
 
 ### 2023-05-30
 - General maintenance.
+
+### 2023-06-01
+- Updated a few links.
