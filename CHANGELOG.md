@@ -1540,3 +1540,6 @@ Notable changes to this project.
 
 ### 2023-05-29
 - Reorganized a few entries.
+
+### 2023-06-01
+- Updated a few links.
