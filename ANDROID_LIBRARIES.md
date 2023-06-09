@@ -36,7 +36,7 @@ A curated list of additional Android libraries, complementing the main [README](
 - [Ktor](https://github.com/ktorio/ktor) - Framework for building asynchronous servers and clients in Kotlin.
 - [DiskLruCache](https://github.com/JakeWharton/DiskLruCache) - A cache that uses a bounded amount of space on disk.
 - [drag-select-recyclerview](https://github.com/afollestad/drag-select-recyclerview) - Drag to select multiple items in a RecyclerView.
-- [Material Components for Android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components
+- [Material Components for Android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components.
 
 ## See Also
 
