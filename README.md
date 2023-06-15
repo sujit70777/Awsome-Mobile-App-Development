@@ -89,7 +89,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [animated-clock-icon](https://github.com/alxrm/animated-clock-icon) - Easy-to-use animated clock icon for Android.
 - [android-mvp-kotlin-starter](https://github.com/ravidsrk/android-mvp-kotlin-starter) - [WIP] [ Android MVP Kotlin] Android App starter based on Kotlin + MVP + Dagger2 + RxJava2 + Robolectric + Espresso + M...
 - [lattekit](https://github.com/maannajjar/lattekit) - Android framework for building UI quickly in Kotlin, inspired by React.js.
-- [Kotlin-Android-Boilerplate](https://github.com/Plastix/Kotlin-Android-Boilerplate) - Kotlin Android boilerplate project with MVVM architecture using RxJava, Dagger 2, and more!
+- [Kotlin-Android-Boilerplate](https://github.com/Plastix/Kotlin-Android-Boilerplate) - Kotlin Android boilerplate project with MVVM architecture using RxJava, Dagger 2, and more!.
 - [LastPagerAdapter](https://github.com/rakshakhegde/LastPagerAdapter) - Don't write a ViewPager Adapter! Hook up your ViewPager to your data model using Android Data Binding Framework. With...
 - [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - A gallery for viewing photos and videos without ads.
 - [kotlin-jetpack](https://github.com/nsk-mironov/kotlin-jetpack) - A collection of useful extension methods for Android.
