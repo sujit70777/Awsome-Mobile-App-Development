@@ -1372,3 +1372,6 @@ Notable changes to this project.
 
 ### 2023-06-07
 - Housekeeping update.
+
+### 2023-06-23
+- Fixed minor formatting.
