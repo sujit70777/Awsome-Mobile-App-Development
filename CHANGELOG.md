@@ -1591,3 +1591,6 @@ Notable changes to this project.
 
 ### 2023-07-05
 - General maintenance.
+
+### 2023-07-05
+- Minor cleanup.
