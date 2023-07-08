@@ -1600,3 +1600,6 @@ Notable changes to this project.
 
 ### 2023-07-07
 - General maintenance.
+
+### 2023-07-08
+- Small wording tweak.
