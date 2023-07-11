@@ -1405,3 +1405,6 @@ Notable changes to this project.
 
 ### 2023-07-07
 - Minor cleanup.
+
+### 2023-07-11
+- Reorganized a few entries.
