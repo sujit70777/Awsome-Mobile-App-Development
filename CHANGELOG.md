@@ -1414,3 +1414,6 @@ Notable changes to this project.
 
 ### 2023-07-14
 - Housekeeping update.
+
+### 2023-07-15
+- Small wording tweak.
