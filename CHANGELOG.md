@@ -1618,3 +1618,6 @@ Notable changes to this project.
 
 ### 2023-07-14
 - Small documentation improvements.
+
+### 2023-07-16
+- Updated a few links.
