@@ -1621,3 +1621,6 @@ Notable changes to this project.
 
 ### 2023-07-16
 - Updated a few links.
+
+### 2023-07-18
+- Reorganized a few entries.
