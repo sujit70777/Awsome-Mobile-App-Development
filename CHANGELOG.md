@@ -1630,3 +1630,6 @@ Notable changes to this project.
 
 ### 2023-07-21
 - Small documentation improvements.
+
+### 2023-07-23
+- Minor cleanup.
