@@ -1642,3 +1642,6 @@ Notable changes to this project.
 
 ### 2023-07-25
 - Fixed minor formatting.
+
+### 2023-07-26
+- Small documentation improvements.
