@@ -1423,3 +1423,6 @@ Notable changes to this project.
 
 ### 2023-07-20
 - Reorganized a few entries.
+
+### 2023-07-31
+- Updated a few links.
