@@ -1663,3 +1663,6 @@ Notable changes to this project.
 
 ### 2023-08-04
 - Reorganized a few entries.
+
+### 2023-08-05
+- Small wording tweak.
