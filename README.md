@@ -260,7 +260,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use.
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful Android chart view / graph view library.
 - [DBFlow](https://github.com/Raizlabs/DBFlow) - A robust, powerful, and very simple ORM Android database library.
-- [Gson](https://github.com/google/gson) - A Java/Kotlin library for converting Java Objects into JSON and back
+- [Gson](https://github.com/google/gson) - A Java/Kotlin library for converting Java Objects into JSON and back.
 - [shimmer-android](https://github.com/facebook/shimmer-android) - An easy way to add a shimmering effect to views, like the one used at the top of Facebook News Feed.
 - [Litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android.
 - [Epoxy](https://github.com/airbnb/epoxy) - Android library for building complex RecyclerView layouts.
