@@ -1675,3 +1675,6 @@ Notable changes to this project.
 
 ### 2023-08-08
 - General maintenance.
+
+### 2023-08-10
+- Fixed minor formatting.
