@@ -1438,3 +1438,6 @@ Notable changes to this project.
 
 ### 2023-08-17
 - General maintenance.
+
+### 2023-08-18
+- Minor cleanup.
