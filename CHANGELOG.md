@@ -1702,3 +1702,6 @@ Notable changes to this project.
 
 ### 2023-08-18
 - Minor cleanup.
+
+### 2023-08-21
+- Housekeeping update.
