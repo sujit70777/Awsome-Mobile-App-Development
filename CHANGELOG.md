@@ -1444,3 +1444,6 @@ Notable changes to this project.
 
 ### 2023-08-19
 - Minor cleanup.
+
+### 2023-08-22
+- Reorganized a few entries.
