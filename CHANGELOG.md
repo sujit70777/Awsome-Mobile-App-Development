@@ -1723,3 +1723,6 @@ Notable changes to this project.
 
 ### 2023-08-26
 - General maintenance.
+
+### 2023-08-27
+- Updated a few links.
