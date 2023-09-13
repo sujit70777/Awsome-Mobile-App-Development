@@ -1756,3 +1756,6 @@ Notable changes to this project.
 
 ### 2023-09-11
 - Small wording tweak.
+
+### 2023-09-13
+- Small wording tweak.
