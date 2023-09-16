@@ -159,7 +159,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Klutter](https://github.com/kohesive/klutter) - Library of many small useful things.
 - [Kovert](https://github.com/kohesive/kovert) - an invisible, super easy and powerful REST and Web framework overt Vert.x or Undertow.
 - [Injekt](https://github.com/kohesive/injekt) - native Kotlin dependency injection (object registry style).
-- [Solr-Undertow](https://github.com/kohesive/solr-undertow) - standalone high perforamnce, simple Solr server. Embeddeable as a library.
+- [Solr-Undertow](https://github.com/kohesive/solr-undertow) - Standalone high perforamnce, simple Solr server. Embeddeable as a library.
 - [Gradle Script Kotlin](https://github.com/gradle/gradle-script-kotlin) - Kotlin language support for Gradle build scripts.
 - [Kotgo](https://github.com/nekocode/kotgo) - An Android development framework on Kotlin using MVP architecture.
 - [KillerTask](https://github.com/inaka/KillerTask) - Android AsyncTask wrapper library, written in Kotlin.
