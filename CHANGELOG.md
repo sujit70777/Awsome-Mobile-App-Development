@@ -1789,3 +1789,6 @@ Notable changes to this project.
 
 ### 2023-09-26
 - Reorganized a few entries.
+
+### 2023-09-27
+- Small documentation improvements.
