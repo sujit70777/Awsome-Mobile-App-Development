@@ -1798,3 +1798,6 @@ Notable changes to this project.
 
 ### 2023-09-29
 - General maintenance.
+
+### 2023-09-30
+- Small wording tweak.
