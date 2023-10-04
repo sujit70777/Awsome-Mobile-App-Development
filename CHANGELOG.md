@@ -1807,3 +1807,6 @@ Notable changes to this project.
 
 ### 2023-10-03
 - Small wording tweak.
+
+### 2023-10-04
+- Updated a few links.
