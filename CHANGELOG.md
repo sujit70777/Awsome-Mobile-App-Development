@@ -1813,3 +1813,6 @@ Notable changes to this project.
 
 ### 2023-10-05
 - Fixed minor formatting.
+
+### 2023-10-06
+- Reorganized a few entries.
