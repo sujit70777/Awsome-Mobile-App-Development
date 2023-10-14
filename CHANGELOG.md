@@ -1504,3 +1504,6 @@ Notable changes to this project.
 
 ### 2023-10-13
 - Minor cleanup.
+
+### 2023-10-14
+- Small documentation improvements.
