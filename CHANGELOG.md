@@ -1873,3 +1873,6 @@ Notable changes to this project.
 
 ### 2023-10-29
 - Routine maintenance pass.
+
+### 2023-10-30
+- Reorganized a few entries.
