@@ -1900,3 +1900,6 @@ Notable changes to this project.
 
 ### 2023-11-08
 - Small wording tweak.
+
+### 2023-11-08
+- Housekeeping update.
