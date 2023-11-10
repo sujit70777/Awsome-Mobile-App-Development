@@ -1903,3 +1903,6 @@ Notable changes to this project.
 
 ### 2023-11-08
 - Housekeeping update.
+
+### 2023-11-10
+- Small documentation improvements.
