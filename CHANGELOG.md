@@ -1528,3 +1528,6 @@ Notable changes to this project.
 
 ### 2023-11-16
 - General maintenance.
+
+### 2023-11-21
+- Fixed minor formatting.
