@@ -1936,3 +1936,6 @@ Notable changes to this project.
 
 ### 2023-11-24
 - Small wording tweak.
+
+### 2023-11-25
+- Minor cleanup.
