@@ -1948,3 +1948,6 @@ Notable changes to this project.
 
 ### 2023-11-28
 - General maintenance.
+
+### 2023-11-29
+- Small wording tweak.
