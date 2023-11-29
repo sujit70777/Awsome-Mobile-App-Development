@@ -1951,3 +1951,6 @@ Notable changes to this project.
 
 ### 2023-11-29
 - Small wording tweak.
+
+### 2023-11-29
+- Fixed minor formatting.
