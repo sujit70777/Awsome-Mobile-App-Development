@@ -1954,3 +1954,6 @@ Notable changes to this project.
 
 ### 2023-11-29
 - Fixed minor formatting.
+
+### 2023-11-30
+- Housekeeping update.
