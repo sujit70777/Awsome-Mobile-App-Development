@@ -1957,3 +1957,6 @@ Notable changes to this project.
 
 ### 2023-11-30
 - Housekeeping update.
+
+### 2023-12-01
+- Small wording tweak.
