@@ -1960,3 +1960,6 @@ Notable changes to this project.
 
 ### 2023-12-01
 - Small wording tweak.
+
+### 2023-12-02
+- Small documentation improvements.
