@@ -1963,3 +1963,6 @@ Notable changes to this project.
 
 ### 2023-12-02
 - Small documentation improvements.
+
+### 2023-12-03
+- General maintenance.
