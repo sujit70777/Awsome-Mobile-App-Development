@@ -1972,3 +1972,6 @@ Notable changes to this project.
 
 ### 2023-12-04
 - Routine maintenance pass.
+
+### 2023-12-05
+- Minor cleanup.
