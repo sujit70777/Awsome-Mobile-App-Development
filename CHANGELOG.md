@@ -1978,3 +1978,6 @@ Notable changes to this project.
 
 ### 2023-12-06
 - General maintenance.
+
+### 2023-12-07
+- Small documentation improvements.
