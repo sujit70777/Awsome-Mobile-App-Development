@@ -1981,3 +1981,6 @@ Notable changes to this project.
 
 ### 2023-12-07
 - Small documentation improvements.
+
+### 2023-12-08
+- Minor cleanup.
