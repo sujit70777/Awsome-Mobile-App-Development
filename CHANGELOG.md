@@ -1987,3 +1987,6 @@ Notable changes to this project.
 
 ### 2023-12-09
 - Routine maintenance pass.
+
+### 2023-12-12
+- Small documentation improvements.
