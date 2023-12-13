@@ -1990,3 +1990,6 @@ Notable changes to this project.
 
 ### 2023-12-12
 - Small documentation improvements.
+
+### 2023-12-13
+- Small wording tweak.
