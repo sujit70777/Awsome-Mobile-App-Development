@@ -1996,3 +1996,6 @@ Notable changes to this project.
 
 ### 2023-12-13
 - Routine maintenance pass.
+
+### 2023-12-15
+- Updated a few links.
