@@ -61,7 +61,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [stencil](https://github.com/thoughtbot/stencil) - Android library, written exclusively in Kotlin, for animating the path created from text.
 - [PassAndroid](https://github.com/ligi/PassAndroid) - Android App to view passes.
 - [OfficialFoldingTabBar.Android](https://github.com/Yalantis/OfficialFoldingTabBar.Android)
-- [AsyncAwait](https://github.com/metalabdesign/AsyncAwait) - async/await for Android built upon coroutines introduced in Kotlin 1.1.
+- [AsyncAwait](https://github.com/metalabdesign/AsyncAwait) - Async/await for Android built upon coroutines introduced in Kotlin 1.1.
 - [StickySwitch](https://github.com/GwonHyeok/StickySwitch) - ⭐️ beautiful switch widget with sticky animation ⭐️.
 - [simpletask-android](https://github.com/mpcjanssen/simpletask-android)
 - [android-architecture-counter-sample](https://github.com/dlew/android-architecture-counter-sample) - Sample app using Android architecture components.
