@@ -1999,3 +1999,6 @@ Notable changes to this project.
 
 ### 2023-12-15
 - Updated a few links.
+
+### 2023-12-18
+- Small wording tweak.
