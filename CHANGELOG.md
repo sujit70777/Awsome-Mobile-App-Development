@@ -2005,3 +2005,6 @@ Notable changes to this project.
 
 ### 2023-12-19
 - Updated a few links.
+
+### 2023-12-20
+- General maintenance.
