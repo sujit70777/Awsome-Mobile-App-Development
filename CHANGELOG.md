@@ -2008,3 +2008,6 @@ Notable changes to this project.
 
 ### 2023-12-20
 - General maintenance.
+
+### 2023-12-21
+- Minor cleanup.
