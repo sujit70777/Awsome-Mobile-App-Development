@@ -1555,3 +1555,6 @@ Notable changes to this project.
 
 ### 2023-12-21
 - Fixed minor formatting.
+
+### 2023-12-26
+- Minor cleanup.
