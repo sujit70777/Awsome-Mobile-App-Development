@@ -2023,3 +2023,6 @@ Notable changes to this project.
 
 ### 2023-12-28
 - Fixed minor formatting.
+
+### 2023-12-29
+- Minor cleanup.
