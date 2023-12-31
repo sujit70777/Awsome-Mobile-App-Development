@@ -151,7 +151,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Klaxon](https://github.com/cbeust/klaxon) - Klaxon is a lightweight library to parse JSON in Kotlin.
 - [Kobalt ](https://github.com/cbeust/kobalt) - Kobalt is a modern and versatile build system.
 - [jackson-module-kotlin](https://github.com/FasterXML/jackson-module-kotlin) - Module that adds support for serialization/deserialization of Kotlin classes and data classes.
-- [Kodein](https://github.com/SalomonBrys/Kodein) - Kodein: Kotlin Dependency Injection
+- [Kodein](https://github.com/SalomonBrys/Kodein) - Kodein: Kotlin Dependency Injection.
 - [KBuilders](https://github.com/Levelmoney/kbuilders) - KBuilders turns your Java builders into beautiful Type-Safe Builders.
 - [Result](https://github.com/kittinunf/Result) - This is a tiny framework for modelling success/failure of operations in Kotlin.
 - [Tornado FX](https://github.com/edvin/tornadofx) - A New JavaFX App Framework for Kotlin.
