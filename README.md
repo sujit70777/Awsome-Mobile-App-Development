@@ -294,3 +294,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Flutter Web](https://medium.com/flutter-community/ins-and-outs-of-flutter-web-7a82721dc19a)  - Ins and Outs of Flutter Web by [Nash](https://github.com/nash0x7e2).
 ### Websites / Blogs
 
+- [Welcome to Flutter](https://didierboelens.com) - English and French blog dedicated to providing practical solutions to most asked questions about Flutter by Didier Boelens.
