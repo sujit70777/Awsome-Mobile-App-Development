@@ -295,3 +295,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 ### Websites / Blogs
 
 - [Welcome to Flutter](https://didierboelens.com) - English and French blog dedicated to providing practical solutions to most asked questions about Flutter by Didier Boelens.
+- [SZAŁKO-BLOG](https://marcinszalek.pl/) - Step by step advanced design by [Marcin Szalek](https://marcinszalek.pl).
