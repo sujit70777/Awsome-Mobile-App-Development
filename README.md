@@ -311,3 +311,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Flutter and Dart development](https://suragch.medium.com/flutter-and-dart-development-articles-981be9ef7b23) - Articles and tutorials by [Suragch](https://twitter.com/Suragch1).
 ### Beginner
 
+- [Roadmap to Flutter Development](https://github.com/olexale/flutter_roadmap) [5794⭐] - Visual roadmap with principles, patterns, and frameworks for Flutter newbies by [Olexandr Leuschenko](https://github.com/olexale).
