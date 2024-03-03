@@ -320,3 +320,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Flutter state management for minimalists](https://suragch.medium.com/flutter-state-management-for-minimalists-4c71a2f2f0c1?sk=6f9cedfb550ca9cc7f88317e2e7055a0) - Understanding app architecture without relying on third-party frameworks by [Suragch](https://twitter.com/Suragch1). See also [State Management](#state-management).
 ### Advanced
 
+- [Rendering Pipeline](https://www.youtube.com/watch?v=UUfXWzp0-DU) [1187👍] and [Let's build a render tree](https://www.youtube.com/watch?v=VsYbFnucHsU) - Engine architecture by Adam Barth.
