@@ -321,3 +321,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 ### Advanced
 
 - [Rendering Pipeline](https://www.youtube.com/watch?v=UUfXWzp0-DU) [1187👍] and [Let's build a render tree](https://www.youtube.com/watch?v=VsYbFnucHsU) - Engine architecture by Adam Barth.
+- [Render Objects](https://medium.com/flutter-community/flutter-what-are-widgets-renderobjects-and-elements-630a57d05208)  - What are Widgets, RenderObjects and Elements? by [Norbert515](https://github.com/Norbert515).
