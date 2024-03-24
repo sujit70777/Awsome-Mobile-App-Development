@@ -332,3 +332,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Profiling w/ Timeline](https://medium.com/flutter-io/profiling-flutter-applications-using-the-timeline-a1a434964af3)  - Using the Timeline allows you to find and address specific performance issues in your application by [Chinmay Garde](https://medium.com/@chinmaygarde).
 ### Advanced graphics rendering
 
+- [Shaders](https://wolfenrain.medium.com/flutter-shaders-an-initial-look-d9eb98d3fd7a) - Fragment shaders, set it up, how it works and making it work by [Jochum van der Ploeg](https://twitter.com/wolfenrain).
