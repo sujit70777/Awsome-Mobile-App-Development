@@ -336,3 +336,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 ### Howtos
 
 - [Parallax Effect](https://marcinszalek.pl/flutter/tickets-challenge-parallax) - Parallax & non linear animation by [Marcin Szalek](https://marcinszalek.pl).
+- [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36)  - Define build configurations and switch them by [Salvatore Giordano](https://medium.com/@salvatoregiordanoo).
