@@ -341,3 +341,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 ### Videos
 
 - [Boring Show](https://www.youtube.com/watch?v=CPmN4-i9zC8&list=PLOU2XLYxmsIK0r_D-zWcmJ1plIcDNnRkK) - Exploration with the Flutter Team.
+- [Tensor Programming](https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd) [86🎬] - Very rich content by [Tensor Programming](http://tensor-programming.com/).
