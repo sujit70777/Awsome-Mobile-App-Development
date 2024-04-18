@@ -349,3 +349,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 ### Demonstrations
 
 - [Official Gallery](https://github.com/flutter/gallery) - Demo for the material design widgets provided by Flutter Team.
+- [Flutter Examples](https://github.com/nisrulz/flutter-examples) [7112⭐] - Simple basic isolated apps for devs by [Nishant Srivastava](https://github.com/nisrulz).
