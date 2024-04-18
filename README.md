@@ -348,3 +348,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Reso Coder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA) - Intermediate and advanced videos by [Matej Rešetár](https://github.com/ResoCoder).
 ### Demonstrations
 
+- [Official Gallery](https://github.com/flutter/gallery) - Demo for the material design widgets provided by Flutter Team.
