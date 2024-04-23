@@ -354,3 +354,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Generative Art](https://github.com/Solido/flutter-d-art) [479⭐] - Generative Art by [Robert Felker](https://github.com/Solido).
 ### UI
 
+- [Radial Menu](https://github.com/xqwzts/flutter_radial_menu) [505⭐] - Animated Radial Menu by [Victor Choueiri](https://github.com/xqwzts).
