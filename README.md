@@ -355,3 +355,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 ### UI
 
 - [Radial Menu](https://github.com/xqwzts/flutter_radial_menu) [505⭐] - Animated Radial Menu by [Victor Choueiri](https://github.com/xqwzts).
+- [Tinder Cards](https://github.com/Ivaskuu/tinder_cards) [929⭐] - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu).
