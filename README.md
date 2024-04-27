@@ -357,3 +357,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Radial Menu](https://github.com/xqwzts/flutter_radial_menu) [505⭐] - Animated Radial Menu by [Victor Choueiri](https://github.com/xqwzts).
 - [Tinder Cards](https://github.com/Ivaskuu/tinder_cards) [929⭐] - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu).
 - [Flip Panel](https://github.com/hnvn/flutter_flip_panel) [614⭐] - Flip panel with built-in animation by [HungHD](https://github.com/hnvn).
+- [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) [443⭐] - Facebook reactions widget by [Duy Tran](https://github.com/duytq94).
