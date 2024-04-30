@@ -359,3 +359,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Flip Panel](https://github.com/hnvn/flutter_flip_panel) [614⭐] - Flip panel with built-in animation by [HungHD](https://github.com/hnvn).
 - [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) [443⭐] - Facebook reactions widget by [Duy Tran](https://github.com/duytq94).
 - [Flushbar](https://github.com/AndreHaueisen/flushbar) [1023⭐] - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen).
+- [Stepper Touch](https://github.com/Rahiche/stepper_touch) [355⭐] - Lateral value stepper nicely animated by [Raouf Rahiche](https://github.com/Rahiche).
