@@ -363,3 +363,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Folding Cell](https://github.com/faob-dev/folding_cell) [563⭐] - Fold your widget by [Faob](https://github.com/faob-dev).
 - [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) [1290⭐] - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
 - [Direct Select](https://github.com/LanarsInc/direct-select-flutter) [806⭐] - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
+- [Before After](https://github.com/xsahil03x/before_after) [1006⭐] - Beautiful slider which makes it easier to display the difference between two images, by [Sahil Kumar](https://github.com/xsahil03x).
