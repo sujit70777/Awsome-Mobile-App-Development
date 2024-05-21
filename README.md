@@ -369,3 +369,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Beautiful_Popup](https://github.com/jaweii/Flutter_beautiful_popup) [727⭐] - Beautify your app popup by [jaweii](https://github.com/jaweii).
 - [Credit Card Form](https://github.com/Origogi/Flutter-Credit-Card-Input) [494⭐] - Animated credit card input form [Origogi](https://github.com/Origogi).
 - [Animated Selection Slide](https://github.com/sbilketay/animated_selection_slide) An animated selection widget by swiping by [Sezgin Bilgetay](https://github.com/sbilketay).
+- [Flutter Tags](https://github.com/Dn-a/flutter_tags) [507⭐] - Tags with different customizations by [Di Natale Antonino](https://github.com/Dn-a).
