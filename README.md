@@ -370,3 +370,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Credit Card Form](https://github.com/Origogi/Flutter-Credit-Card-Input) [494⭐] - Animated credit card input form [Origogi](https://github.com/Origogi).
 - [Animated Selection Slide](https://github.com/sbilketay/animated_selection_slide) An animated selection widget by swiping by [Sezgin Bilgetay](https://github.com/sbilketay).
 - [Flutter Tags](https://github.com/Dn-a/flutter_tags) [507⭐] - Tags with different customizations by [Di Natale Antonino](https://github.com/Dn-a).
+- [Flutter Neumorphic](https://github.com/Idean/Flutter-Neumorphic) [2137⭐] - Ready to use Neumorphic kit for Flutter with 🕶️ dark mode.
