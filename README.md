@@ -372,3 +372,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Flutter Tags](https://github.com/Dn-a/flutter_tags) [507⭐] - Tags with different customizations by [Di Natale Antonino](https://github.com/Dn-a).
 - [Flutter Neumorphic](https://github.com/Idean/Flutter-Neumorphic) [2137⭐] - Ready to use Neumorphic kit for Flutter with 🕶️ dark mode.
 - [Dough](https://github.com/HatFeather/flutter_dough) [735⭐] - Widgets for a squishy user interface by [Josiah Saunders](https://github.com/HatFeather).
+- [Card Settings](https://github.com/codegrue/card_settings) [559⭐] - package for building settings forms by [codegrue](https://github.com/codegrue).
