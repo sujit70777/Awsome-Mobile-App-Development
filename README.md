@@ -374,3 +374,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Dough](https://github.com/HatFeather/flutter_dough) [735⭐] - Widgets for a squishy user interface by [Josiah Saunders](https://github.com/HatFeather).
 - [Card Settings](https://github.com/codegrue/card_settings) [559⭐] - package for building settings forms by [codegrue](https://github.com/codegrue).
 - [Timelines](https://github.com/chulwoo-park/timelines) [768⭐] - Powerful & Easy to use timeline package by [Chulwoo Park](https://github.com/chulwoo-park).
+- [Timeline Tile](https://github.com/JHBitencourt/timeline_tile) [783⭐] - Tile to help build beautiful and customisable timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
