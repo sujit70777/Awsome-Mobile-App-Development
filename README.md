@@ -375,3 +375,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Card Settings](https://github.com/codegrue/card_settings) [559⭐] - package for building settings forms by [codegrue](https://github.com/codegrue).
 - [Timelines](https://github.com/chulwoo-park/timelines) [768⭐] - Powerful & Easy to use timeline package by [Chulwoo Park](https://github.com/chulwoo-park).
 - [Timeline Tile](https://github.com/JHBitencourt/timeline_tile) [783⭐] - Tile to help build beautiful and customisable timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
+- [Rounded Loading Button](https://github.com/chrisedg87/flutter_rounded_loading_button) [358⭐] - Button with a loading indicator, complete with success and error animations by [Chris Edgington](https://twitter.com/ChrisTheEdg).
