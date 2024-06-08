@@ -377,3 +377,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Timeline Tile](https://github.com/JHBitencourt/timeline_tile) [783⭐] - Tile to help build beautiful and customisable timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
 - [Rounded Loading Button](https://github.com/chrisedg87/flutter_rounded_loading_button) [358⭐] - Button with a loading indicator, complete with success and error animations by [Chris Edgington](https://twitter.com/ChrisTheEdg).
 - [Flyer Chat](https://github.com/flyerhq/flutter_chat_ui) [2070⭐] - Community-driven chat UI implementation by the [Flyer Chat team](https://github.com/flyerhq).
+- [Smooth Page Indicator](https://github.com/Milad-Akarie/smooth_page_indicator) [1383⭐] - Customizable animated page indicator with a set of built-in effects. [Milad Akarie](https://github.com/Milad-Akarie).
