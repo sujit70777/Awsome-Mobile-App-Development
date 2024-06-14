@@ -381,3 +381,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Super Editor](https://github.com/superlistapp/super_editor/) [?⭐] - Advanced toolkit for building document editors and readers by [Flutter Bounty Hunters](https://flutterbountyhunters.com).
 - [Forui](https://github.com/forus-labs/forui) [1379⭐] - Minimalistic UI library heavily inspired by shadcn/ui by [Forus Labs](https://github.com/forus-labs).
 - [Shadcn](https://github.com/nank1ro/flutter-shadcn-ui) [2276⭐] - Shadcn-ui port. Fully customizable UI components.
+- [TDesign Flutter](https://github.com/Tencent/tdesign-flutter) [951⭐] - A useful UI component library matches the TDesign style by [Tencent](https://github.com/Tencent).
