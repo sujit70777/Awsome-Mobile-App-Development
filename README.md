@@ -385,3 +385,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Super List](https://github.com/superlistapp/super_sliver_list) [384⭐] - Drop-in replacement for SliverList and ListView that can handle large amount of items with variable extents by [Matej Knopp](https://github.com/knopp).
 - [Reorderables](https://github.com/hanshengchiu/reorderables) [759⭐] - Drag&Drop Table, Row, Column, Wrap(Grid) and SliverList elements by [Hansheng Chiu](https://github.com/hanshengchiu).
 - [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) [1290⭐] - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
+- [Infinite Listview](https://github.com/fluttercommunity/flutter_infinite_listview) [303⭐] - Infinite scroll in both directions by [Simon Lightfoot](https://github.com/slightfoot).
