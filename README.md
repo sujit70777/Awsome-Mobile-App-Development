@@ -388,3 +388,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Infinite Listview](https://github.com/fluttercommunity/flutter_infinite_listview) [303⭐] - Infinite scroll in both directions by [Simon Lightfoot](https://github.com/slightfoot).
 - [PlutoGrid](https://github.com/bosskmk/pluto_grid) [725⭐] - Web and desktop datagrid that can be controlled by the keyboard by [bosskmk](https://github.com/bosskmk).
 - [Typeahead](https://github.com/AbdulRahmanAlHamali/flutter_typeahead) [847⭐] - Display overlay suggestions to users as they type by [Abdul Rahman Al Hamali](https://github.com/AbdulRahmanAlHamali).
+- [Snaplist](https://github.com/ariedov/flutter_snaplist) [456⭐] - Create snappable list views by [David Leibovych](https://github.com/ariedov).
