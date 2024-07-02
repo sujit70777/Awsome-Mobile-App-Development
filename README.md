@@ -391,3 +391,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Snaplist](https://github.com/ariedov/flutter_snaplist) [456⭐] - Create snappable list views by [David Leibovych](https://github.com/ariedov).
 - [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) [3206⭐] - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar).
 - [Sticky Headers](https://github.com/slightfoot/flutter_sticky_headers) [1131⭐] - Configurable sticky headers by [Simon Lightfoot](http://www.devangels.london/).
+- [Hidden Drawer Menu](https://github.com/RafaelBarbosatec/hidden_drawer_menu) [354⭐] - Beautiful drawer mode menu feature with perspective animations by [Rafael Almeida Barbosa](https://github.com/RafaelBarbosatec).
