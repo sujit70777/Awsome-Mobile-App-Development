@@ -396,3 +396,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Fancy Bottom Navigation](https://github.com/tunitowen/fancy_bottom_navigation) [808⭐] - Animated bottom navigation by [Tony Owen](https://github.com/tunitowen).
 - [Circular Bottom Navigation](https://github.com/imaNNeoFighT/circular_bottom_navigation) [680⭐] - Beautiful animated bottom navigation bar by [Iman Khoshabi](https://github.com/imaNNeoFighT).
 - [Bottom Navy Bar](https://github.com/pedromassango/bottom_navy_bar) [1069⭐] - Beautiful and colorful animated bottom navigation bar by [Pedro Massango](https://github.com/pedromassango).
+- [Titled Navigation Bar](https://github.com/pedromassango/titled_navigation_bar) [370⭐] - Animated bottom navigation bar that switch between icon and title by [Pedro Massango](http://github.com/pedromassango).
