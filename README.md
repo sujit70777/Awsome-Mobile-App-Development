@@ -399,3 +399,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Titled Navigation Bar](https://github.com/pedromassango/titled_navigation_bar) [370⭐] - Animated bottom navigation bar that switch between icon and title by [Pedro Massango](http://github.com/pedromassango).
 - [Google Nav Bar](https://github.com/sooxt98/google_nav_bar) [772⭐] - A modern google style nav bar for flutter by [Sooxt98](http://github.com/sooxt98).
 - [Rubber Bottom Sheet](https://github.com/mcrovero/rubber) [566⭐] - Elastic material bottom sheet by [Mattia Crovero](https://github.com/mcrovero).
+- [Modal Bottom Sheet](https://github.com/jamesblasco/modal_bottom_sheet) [1959⭐] - Modal bottom sheet with Material, Cupertino iOS13 or custom appareance by [Jaime Blasco](https://github.com/jamesblasco).
