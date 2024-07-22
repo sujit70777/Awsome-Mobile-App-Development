@@ -402,3 +402,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Modal Bottom Sheet](https://github.com/jamesblasco/modal_bottom_sheet) [1959⭐] - Modal bottom sheet with Material, Cupertino iOS13 or custom appareance by [Jaime Blasco](https://github.com/jamesblasco).
 - [RangeSlider](https://github.com/boeledi/RangeSlider) [376⭐] - 2-thumb configurable RangeSlider by [Didier Boelens](https://www.didierboelens.com).
 - [Fluid Slider](https://github.com/rvamsikrishna/flutter_fluid_slider) [324⭐] - A slider with a minimal design and fluid like animation by [Vamsi Krishna](https://github.com/rvamsikrishna).
+- [Flutter Xlider](https://github.com/Ali-Azmoud/flutter_xlider) [524⭐] - A material design slider and range slider, horizontal and vertical, with RTL support by [Ali-Azmoud](https://github.com/Ali-Azmoud).
