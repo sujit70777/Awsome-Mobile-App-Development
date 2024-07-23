@@ -404,3 +404,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Fluid Slider](https://github.com/rvamsikrishna/flutter_fluid_slider) [324⭐] - A slider with a minimal design and fluid like animation by [Vamsi Krishna](https://github.com/rvamsikrishna).
 - [Flutter Xlider](https://github.com/Ali-Azmoud/flutter_xlider) [524⭐] - A material design slider and range slider, horizontal and vertical, with RTL support by [Ali-Azmoud](https://github.com/Ali-Azmoud).
 - [Offline](https://github.com/jogboms/flutter_offline) [1245⭐] - Tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
+- [In View Notifier List](https://github.com/rvamsikrishna/inview_notifier_list) [?⭐] - ListView that notify when widgets are on screen within a provided area by [Vamsi Krishna](https://github.com/inview_notifier_list).
