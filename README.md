@@ -408,3 +408,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [ShowCaseView](https://github.com/simformsolutions/flutter_showcaseview) [1805⭐] - Way to showcase your app features on iOS and Android by [Simform](https://github.com/simformsolutions).
 - [Mix](https://github.com/leoafarias/mix) [724⭐] - An expressive way to effortlessly build design systems by [Leo Farias](https://github.com/leoafarias).
 - [Blurhash](https://github.com/fluttercommunity/flutter_blurhash) [556⭐] - Compact representation of a placeholder for an image. Encode a blurry image under 30 characters by [Robert Felker](https://www.linkedin.com/in/robert-felker/).
+- [Unicorn Speed Dial](https://github.com/tiagojencmartins/unicornspeeddial) [345⭐] - Floating Action Button with Speed Dial by [Tiago Martins](https://github.com/tiagojencmartins).
