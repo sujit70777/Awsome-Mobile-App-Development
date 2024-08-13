@@ -411,3 +411,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Unicorn Speed Dial](https://github.com/tiagojencmartins/unicornspeeddial) [345⭐] - Floating Action Button with Speed Dial by [Tiago Martins](https://github.com/tiagojencmartins).
 - [Slidable](https://github.com/letsar/flutter_slidable) [2828⭐] - Slidable list item with left and right slide actions by [Romain Rastel](https://github.com/letsar).
 - [Backdrop](https://github.com/fluttercommunity/backdrop) [341⭐] - [Backdrop](https://material.io/design/components/backdrop.html) implementation for flutter.
+- [Frosted Glass](http://stackoverflow.com/questions/43550853/how-do-i-do-the-frosted-glass-effect-in-flutter) - Render effect by [Collin Jackson](http://www.collinjackson.com).
