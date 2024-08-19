@@ -412,3 +412,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Slidable](https://github.com/letsar/flutter_slidable) [2828⭐] - Slidable list item with left and right slide actions by [Romain Rastel](https://github.com/letsar).
 - [Backdrop](https://github.com/fluttercommunity/backdrop) [341⭐] - [Backdrop](https://material.io/design/components/backdrop.html) implementation for flutter.
 - [Frosted Glass](http://stackoverflow.com/questions/43550853/how-do-i-do-the-frosted-glass-effect-in-flutter) - Render effect by [Collin Jackson](http://www.collinjackson.com).
+- [Parallax](https://github.com/roughike/page-transformer) [876⭐] - ViewPager by [Iiro Krankka](https://github.com/roughike).
