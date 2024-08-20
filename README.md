@@ -413,3 +413,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Backdrop](https://github.com/fluttercommunity/backdrop) [341⭐] - [Backdrop](https://material.io/design/components/backdrop.html) implementation for flutter.
 - [Frosted Glass](http://stackoverflow.com/questions/43550853/how-do-i-do-the-frosted-glass-effect-in-flutter) - Render effect by [Collin Jackson](http://www.collinjackson.com).
 - [Parallax](https://github.com/roughike/page-transformer) [876⭐] - ViewPager by [Iiro Krankka](https://github.com/roughike).
+- [Shimmer](https://github.com/hnvn/flutter_shimmer) [1832⭐] - Shimmer effect while content is loading by [HungHD](https://github.com/hnvn).
