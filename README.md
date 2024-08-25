@@ -415,3 +415,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Parallax](https://github.com/roughike/page-transformer) [876⭐] - ViewPager by [Iiro Krankka](https://github.com/roughike).
 - [Shimmer](https://github.com/hnvn/flutter_shimmer) [1832⭐] - Shimmer effect while content is loading by [HungHD](https://github.com/hnvn).
 - [Wave](https://github.com/i-protoss/wave) [1122⭐] - Displaying some waves with custom color, duration, floating and blur effects by [RockerFlower](https://github.com/RockerFlower).
+- [Liquid Swipe](https://github.com/iamSahdeep/liquid_swipe_flutter) - Liquid swipe to your stacked containers by [Sahdeep Singh](https://github.com/iamSahdeep).
