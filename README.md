@@ -418,3 +418,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Liquid Swipe](https://github.com/iamSahdeep/liquid_swipe_flutter) - Liquid swipe to your stacked containers by [Sahdeep Singh](https://github.com/iamSahdeep).
 - [PhotoFilters](https://github.com/skkallayath/photofilters) [427⭐] - Apply filters to an image by [Sharafudheen KK](https://github.com/skkallayath).
 - [Shine](https://github.com/JonathanMonga/flutter_shine.dart) [149⭐]  - Pretty shadows with dynamic light positions by [Jonathan Monga](https://github.com/JonathanMonga/).
+- [Clay Containers](https://github.com/mcaubrey/clay_containers) [456⭐] - Neumorphic widget primitives to serve as the foundation of your own designs by [Michael Charles](https://github.com/mcaubrey).
