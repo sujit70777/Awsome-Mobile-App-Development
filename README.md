@@ -419,3 +419,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [PhotoFilters](https://github.com/skkallayath/photofilters) [427⭐] - Apply filters to an image by [Sharafudheen KK](https://github.com/skkallayath).
 - [Shine](https://github.com/JonathanMonga/flutter_shine.dart) [149⭐]  - Pretty shadows with dynamic light positions by [Jonathan Monga](https://github.com/JonathanMonga/).
 - [Clay Containers](https://github.com/mcaubrey/clay_containers) [456⭐] - Neumorphic widget primitives to serve as the foundation of your own designs by [Michael Charles](https://github.com/mcaubrey).
+- [Calendar Widget](https://github.com/pinkfish/flutter_calendar) [243⭐] - Calendar widget by [David Bennett](https://github.com/pinkfish).
