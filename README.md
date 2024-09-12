@@ -426,3 +426,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Dynamic Widget](https://github.com/dengyin2000/dynamic_widget) [1630⭐] - Build your dynamic UI with json, and the json format is very similar with flutter widget code by [Denny Deng](https://github.com/dengyin2000).
 ### Image
 
+- [Carousel Slider](https://github.com/serenader2014/flutter_carousel_slider) [1671⭐] - Carousel slider widget, support infinite scroll and custom child widget by [serenader](https://github.com/serenader2014).
