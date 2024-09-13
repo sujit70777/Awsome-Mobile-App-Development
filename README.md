@@ -429,3 +429,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Carousel Slider](https://github.com/serenader2014/flutter_carousel_slider) [1671⭐] - Carousel slider widget, support infinite scroll and custom child widget by [serenader](https://github.com/serenader2014).
 - [Parallax Image](https://github.com/pulyaevskiy/parallax-image) [278⭐] - Image parallax by [Anatoly Pulyaevskiy](https://github.com/pulyaevskiy).
 - [Photo View](https://github.com/renancaraujo/photo_view) [1982⭐] - Scalable image view with loading placeholder by [Renan C. Araújo](https://github.com/renancaraujo).
+- [SVG](https://github.com/dnfield/flutter_svg) [1689⭐] - SVG parsing, rendering, and widget library by [Dan Field](https://github.com/dnfield).
