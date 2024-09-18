@@ -432,3 +432,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [SVG](https://github.com/dnfield/flutter_svg) [1689⭐] - SVG parsing, rendering, and widget library by [Dan Field](https://github.com/dnfield).
 - [Image Cropper](https://github.com/hnvn/flutter_image_cropper) [1046⭐] - Crop your images support ratio, rotation, zoom by [HungHD](https://github.com/hnvn).
 - [Cached Network Image](https://github.com/renefloor/flutter_cached_network_image) [2547⭐] - Show images from the internet and keep them in the cache directory by.
+- [Lottie](https://github.com/xvrh/lottie-flutter) [1257⭐] - Use airbnb's popular [After Effects Animation library](https://airbnb.design/lottie/) by [xvrh](https://github.com/xvrh/lottie-flutter).
