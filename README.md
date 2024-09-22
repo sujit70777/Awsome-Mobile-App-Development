@@ -435,3 +435,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Lottie](https://github.com/xvrh/lottie-flutter) [1257⭐] - Use airbnb's popular [After Effects Animation library](https://airbnb.design/lottie/) by [xvrh](https://github.com/xvrh/lottie-flutter).
 - [Bitmap](https://github.com/renancaraujo/bitmap) [176⭐] - Perform Bitmap manipulations (such as contrast and exposure) with a help from the Dart FFI by [Renan C. Araújo](https://github.com/renancaraujo).
 - [Crop](https://github.com/xclud/flutter_crop) [259⭐] - Crop any widget/image in Android, iOS, Web and Desktop by [Mahdi K. Fard](https://github.com/xclud/).
+- [Image Picker](https://github.com/flutter/packages/tree/main/packages/image_picker) - Images Selection by [Collin Jackson](http://www.collinjackson.com).
