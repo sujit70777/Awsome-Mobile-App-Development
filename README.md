@@ -436,3 +436,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Bitmap](https://github.com/renancaraujo/bitmap) [176⭐] - Perform Bitmap manipulations (such as contrast and exposure) with a help from the Dart FFI by [Renan C. Araújo](https://github.com/renancaraujo).
 - [Crop](https://github.com/xclud/flutter_crop) [259⭐] - Crop any widget/image in Android, iOS, Web and Desktop by [Mahdi K. Fard](https://github.com/xclud/).
 - [Image Picker](https://github.com/flutter/packages/tree/main/packages/image_picker) - Images Selection by [Collin Jackson](http://www.collinjackson.com).
+- [WeChat Assets Picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) [1616⭐] - Assets picker in WeChat style, support multi assets by [Alex Li](https://github.com/AlexV525).
