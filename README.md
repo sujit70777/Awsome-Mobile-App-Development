@@ -440,3 +440,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Advance Image Picker](https://pub.dev/packages/advance_image_picker) - Select and edit images from Android/iOS library and capture camera shots from within the same view by [WetaVN](https://github.com/weta-vn).
 ### Map
 
+- [Google Map View](https://github.com/apptreesoftware/flutter_google_map_view) [415⭐] - Displaying google map plugin by [AppTree Software](https://www.linkedin.com/company/apptree-software/).
