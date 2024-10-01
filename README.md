@@ -441,3 +441,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 ### Map
 
 - [Google Map View](https://github.com/apptreesoftware/flutter_google_map_view) [415⭐] - Displaying google map plugin by [AppTree Software](https://www.linkedin.com/company/apptree-software/).
+- [GeoCoder](https://github.com/aloisdeniel/flutter_geocoder) [191⭐] - Forward and reverse geocoding by [Aloïs Deniel](https://aloisdeniel.github.com).
