@@ -444,3 +444,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [GeoCoder](https://github.com/aloisdeniel/flutter_geocoder) [191⭐] - Forward and reverse geocoding by [Aloïs Deniel](https://aloisdeniel.github.com).
 - [Mapbox GL](https://github.com/mapbox/flutter-mapbox-gl) [270⭐] - Interactive, customizable vector maps by Mapbox.
 - [AMap](https://github.com/fluttify-project/amap_map_fluttify) [540⭐] - Access to AMap services(高德地图) by [fluttify-project](https://github.com/fluttify-project).
+- [Map](https://github.com/xclud/flutter_map) [139⭐] - Fully-fledged interactive Map widget for flutter written in pure Dart. Supports all platforms. by [Mahdi K. Fard](https://github.com/xclud/).
