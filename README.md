@@ -448,3 +448,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 ### Charts
 
 - [Circular Chart](https://github.com/xqwzts/flutter_circular_chart) [406⭐] - Animated radial and pie charts by [Victor Choueiri](https://github.com/xqwzts).
+- [Sparkline](https://github.com/xqwzts/flutter_sparkline) [258⭐] - Sparkline by [Victor Choueiri](https://github.com/xqwzts).
