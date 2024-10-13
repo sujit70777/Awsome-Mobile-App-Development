@@ -447,3 +447,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Map](https://github.com/xclud/flutter_map) [139⭐] - Fully-fledged interactive Map widget for flutter written in pure Dart. Supports all platforms. by [Mahdi K. Fard](https://github.com/xclud/).
 ### Charts
 
+- [Circular Chart](https://github.com/xqwzts/flutter_circular_chart) [406⭐] - Animated radial and pie charts by [Victor Choueiri](https://github.com/xqwzts).
