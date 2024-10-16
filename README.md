@@ -452,3 +452,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Candlesticks](https://github.com/trentpiercy/flutter-candlesticks) [429⭐] - OHLC and Trade Volume Charts by [Trent Piercy](https://github.com/trentpiercy).
 - [FCharts](https://github.com/thekeenant/fcharts) [326⭐] - Beautiful, responsive, animated charts by [Keenan Thompson](https://keenant.com).
 - [FL Chart](https://github.com/imaNNeoFighT/fl_chart) [7313⭐] - Draw fantastic charts in Flutter by [Iman Khoshabi](http://www.ikhoshabi.com).
+- [Bezier Chart](https://github.com/aeyrium/bezier-chart) [451⭐] - Beautiful bezier line chart widget for flutter that is highly interactive and configurable by [Diego Velasquez](https://twitter.com/diegoveloper).
