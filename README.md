@@ -453,3 +453,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [FCharts](https://github.com/thekeenant/fcharts) [326⭐] - Beautiful, responsive, animated charts by [Keenan Thompson](https://keenant.com).
 - [FL Chart](https://github.com/imaNNeoFighT/fl_chart) [7313⭐] - Draw fantastic charts in Flutter by [Iman Khoshabi](http://www.ikhoshabi.com).
 - [Bezier Chart](https://github.com/aeyrium/bezier-chart) [451⭐] - Beautiful bezier line chart widget for flutter that is highly interactive and configurable by [Diego Velasquez](https://twitter.com/diegoveloper).
+- [Echarts](https://github.com/entronad/flutter_echarts) [765⭐] - Large collection of advanced reactives charts by [LIN Chen](https://github.com/entronad).
