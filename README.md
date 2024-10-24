@@ -457,3 +457,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Graphic](https://github.com/entronad/graphic) [1737⭐] - Data visualization library based on the Grammar of Graphics by [LIN Chen](https://github.com/entronad).
 ### Navigation
 
+- [Fluro](https://github.com/goposse/fluro) [3710⭐] - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com).
