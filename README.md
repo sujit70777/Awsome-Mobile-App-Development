@@ -460,3 +460,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Fluro](https://github.com/goposse/fluro) [3710⭐] - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com).
 - [PageView Indicator](https://github.com/leocavalcante/page_view_indicator) [165⭐] - Build page indicators for the PageView by [Leo Cavalcante](https://github.com/leocavalcante).
 - [Deep Link Navigation](https://github.com/Dennis-Krasnov/Flutter-Deep-Link-Navigation) [67⭐] - Elegant abstraction for complete deep linking navigation in Flutter by [Dennis Krasnov](https://denniskrasnov.com).
+- [Get](https://github.com/jonataslaw/get) [11002⭐] - Navigate between screens & display snackbars/dialogs/bottomSheets without context by [Jonny Borges](https://github.com/jonataslaw).
