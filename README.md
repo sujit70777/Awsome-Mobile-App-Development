@@ -463,3 +463,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Get](https://github.com/jonataslaw/get) [11002⭐] - Navigate between screens & display snackbars/dialogs/bottomSheets without context by [Jonny Borges](https://github.com/jonataslaw).
 - [Beamer](https://github.com/slovnicki/beamer) [602⭐] - Route through guarded page stacks and URLs using the Navigator 2.0 API effortlessly by [Sandro Lovnički](https://github.com/slovnicki).
 - [go_router](https://github.com/csells/go_router) [440⭐] - Declarative routes to reduce complexity, deep linking for mobile and the web while maintaining developer experience by [Chris Sells](https://github.com/csells).
+- [auto_route](https://github.com/Milad-Akarie/auto_route_library) [1708⭐] - AutoRoute is a declarative routing solution, where everything needed for navigation is automatically generated for you. [Milad_Akarie](https://github.com/Milad-Akarie).
