@@ -466,3 +466,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [auto_route](https://github.com/Milad-Akarie/auto_route_library) [1708⭐] - AutoRoute is a declarative routing solution, where everything needed for navigation is automatically generated for you. [Milad_Akarie](https://github.com/Milad-Akarie).
 ### Auth
 
+- [Local Auth](https://github.com/flutter/packages/tree/main/packages/local_auth) - Touch ID, lock code, fingerprint auth on iOS and Android.
