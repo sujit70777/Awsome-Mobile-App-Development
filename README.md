@@ -469,3 +469,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Local Auth](https://github.com/flutter/packages/tree/main/packages/local_auth) - Touch ID, lock code, fingerprint auth on iOS and Android.
 - [Login](https://github.com/AppleEducate/flutter_login) [710⭐] - FaceID, TouchID, and Fingerprint Reader by [Rody Davis](http://appleeducate.com).
 - [Google Sign-In](https://github.com/flutter/packages/tree/main/packages/google_sign_in) - Google OAuth.
+- [Firebase Auth](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_auth) - Firebase OAuth.
