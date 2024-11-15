@@ -471,3 +471,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Google Sign-In](https://github.com/flutter/packages/tree/main/packages/google_sign_in) - Google OAuth.
 - [Firebase Auth](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_auth) - Firebase OAuth.
 - [Facebook Login](https://github.com/roughike/flutter_facebook_login) [405⭐] - Authenticate with native Android & iOS Facebook login SDKs by [Iiro Krankka](https://github.com/roughike).
+- [Apple Sign-In](https://github.com/tomgilder/flutter_apple_sign_in) [160⭐] - Apple sign in by [Tom Gilder](https://github.com/tomgilder).
