@@ -476,3 +476,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Firebase Phone Auth](https://medium.com/@gildaswise/flutter-adding-sign-in-with-google-and-phone-authentication-to-your-app-69f681518f9b)  - Phone number auth via SMS by [Gildásio Filho](https://github.com/gildaswise).
 - [SimpleAuth](https://github.com/Clancey/simple_auth) [352⭐] - Azure Active Directory, Amazon, Dropbox, Facebook, Github, Google, Instagram, Linked In, Microsoft Live Connect, Github, OAuth, Basic Auth by [James Clancey](https://github.com/Clancey).
 - [Flutter AppAuth](https://github.com/MaikuB/flutter_appauth) [293⭐] - Plugin that provides a wrapper around the AppAuth iOS and Android SDKs by [Michael Bui](https://github.com/MaikuB).
+- [Passkeys](https://github.com/corbado/flutter-passkeys) [158⭐] Authenticate your users with passkeys (e.g. Face ID, Touch ID, screen lock) based on FIDO2 / WebAuthn by [Corbado](https://github.com/corbado).
