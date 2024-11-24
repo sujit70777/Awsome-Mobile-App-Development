@@ -479,3 +479,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Passkeys](https://github.com/corbado/flutter-passkeys) [158⭐] Authenticate your users with passkeys (e.g. Face ID, Touch ID, screen lock) based on FIDO2 / WebAuthn by [Corbado](https://github.com/corbado).
 ### Text & Rich Content
 
+- [Masked Text](https://github.com/benhurott/flutter-masked-text) [275⭐] - Masked text with custom and monetary formatting by [Ben-hur Santos Ott](https://github.com/benhurott).
