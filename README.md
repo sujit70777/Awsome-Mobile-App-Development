@@ -480,3 +480,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 ### Text & Rich Content
 
 - [Masked Text](https://github.com/benhurott/flutter-masked-text) [275⭐] - Masked text with custom and monetary formatting by [Ben-hur Santos Ott](https://github.com/benhurott).
+- [Fleather](https://github.com/fleather-editor/fleather) <!--stargazersfleather-editor/fleather--> - Soft & gentle rich text editor.
