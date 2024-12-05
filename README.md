@@ -483,3 +483,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Fleather](https://github.com/fleather-editor/fleather) <!--stargazersfleather-editor/fleather--> - Soft & gentle rich text editor.
 - [AutoSizeText](https://github.com/leisim/auto_size_text) [2111⭐] - Automatically resizes text to fit perfectly within its bounds by [Simon Leier](https://github.com/leisim).
 - [Parsed Text](https://github.com/fayeed/flutter_parsed_text) [222⭐] - Interactive text based on content recognition, also supports Regex by [Fayeed Pawaskar](https://github.com/fayeed/).
+- [TeX](https://github.com/shah-xad/flutter_tex) [295⭐] - Render Mathematics Equations with full HTML and JavaScript support by [Shahzad Akram](https://github.com/shah-xad).
