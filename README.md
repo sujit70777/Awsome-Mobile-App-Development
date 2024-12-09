@@ -487,3 +487,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Code Field](https://github.com/BertrandBev/code_field) - Customizable code field widget supporting syntax highlighting by [Bertrand Bevillard](https://github.com/BertrandBev).
 ### Forms
 
+- [Form Builder](https://github.com/danvick/flutter_form_builder) [1581⭐] - Framework that simplifies building forms, validating fields, reacting to changes, and collecting the final user input by [Danvick Miller](https://github.com/danvick).
