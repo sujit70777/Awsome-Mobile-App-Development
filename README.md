@@ -491,3 +491,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Reactive Forms](https://github.com/joanpablo/reactive_forms) [490⭐] - Model-driven approach to handling Forms inputs and validations, heavily inspired in Angular's Reactive Forms.
 ### Analytics
 
+- [Usage](https://github.com/dart-lang/usage) [147⭐] - Google Analytics wrapper for command-line, web, and Flutter apps.
