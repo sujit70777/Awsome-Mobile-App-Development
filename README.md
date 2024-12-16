@@ -492,3 +492,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 ### Analytics
 
 - [Usage](https://github.com/dart-lang/usage) [147⭐] - Google Analytics wrapper for command-line, web, and Flutter apps.
+- [Firebase Analytics](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_analytics) - Connect to Firebase Analytics API.
