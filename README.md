@@ -496,3 +496,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Pure Mixpanel](https://github.com/seenickcode/pure_mixpanel) [25⭐] - Analytics for the popular [Mixpanel.com](https://mixpanel.com) [Nick Manning](https://twitter.com/seenickcode).
 ### Internationalization
 
+- [GenLang](https://github.com/KingWu/gen_lang) [100⭐] - Code generator for Internationalization by [King Wu](https://github.com/KingWu).
