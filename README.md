@@ -501,3 +501,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [attranslate](https://github.com/fkirc/attranslate) - Semi-automated translation of ARB or JSON files by [fkirc](https://github.com/fkirc).
 ### Styling
 
+- [Flutterial](https://github.com/rxlabz/flutterial) [1753⭐] - Flutter Material Theme explorer by [Erick Ghaumez](https://twitter.com/rxlabz).
