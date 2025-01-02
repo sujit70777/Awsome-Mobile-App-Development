@@ -2032,3 +2032,6 @@ Notable changes to this project.
 
 ### 2023-12-31
 - Small documentation improvements.
+
+### 2025-01-02
+- Small wording tweak.
