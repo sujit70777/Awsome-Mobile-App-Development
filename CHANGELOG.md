@@ -2035,3 +2035,6 @@ Notable changes to this project.
 
 ### 2025-01-02
 - Small wording tweak.
+
+### 2025-01-04
+- Housekeeping update.
