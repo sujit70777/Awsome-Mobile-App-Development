@@ -2041,3 +2041,6 @@ Notable changes to this project.
 
 ### 2025-01-05
 - Housekeeping update.
+
+### 2025-01-06
+- Reorganized a few entries.
