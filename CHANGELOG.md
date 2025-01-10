@@ -2044,3 +2044,6 @@ Notable changes to this project.
 
 ### 2025-01-06
 - Reorganized a few entries.
+
+### 2025-01-10
+- Small wording tweak.
