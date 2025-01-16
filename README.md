@@ -531,3 +531,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 ### Analytics
 
 - [Answers by Fabric](https://get.fabric.io) - Answers gives you real-time insight into people’s experience in your app.
+- [Aptabase](https://aptabase.com/for-swift) - Open Source, Privacy-First and Simple Analytics for Swift Apps.
