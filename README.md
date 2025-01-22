@@ -534,3 +534,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Aptabase](https://aptabase.com/for-swift) - Open Source, Privacy-First and Simple Analytics for Swift Apps.
 - [Bugsnag](https://www.bugsnag.com/platforms/ios-crash-reporting) - Error tracking with a free tier. Error reports include data on device, release, user, and allows arbitrary data.
 - [Countly](https://count.ly) - Open source, mobile & web analytics, crash reports and push notifications platform for iOS & Android.
+- [devtodev](https://www.devtodev.com/) - Comprehensive analytics service that improves your project and saves time for product development.
