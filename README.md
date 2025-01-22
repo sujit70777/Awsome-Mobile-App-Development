@@ -535,3 +535,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Bugsnag](https://www.bugsnag.com/platforms/ios-crash-reporting) - Error tracking with a free tier. Error reports include data on device, release, user, and allows arbitrary data.
 - [Countly](https://count.ly) - Open source, mobile & web analytics, crash reports and push notifications platform for iOS & Android.
 - [devtodev](https://www.devtodev.com/) - Comprehensive analytics service that improves your project and saves time for product development.
+- [Embrace](http://embrace.io) - Mobile observability, built on OpenTelemetry, to provide user-focused, reliable apps.
