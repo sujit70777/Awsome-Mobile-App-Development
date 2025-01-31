@@ -2053,3 +2053,6 @@ Notable changes to this project.
 
 ### 2025-01-23
 - Housekeeping update.
+
+### 2025-01-31
+- Updated a few links.
