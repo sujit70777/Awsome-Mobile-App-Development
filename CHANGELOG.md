@@ -2062,3 +2062,6 @@ Notable changes to this project.
 
 ### 2025-02-04
 - Updated a few links.
+
+### 2025-02-05
+- Housekeeping update.
