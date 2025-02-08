@@ -540,3 +540,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Instabug](https://instabug.com) - In-app feedback, Bug and Crash reporting, Fix Bugs Faster through user-steps, video recordings, screen annotation, network requests logging.
 - [Matomo](https://github.com/matomo-org/matomo-sdk-ios) - The MatomoTracker is an iOS, tvOS and macOS SDK for sending app analytics to a Matomo server.
 - [Measure](https://measure.sh/) - Open source, self-hostable mobile app monitoring with error tracking, performance tracing and full session timelines to spend less time stitching context and fix issues faster.
+- [Mixpanel](https://mixpanel.com/) - Advanced analytics platform.
