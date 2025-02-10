@@ -541,3 +541,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Matomo](https://github.com/matomo-org/matomo-sdk-ios) - The MatomoTracker is an iOS, tvOS and macOS SDK for sending app analytics to a Matomo server.
 - [Measure](https://measure.sh/) - Open source, self-hostable mobile app monitoring with error tracking, performance tracing and full session timelines to spend less time stitching context and fix issues faster.
 - [Mixpanel](https://mixpanel.com/) - Advanced analytics platform.
+- [MOCA Analytics](https://www.mocaplatform.com/features) - Paid cross-platform analytics backend.
