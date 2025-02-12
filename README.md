@@ -542,3 +542,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Measure](https://measure.sh/) - Open source, self-hostable mobile app monitoring with error tracking, performance tracing and full session timelines to spend less time stitching context and fix issues faster.
 - [Mixpanel](https://mixpanel.com/) - Advanced analytics platform.
 - [MOCA Analytics](https://www.mocaplatform.com/features) - Paid cross-platform analytics backend.
+- [Segment](https://github.com/segmentio/analytics-ios) - The hassle-free way to integrate analytics into any iOS application.
