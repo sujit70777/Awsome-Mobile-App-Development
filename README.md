@@ -549,3 +549,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 ### App Routing
 
 - [ApplicationCoordinator](https://github.com/AndreyPanov/ApplicationCoordinator) - Coordinator is an object that handles navigation flow and shares flow’s handling for the next coordinator after switching on the next chain.
+- [Appz](https://github.com/SwiftKitz/Appz) - Easily launch and deeplink into external applications, falling back to web if not installed.
