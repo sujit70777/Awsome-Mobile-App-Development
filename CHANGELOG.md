@@ -2089,3 +2089,6 @@ Notable changes to this project.
 
 ### 2025-03-17
 - Routine maintenance pass.
+
+### 2025-03-18
+- Reorganized a few entries.
