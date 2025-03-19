@@ -2092,3 +2092,6 @@ Notable changes to this project.
 
 ### 2025-03-18
 - Reorganized a few entries.
+
+### 2025-03-19
+- Small wording tweak.
