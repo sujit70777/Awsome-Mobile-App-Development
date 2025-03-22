@@ -2098,3 +2098,6 @@ Notable changes to this project.
 
 ### 2025-03-20
 - Fixed minor formatting.
+
+### 2025-03-22
+- Reorganized a few entries.
