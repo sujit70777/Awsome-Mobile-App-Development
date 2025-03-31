@@ -2104,3 +2104,6 @@ Notable changes to this project.
 
 ### 2025-03-23
 - Updated a few links.
+
+### 2025-03-31
+- Fixed minor formatting.
