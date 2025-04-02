@@ -2110,3 +2110,6 @@ Notable changes to this project.
 
 ### 2025-04-01
 - Routine maintenance pass.
+
+### 2025-04-02
+- Fixed minor formatting.
