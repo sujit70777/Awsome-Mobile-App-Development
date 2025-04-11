@@ -560,3 +560,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) - Navigation framework for iOS applications based on a Reactive Flow Coordinator pattern.
 - [SwiftCurrent](https://github.com/wwt/SwiftCurrent) - A library for managing complex workflows.
 - [SwiftRouter](https://github.com/skyline75489/SwiftRouter) - A URL Router for iOS.
+- [URLNavigator](https://github.com/devxoul/URLNavigator) - Elegant URL Routing for Swift
