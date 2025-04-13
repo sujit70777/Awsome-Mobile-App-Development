@@ -2119,3 +2119,6 @@ Notable changes to this project.
 
 ### 2025-04-10
 - General maintenance.
+
+### 2025-04-13
+- Housekeeping update.
