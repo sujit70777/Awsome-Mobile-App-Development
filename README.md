@@ -565,3 +565,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 
 ### App Store
 
+- [Apple Review Guidelines](https://developer.apple.com/app-store/review/#common-app-rejections) - Highlighted some of the most common issues that cause apps to get rejected.
