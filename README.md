@@ -570,3 +570,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 
 ### Apple TV
 
+- [ParallaxView](https://github.com/PGSSoft/ParallaxView) - iOS controls and extensions that add parallax effect to your application.
