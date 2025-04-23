@@ -2128,3 +2128,6 @@ Notable changes to this project.
 
 ### 2025-04-21
 - General maintenance.
+
+### 2025-04-23
+- Reorganized a few entries.
