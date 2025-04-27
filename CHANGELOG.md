@@ -2134,3 +2134,6 @@ Notable changes to this project.
 
 ### 2025-04-26
 - Routine maintenance pass.
+
+### 2025-04-27
+- Minor cleanup.
