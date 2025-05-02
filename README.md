@@ -576,3 +576,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 
 ### Architecture Patterns
 
+- [Clean Architecture for SwiftUI + Combine](https://github.com/nalexn/clean-architecture-swiftui) - A demo project showcasing the production setup of the SwiftUI app with Clean Architecture.
