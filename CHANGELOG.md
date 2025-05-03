@@ -2137,3 +2137,6 @@ Notable changes to this project.
 
 ### 2025-04-27
 - Minor cleanup.
+
+### 2025-05-03
+- Minor cleanup.
