@@ -2140,3 +2140,6 @@ Notable changes to this project.
 
 ### 2025-05-03
 - Minor cleanup.
+
+### 2025-05-04
+- Small documentation improvements.
