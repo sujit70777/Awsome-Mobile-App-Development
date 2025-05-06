@@ -2143,3 +2143,6 @@ Notable changes to this project.
 
 ### 2025-05-04
 - Small documentation improvements.
+
+### 2025-05-06
+- Fixed minor formatting.
