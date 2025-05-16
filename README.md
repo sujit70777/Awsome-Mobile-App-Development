@@ -583,3 +583,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Reactant](https://github.com/Brightify/Reactant) - Reactant is a reactive architecture for iOS.
 - [Spin](https://github.com/Spinners/Spin.Swift) - A universal implementation of a Feedback Loop system for RxSwift, ReactiveSwift and Combine
 - [SwiftyVIPER](https://github.com/codytwinton/SwiftyVIPER) - Makes implementing VIPER architecture much easier and cleaner.
+- [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) - The Composable Architecture is a library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
