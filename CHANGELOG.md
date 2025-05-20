@@ -2155,3 +2155,6 @@ Notable changes to this project.
 
 ### 2025-05-18
 - Small documentation improvements.
+
+### 2025-05-20
+- Small documentation improvements.
