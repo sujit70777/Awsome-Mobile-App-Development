@@ -589,3 +589,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 ### ARKit
 
 - [ARKit Virtual Objects](https://github.com/ignacio-chiazzo/ARKit) - Placing Virtual Objects in Augmented Reality.
+- [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
