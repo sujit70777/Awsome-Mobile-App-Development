@@ -2170,3 +2170,6 @@ Notable changes to this project.
 
 ### 2025-05-28
 - Updated a few links.
+
+### 2025-05-31
+- Minor cleanup.
