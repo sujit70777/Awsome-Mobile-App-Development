@@ -596,3 +596,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 ### Authentication
 
 - [Heimdallr.swift](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS, written in Swift.
+- [OAuth2](https://github.com/p2/OAuth2) - OAuth2 framework for macOS and iOS, written in Swift.
