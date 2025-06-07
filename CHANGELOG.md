@@ -2179,3 +2179,6 @@ Notable changes to this project.
 
 ### 2025-06-05
 - Housekeeping update.
+
+### 2025-06-07
+- Small documentation improvements.
