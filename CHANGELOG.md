@@ -2188,3 +2188,6 @@ Notable changes to this project.
 
 ### 2025-06-08
 - Routine maintenance pass.
+
+### 2025-06-10
+- Minor cleanup.
