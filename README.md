@@ -603,3 +603,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 
 ### Blockchain
 
+- [BitcoinKit](https://github.com/yenom/BitcoinKit) - Bitcoin protocol toolkit for Swift, BitcoinKit implements Bitcoin protocol in Swift. It is an implementation of the Bitcoin SPV protocol written in swift.
