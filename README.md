@@ -610,3 +610,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 
 ### Books
 
+- [Advanced Swift by Chris Eidhof, Ole Begemann, and Airspeed Velocity](https://www.objc.io/books/advanced-swift/)
