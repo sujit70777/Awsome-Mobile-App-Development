@@ -611,3 +611,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 ### Books
 
 - [Advanced Swift by Chris Eidhof, Ole Begemann, and Airspeed Velocity](https://www.objc.io/books/advanced-swift/)
+- [Anyone Can Create an App by Wendy L. Wise](https://www.manning.com/books/anyone-can-create-an-app)
