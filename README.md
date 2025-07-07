@@ -615,3 +615,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Classic Computer Science Problems in Swift](https://www.manning.com/books/classic-computer-science-problems-in-swift)
 - [Cocoa Design Patterns](https://www.amazon.com/Cocoa-Design-Patterns-Erik-Buck/dp/0321535022)
 - [Core Data by Florian Kugler and Daniel Eggert](https://www.objc.io/books/core-data/)
+- [Functional Swift by Chris Eidhof, Florian Kugler, and Wouter Swierstra](https://www.objc.io/books/functional-swift/)
