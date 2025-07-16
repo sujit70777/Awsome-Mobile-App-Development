@@ -618,3 +618,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Functional Swift by Chris Eidhof, Florian Kugler, and Wouter Swierstra](https://www.objc.io/books/functional-swift/)
 - [Hello Swift! by Tanmay Bakshi with Lynn Beighley](https://www.manning.com/books/hello-swift)
 - [iOS Development with Swift by Craig Grummitt](https://www.manning.com/books/ios-development-with-swift)
+- [iOS Programming: The Big Nerd Ranch Guide by Christian Keur, Aaron Hillegass](https://www.bignerdranch.com/books/ios-programming-the-big-nerd-ranch-guide-seventh-edition/)
