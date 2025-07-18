@@ -620,3 +620,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [iOS Development with Swift by Craig Grummitt](https://www.manning.com/books/ios-development-with-swift)
 - [iOS Programming: The Big Nerd Ranch Guide by Christian Keur, Aaron Hillegass](https://www.bignerdranch.com/books/ios-programming-the-big-nerd-ranch-guide-seventh-edition/)
 - [Programming in Objective-C by Stephen G. Kochan](https://www.amazon.com/Programming-Objective-C-6th-Developers-Library/dp/0321967607)
+- [Swift in Depth](https://www.manning.com/books/swift-in-depth)
