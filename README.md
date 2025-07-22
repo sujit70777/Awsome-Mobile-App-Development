@@ -626,3 +626,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 
 ### Cache
 
+- [Awesome Cache](https://github.com/aschuch/AwesomeCache) - Delightful on-disk cache (written in Swift).
