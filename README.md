@@ -629,3 +629,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Awesome Cache](https://github.com/aschuch/AwesomeCache) - Delightful on-disk cache (written in Swift).
 - [Cache](https://github.com/hyperoslo/Cache) - Nothing but Cache.
 - [Disk](https://github.com/saoudrizwan/Disk) - Delightful framework for iOS to easily persist structs, images, and data.
+- [HanekeSwift](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images.
