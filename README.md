@@ -632,3 +632,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [HanekeSwift](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images.
 - [mattress](https://github.com/buzzfeed/mattress) - iOS Offline Caching for Web Content.
 - [PINCache](https://github.com/pinterest/PINCache) - Fast, non-deadlocking parallel object cache for iOS and macOS.
+- [RocketData](https://github.com/plivesey/RocketData) - A caching and consistency solution for immutable models.
