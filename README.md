@@ -633,3 +633,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [mattress](https://github.com/buzzfeed/mattress) - iOS Offline Caching for Web Content.
 - [PINCache](https://github.com/pinterest/PINCache) - Fast, non-deadlocking parallel object cache for iOS and macOS.
 - [RocketData](https://github.com/plivesey/RocketData) - A caching and consistency solution for immutable models.
+- [SPTPersistentCache](https://github.com/spotify/SPTPersistentCache) - Everyone tries to implement a cache at some point in their iOS app’s lifecycle, and this is ours. By Spotify.
