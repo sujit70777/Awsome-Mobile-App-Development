@@ -639,3 +639,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 
 ### Charts
 
+- [ANDLineChartView](https://github.com/anaglik/ANDLineChartView) - ANDLineChartView is easy to use view-based class for displaying animated line chart.
