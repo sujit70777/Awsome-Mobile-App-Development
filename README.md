@@ -643,3 +643,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Charts](https://github.com/danielgindi/Charts) - A powerful chart/graph framework, the iOS equivalent to [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart).
 - [core-plot](https://github.com/core-plot/core-plot) - A 2D plotting lib which is highly customizable and capable of drawing many types of plots.
 - [EatFit](https://github.com/Yalantis/EatFit) - Eat fit is a component for attractive data representation inspired by Google Fit.
+- [EChart](https://github.com/zhuhuihuihui/EChart) - iOS/iPhone/iPad Chart, Graph. Event handling and animation supported.
