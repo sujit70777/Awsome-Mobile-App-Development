@@ -647,3 +647,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [FSInteractiveMap](https://github.com/ArthurGuibert/FSInteractiveMap) - A charting library to visualize and interact with a vector map on iOS. It's like Geochart but for iOS.
 - [FSLineChart](https://github.com/ArthurGuibert/FSLineChart) - A line chart library for iOS.
 - [JBChartView](https://github.com/Jawbone/JBChartView) - iOS-based charting library for both line and bar graphs.
+- [JYRadarChart](https://github.com/johnnywjy/JYRadarChart) - An iOS open source Radar Chart implementation.
