@@ -648,3 +648,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [FSLineChart](https://github.com/ArthurGuibert/FSLineChart) - A line chart library for iOS.
 - [JBChartView](https://github.com/Jawbone/JBChartView) - iOS-based charting library for both line and bar graphs.
 - [JYRadarChart](https://github.com/johnnywjy/JYRadarChart) - An iOS open source Radar Chart implementation.
+- [MagicPie](https://github.com/AlexandrGraschenkov/MagicPie) - Awesome layer-based pie chart. Fantastically fast and fully customizable. Amazing animations available with MagicPie.
