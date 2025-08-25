@@ -652,3 +652,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [PieCharts](https://github.com/i-schuetz/PieCharts) - Easy to use and highly customizable pie charts library for iOS.
 - [PNChart](https://github.com/kevinzhow/PNChart) - A simple and beautiful chart lib used in Piner and CoinsMan for iOS.
 - [Scrollable-GraphView](https://github.com/philackm/ScrollableGraphView) - An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift.
+- [SwiftChart](https://github.com/gpbl/SwiftChart) - Line and area chart library for iOS.
