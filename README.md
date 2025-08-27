@@ -654,3 +654,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Scrollable-GraphView](https://github.com/philackm/ScrollableGraphView) - An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift.
 - [SwiftChart](https://github.com/gpbl/SwiftChart) - Line and area chart library for iOS.
 - [TEAChart](https://github.com/xhacker/TEAChart) - Simple and intuitive iOS chart library. Contribution graph, clock chart, and bar chart.
+- [TKRadarChart](https://github.com/TBXark/TKRadarChart) - A customizable radar chart in Swift.
