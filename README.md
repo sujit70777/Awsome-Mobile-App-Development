@@ -655,3 +655,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [SwiftChart](https://github.com/gpbl/SwiftChart) - Line and area chart library for iOS.
 - [TEAChart](https://github.com/xhacker/TEAChart) - Simple and intuitive iOS chart library. Contribution graph, clock chart, and bar chart.
 - [TKRadarChart](https://github.com/TBXark/TKRadarChart) - A customizable radar chart in Swift.
+- [TWRCharts](https://github.com/chasseurmic/TWRCharts) - An iOS wrapper for ChartJS. Easily build animated charts by leveraging the power of native Obj-C code.
