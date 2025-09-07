@@ -659,3 +659,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 
 ### Code Injection
 
+- [Inject](https://github.com/krzysztofzablocki/Inject) - Hot Reloading for Swift applications!
