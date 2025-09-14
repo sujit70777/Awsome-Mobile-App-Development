@@ -661,3 +661,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 
 - [Inject](https://github.com/krzysztofzablocki/Inject) - Hot Reloading for Swift applications!
 - [injectionforxcode](https://github.com/johnno1962/injectionforxcode) - Code injection including Swift.
+- [Vaccine](https://github.com/zenangst/Vaccine) - Vaccine is a framework that aims to make your apps immune to recompile-decease.
