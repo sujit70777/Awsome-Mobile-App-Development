@@ -665,3 +665,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 
 ### Code Quality
 
+- [Aardvark](https://github.com/square/Aardvark) - Aardvark is a library that makes it dead simple to create actionable bug reports.
