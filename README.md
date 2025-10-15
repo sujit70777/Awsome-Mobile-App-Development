@@ -680,3 +680,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 ### Linter
 
 - [AnyLint](https://github.com/Flinesoft/AnyLint) - Lint anything by combining the power of Swift & regular expressions.
+- [IBLinter](https://github.com/IBDecodable/IBLinter) - A linter tool for Interface Builder.
