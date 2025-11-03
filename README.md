@@ -694,3 +694,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Gestalt](https://github.com/regexident/Gestalt) - An unintrusive & light-weight iOS app-theming library with support for animated theme switching.
 - [Hue](https://github.com/zenangst/Hue) - Hue is the all-in-one coloring utility that you'll ever need.
 - [PrettyColors](https://github.com/jdhealy/PrettyColors) - Styles and colors text in the Terminal with ANSI escape codes. Conforms to ECMA Standard 48.
+- [RandomColorSwift](https://github.com/onevcat/RandomColorSwift) - An attractive color generator for Swift. Ported from `randomColor.js`.
