@@ -696,3 +696,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [PrettyColors](https://github.com/jdhealy/PrettyColors) - Styles and colors text in the Terminal with ANSI escape codes. Conforms to ECMA Standard 48.
 - [RandomColorSwift](https://github.com/onevcat/RandomColorSwift) - An attractive color generator for Swift. Ported from `randomColor.js`.
 - [SheetyColors](https://github.com/chrs1885/SheetyColors) - An action sheet styled color picker for iOS.
+- [SwiftHEXColors](https://github.com/thii/SwiftHEXColors) - HEX color handling as an extension for UIColor.
