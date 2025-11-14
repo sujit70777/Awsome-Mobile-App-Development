@@ -704,3 +704,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [ColorizeSwift](https://github.com/mtynior/ColorizeSwift) - Terminal string styling for Swift.
 - [Commander](https://github.com/kylef/Commander) - Compose beautiful command line interfaces in Swift.
 - [Guaka](https://github.com/nsomar/Guaka) - The smartest and most beautiful (POSIX compliant) command line framework for Swift.
+- [Linenoise](https://github.com/andybest/linenoise-swift) - A pure Swift replacement for readline
