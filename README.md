@@ -707,3 +707,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Linenoise](https://github.com/andybest/linenoise-swift) - A pure Swift replacement for readline
 - [nef](https://github.com/bow-swift/nef) - Command line tool to ease the creation of documentation in the form of Swift Playgrounds.
 - [Progress](https://github.com/jkandzi/Progress.swift) - Add beautiful progress bars to your loops.
+- [SourceDocs](https://github.com/eneko/SourceDocs) - Command Line Tool that generates Markdown documentation from inline source code comments.
