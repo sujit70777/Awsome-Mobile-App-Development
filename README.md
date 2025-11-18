@@ -708,3 +708,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [nef](https://github.com/bow-swift/nef) - Command line tool to ease the creation of documentation in the form of Swift Playgrounds.
 - [Progress](https://github.com/jkandzi/Progress.swift) - Add beautiful progress bars to your loops.
 - [SourceDocs](https://github.com/eneko/SourceDocs) - Command Line Tool that generates Markdown documentation from inline source code comments.
+- [Swift Argument Parser](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift
