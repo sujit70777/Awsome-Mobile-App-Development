@@ -709,3 +709,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Progress](https://github.com/jkandzi/Progress.swift) - Add beautiful progress bars to your loops.
 - [SourceDocs](https://github.com/eneko/SourceDocs) - Command Line Tool that generates Markdown documentation from inline source code comments.
 - [Swift Argument Parser](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift
+- [SwiftCLI](https://github.com/jakeheis/SwiftCLI) - A powerful framework for developing CLIs in Swift
