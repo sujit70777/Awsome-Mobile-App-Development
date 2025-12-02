@@ -716,3 +716,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 
 ### Concurrency
 
+- [AsyncNinja](https://github.com/AsyncNinja/AsyncNinja) - A complete set of concurrency and reactive programming primitives.
