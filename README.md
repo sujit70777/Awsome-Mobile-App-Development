@@ -720,3 +720,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [AsyncQueue](https://github.com/dfed/swift-async-queue) - A library of queues that enable sending ordered tasks from synchronous to asynchronous contexts.
 - [Concurrent](https://github.com/typelift/Concurrent) - Functional Concurrency Primitives.
 - [Queuer](https://github.com/FabrizioBrancati/Queuer) - A queue manager, built on top of OperationQueue and Dispatch (aka GCD).
+- [SwiftQueue](https://github.com/lucas34/SwiftQueue) - Job Scheduler with Concurrent run, failure/retry, persistence, repeat, delay and more.
