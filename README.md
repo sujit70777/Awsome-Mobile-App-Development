@@ -722,3 +722,6 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Queuer](https://github.com/FabrizioBrancati/Queuer) - A queue manager, built on top of OperationQueue and Dispatch (aka GCD).
 - [SwiftQueue](https://github.com/lucas34/SwiftQueue) - Job Scheduler with Concurrent run, failure/retry, persistence, repeat, delay and more.
 - [Venice](https://github.com/Zewo/Venice) - CSP (Coroutines, Channels, Select) for Swift.
+
+### Core Data
+
