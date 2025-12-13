@@ -726,3 +726,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 ### Core Data
 
 - [AERecord](https://github.com/tadija/AERecord) - Super awesome Core Data wrapper in Swift.
+- [CloudCore](https://github.com/deeje/CloudCore) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, field-level deltas, and more.
