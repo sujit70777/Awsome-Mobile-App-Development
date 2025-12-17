@@ -729,3 +729,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [CloudCore](https://github.com/deeje/CloudCore) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, field-level deltas, and more.
 - [CoreStore](https://github.com/JohnEstropia/CoreStore) - Powerful Core Data framework for Incremental Migrations, Fetching, Observering, etc.
 - [Ensembles](https://github.com/drewmccormack/ensembles) - A synchronization framework for Core Data.
+- [Graph](https://github.com/CosmicMind/Graph) - An elegant data-driven framework for CoreData in Swift.
