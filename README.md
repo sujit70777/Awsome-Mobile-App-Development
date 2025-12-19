@@ -730,3 +730,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [CoreStore](https://github.com/JohnEstropia/CoreStore) - Powerful Core Data framework for Incremental Migrations, Fetching, Observering, etc.
 - [Ensembles](https://github.com/drewmccormack/ensembles) - A synchronization framework for Core Data.
 - [Graph](https://github.com/CosmicMind/Graph) - An elegant data-driven framework for CoreData in Swift.
+- [JSQCoreDataKit](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack.
