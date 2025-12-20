@@ -732,3 +732,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Graph](https://github.com/CosmicMind/Graph) - An elegant data-driven framework for CoreData in Swift.
 - [JSQCoreDataKit](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack.
 - [MagicalRecord](https://github.com/magicalpanda/MagicalRecord) - Super Awesome Easy Fetching for Core Data.
+- [Mogenerator](https://github.com/rentzsch/mogenerator) - Automatic Core Data code generation.
