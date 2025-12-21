@@ -733,3 +733,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [JSQCoreDataKit](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack.
 - [MagicalRecord](https://github.com/magicalpanda/MagicalRecord) - Super Awesome Easy Fetching for Core Data.
 - [Mogenerator](https://github.com/rentzsch/mogenerator) - Automatic Core Data code generation.
+- [PredicateFlow](https://github.com/andreadelfante/PredicateFlow) - Write amazing, strong-typed and easy-to-read NSPredicate, allowing you to write flowable NSPredicate, without guessing attribution names, predicate operation or writing wrong arguments type.
