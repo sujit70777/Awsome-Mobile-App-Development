@@ -737,3 +737,6 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [PrediKit](https://github.com/KrakenDev/PrediKit) - An NSPredicate DSL for iOS, macOS, tvOS, & watchOS. Inspired by SnapKit and lovingly written in Swift.
 - [Skopelos](https://github.com/albertodebortoli/Skopelos) - A minimalistic, thread safe, non-boilerplate and super easy to use version of Active Record on Core Data. Simply all you need for doing Core Data.
 - [Sync](https://github.com/3lvis/Sync) - Modern Swift JSON synchronization to Core Data.
+
+### Getting Started
+
