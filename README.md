@@ -751,3 +751,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 
 ### Database
 
+- [Couchbase Mobile](https://www.couchbase.com/products/mobile/) - Couchbase document store for mobile with cloud sync.
