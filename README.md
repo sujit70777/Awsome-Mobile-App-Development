@@ -753,3 +753,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 
 - [Couchbase Mobile](https://www.couchbase.com/products/mobile/) - Couchbase document store for mobile with cloud sync.
 - [Default](https://github.com/Nirma/Default) - Modern interface to UserDefaults + Codable support.
+- [Defaults](https://github.com/sindresorhus/Defaults) - Swifty and modern UserDefaults.
