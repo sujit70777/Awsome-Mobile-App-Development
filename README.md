@@ -756,3 +756,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Defaults](https://github.com/sindresorhus/Defaults) - Swifty and modern UserDefaults.
 - [DuckDB](https://github.com/duckdb/duckdb-swift) - DuckDB is a high-performance analytical database system.
 - [FCModel](https://github.com/marcoarment/FCModel) - An alternative to Core Data for people who like having direct SQL access.
+- [Fluent](https://github.com/vapor/fluent) - Simple ActiveRecord implementation for working with your database in Swift.
