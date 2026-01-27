@@ -761,3 +761,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [GRDB.swift](https://github.com/groue/GRDB.swift) - A versatile SQLite toolkit for Swift, with WAL mode support.
 - [IceCream](https://github.com/caiyue1993/IceCream) - Sync Realm Database with CloudKit.
 - [MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on iOS, Android, macOS and Windows.
+- [MongoKitten](https://github.com/OpenKitten/MongoKitten) - A pure Swift MongoDB client implementation with support for embedded databases.
