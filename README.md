@@ -774,3 +774,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [SecureDefaults](https://github.com/vpeschenkov/SecureDefaults) - A lightweight wrapper over UserDefaults/NSUserDefaults with an extra AES-256 encryption layer.
 - [Shallows](https://github.com/dreymonde/Shallows) - Your lightweight persistence toolbox.
 - [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
+- [StorageKit](https://github.com/StorageKit/StorageKit) - Your Data Storage Troubleshooter.
