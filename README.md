@@ -777,3 +777,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [StorageKit](https://github.com/StorageKit/StorageKit) - Your Data Storage Troubleshooter.
 - [SugarRecord](https://github.com/modo-studio/SugarRecord)  - Data persistence management library.
 - [SwiftStore](https://github.com/hemantasapkota/SwiftStore) - Key-Value store for Swift backed by LevelDB.
+- [SwiftyUserDefaults](https://github.com/sunshinejr/SwiftyUserDefaults) - Statically-typed NSUserDefaults.
