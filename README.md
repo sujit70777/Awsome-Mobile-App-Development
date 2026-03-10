@@ -786,3 +786,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 
 ### Data Structures / Algorithms
 
+- [Algorithm](https://github.com/CosmicMind/Algorithm) - Algorithm is a collection of data structures that are empowered by a probability toolset.
