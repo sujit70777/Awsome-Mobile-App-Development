@@ -789,3 +789,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Algorithm](https://github.com/CosmicMind/Algorithm) - Algorithm is a collection of data structures that are empowered by a probability toolset.
 - [BTree](https://github.com/attaswift/BTree) - Fast ordered collections for Swift using in-memory B-trees.
 - [Buffer](https://github.com/alexdrone/Buffer) - Swift μ-framework for efficient array diffs, collection observation and cell configuration.
+- [Changeset](https://github.com/osteslag/Changeset) - Minimal edits from one collection to another.
