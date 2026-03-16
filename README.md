@@ -791,3 +791,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Buffer](https://github.com/alexdrone/Buffer) - Swift μ-framework for efficient array diffs, collection observation and cell configuration.
 - [Changeset](https://github.com/osteslag/Changeset) - Minimal edits from one collection to another.
 - [Differ](https://github.com/tonyarnold/Differ) - Swift library to generate differences and patches between collections.
+- [DifferenceKit](https://github.com/ra1028/DifferenceKit) - A fast and flexible O(n) difference algorithm framework for Swift collection.
