@@ -790,3 +790,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [BTree](https://github.com/attaswift/BTree) - Fast ordered collections for Swift using in-memory B-trees.
 - [Buffer](https://github.com/alexdrone/Buffer) - Swift μ-framework for efficient array diffs, collection observation and cell configuration.
 - [Changeset](https://github.com/osteslag/Changeset) - Minimal edits from one collection to another.
+- [Differ](https://github.com/tonyarnold/Differ) - Swift library to generate differences and patches between collections.
