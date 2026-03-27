@@ -795,3 +795,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Differific](https://github.com/zenangst/Differific) - A fast and convenient diffing framework.
 - [Dispatch](https://github.com/alexdrone/Store) - Multi-store Flux implementation in Swift.
 - [Dollar](https://github.com/ankurp/Dollar) - A functional tool-belt for Swift Language similar to Lo-Dash or Underscore.js in Javascript https://www.dollarswift.org/.
+- [EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms) - Some well known CS algorithms & data structures in Objective-C.
