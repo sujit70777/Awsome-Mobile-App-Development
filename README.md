@@ -797,3 +797,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Dollar](https://github.com/ankurp/Dollar) - A functional tool-belt for Swift Language similar to Lo-Dash or Underscore.js in Javascript https://www.dollarswift.org/.
 - [EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms) - Some well known CS algorithms & data structures in Objective-C.
 - [HeckelDiff](https://github.com/mcudich/HeckelDiff) - A fast Swift diffing library.
+- [KeyPathKit](https://github.com/vincent-pradeilles/KeyPathKit) - KeyPathKit provides a seamless syntax to manipulate data using typed keypaths.
