@@ -798,3 +798,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms) - Some well known CS algorithms & data structures in Objective-C.
 - [HeckelDiff](https://github.com/mcudich/HeckelDiff) - A fast Swift diffing library.
 - [KeyPathKit](https://github.com/vincent-pradeilles/KeyPathKit) - KeyPathKit provides a seamless syntax to manipulate data using typed keypaths.
+- [Result](https://github.com/antitypical/Result) - Swift type modeling the success/failure of arbitrary operations.
