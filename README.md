@@ -800,3 +800,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [KeyPathKit](https://github.com/vincent-pradeilles/KeyPathKit) - KeyPathKit provides a seamless syntax to manipulate data using typed keypaths.
 - [Result](https://github.com/antitypical/Result) - Swift type modeling the success/failure of arbitrary operations.
 - [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
+- [SwiftGraph](https://github.com/davecom/SwiftGraph) - Graph data structure and utility functions in pure Swift.
