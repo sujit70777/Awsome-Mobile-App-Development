@@ -801,3 +801,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Result](https://github.com/antitypical/Result) - Swift type modeling the success/failure of arbitrary operations.
 - [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
 - [SwiftGraph](https://github.com/davecom/SwiftGraph) - Graph data structure and utility functions in pure Swift.
+- [SwiftPriorityQueue](https://github.com/davecom/SwiftPriorityQueue) - A priority queue with a classic binary heap implementation in pure Swift.
