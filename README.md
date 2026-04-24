@@ -813,3 +813,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [DateTools](https://github.com/MatthewYork/DateTools) - Dates and times made easy in Objective-C.
 - [iso-8601-date-formatter](https://github.com/boredzo/iso-8601-date-formatter) - A Cocoa NSFormatter subclass to convert dates to and from ISO-8601-formatted strings. Supports calendar, week, and ordinal formats.
 - [Kronos](https://github.com/lyft/Kronos) - Elegant NTP date library in Swift.
+- [NVDate](https://github.com/novalagung/nvdate) - Swift4 Date extension library.
