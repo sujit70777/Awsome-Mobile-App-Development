@@ -816,3 +816,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [NVDate](https://github.com/novalagung/nvdate) - Swift4 Date extension library.
 - [Schedule](https://github.com/luoxiu/Schedule) - ⏳ A missing lightweight task scheduler for Swift with an incredibly human-friendly syntax.
 - [Solar](https://github.com/ceeK/Solar) - A Swift micro library for generating Sunrise and Sunset times.
+- [SwiftDate](https://github.com/malcommac/SwiftDate) - The best way to manage Dates and Timezones in Swift.
