@@ -827,3 +827,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 
 - [AEConsole](https://github.com/tadija/AEConsole) - Customizable Console UI overlay with debug log on top of your iOS App.
 - [Alpha](https://github.com/Legoless/Alpha) - Next generation debugging framework for iOS.
+- [AppSpector](https://appspector.com) - Remote iOS and Android debugging and data collection service. You can debug networking, logs, CoreData, SQLite, NSNotificationCenter and mock device's geo location.
