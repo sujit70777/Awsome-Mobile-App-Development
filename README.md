@@ -830,3 +830,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [AppSpector](https://appspector.com) - Remote iOS and Android debugging and data collection service. You can debug networking, logs, CoreData, SQLite, NSNotificationCenter and mock device's geo location.
 - [Atlantis](https://github.com/ProxymanApp/atlantis) - A little and powerful iOS framework for intercepting HTTP/HTTPS Traffic from your iOS app. No more messing around with proxy and certificate config. Inspect Traffic Log with Proxyman app.
 - [chisel](https://github.com/facebook/chisel) - Collection of LLDB commands to assist debugging iOS apps.
+- [DBDebugToolkit](https://github.com/dbukowski/DBDebugToolkit) - Set of easy to use debugging tools for iOS developers & QA engineers.
