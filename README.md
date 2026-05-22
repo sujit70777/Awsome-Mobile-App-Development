@@ -832,3 +832,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [chisel](https://github.com/facebook/chisel) - Collection of LLDB commands to assist debugging iOS apps.
 - [DBDebugToolkit](https://github.com/dbukowski/DBDebugToolkit) - Set of easy to use debugging tools for iOS developers & QA engineers.
 - [DebugSwift](https://github.com/DebugSwift/DebugSwift) - A comprehensive toolkit designed to simplify and enhance the debugging process for iOS applications.
+- [DoraemonKit](https://github.com/didi/DoraemonKit) - A full-featured iOS App development assistant，30+ tools included. You deserve it.
