@@ -834,3 +834,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [DebugSwift](https://github.com/DebugSwift/DebugSwift) - A comprehensive toolkit designed to simplify and enhance the debugging process for iOS applications.
 - [DoraemonKit](https://github.com/didi/DoraemonKit) - A full-featured iOS App development assistant，30+ tools included. You deserve it.
 - [Flex](https://github.com/Flipboard/FLEX) - An in-app debugging and exploration tool for iOS.
+- [Httper-iOS](https://github.com/MuShare/Httper-iOS) - App for developers to test REST API.
