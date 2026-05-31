@@ -840,3 +840,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [MTHawkeye](https://github.com/meitu/MTHawkeye) - Profiling / Debugging assist tools for iOS, include tools: UITimeProfiler, Memory Allocations, Living ObjC Objects Sniffer, Network Transaction Waterfall, etc.
 - [Netfox](https://github.com/kasketis/netfox) - A lightweight, one line setup, iOS / macOS network debugging library!
 - [NetworkEye](https://github.com/coderyi/NetworkEye) - a iOS network debug library, It can monitor HTTP requests within the App and displays information related to the request.
+- [Playbook](https://github.com/playbook-ui/playbook-ios) - A library for isolated developing UI components and automatically snapshots of them.
