@@ -844,3 +844,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [PonyDebugger](https://github.com/square/PonyDebugger) - Remote network and data debugging for your native iOS app using Chrome Developer Tools.
 - [Scyther](https://github.com/bstillitano/Scyther) - A full-featured, in-app debugging menu packed full of useful tools including network logging, layout inspection, location spoofing, console logging and so much more.
 - [Woodpecker](http://www.woodpeck.cn) - View sandbox files, UserDefaults, network request from Mac.
+- [Wormholy](https://github.com/pmusolino/Wormholy) - iOS network debugging, like a wizard.
