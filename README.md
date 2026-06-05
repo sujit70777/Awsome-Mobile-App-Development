@@ -845,3 +845,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Scyther](https://github.com/bstillitano/Scyther) - A full-featured, in-app debugging menu packed full of useful tools including network logging, layout inspection, location spoofing, console logging and so much more.
 - [Woodpecker](http://www.woodpeck.cn) - View sandbox files, UserDefaults, network request from Mac.
 - [Wormholy](https://github.com/pmusolino/Wormholy) - iOS network debugging, like a wizard.
+- [Xniffer](https://github.com/xmartlabs/Xniffer) - A swift network profiler built on top of URLSession.
