@@ -849,3 +849,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 
 ### Dependency Injection
 
+- [DITranquillity](https://github.com/ivlevAstef/DITranquillity) - Dependency injection framework for iOS applications written in clean Swift.
