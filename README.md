@@ -852,3 +852,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [DITranquillity](https://github.com/ivlevAstef/DITranquillity) - Dependency injection framework for iOS applications written in clean Swift.
 - [Needle](https://github.com/uber/needle) — Compile-time safe Swift dependency injection framework with real code.
 - [Perform](https://github.com/thoughtbot/Perform) - Easy dependency injection for storyboard segues.
+- [SafeDI](https://github.com/dfed/safedi) - Compile-time safe dependency injection in Swift 6.
