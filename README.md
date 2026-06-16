@@ -854,3 +854,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Perform](https://github.com/thoughtbot/Perform) - Easy dependency injection for storyboard segues.
 - [SafeDI](https://github.com/dfed/safedi) - Compile-time safe dependency injection in Swift 6.
 - [Swinject](https://github.com/Swinject/Swinject) - Dependency injection framework for Swift.
+- [Typhoon](https://github.com/appsquickly/Typhoon) - Powerful dependency injection for Objective-C.
