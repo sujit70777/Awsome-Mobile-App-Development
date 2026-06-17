@@ -855,3 +855,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [SafeDI](https://github.com/dfed/safedi) - Compile-time safe dependency injection in Swift 6.
 - [Swinject](https://github.com/Swinject/Swinject) - Dependency injection framework for Swift.
 - [Typhoon](https://github.com/appsquickly/Typhoon) - Powerful dependency injection for Objective-C.
+- [Weaver](https://github.com/scribd/Weaver) - A declarative, easy-to-use and safe Dependency Injection framework for Swift.
