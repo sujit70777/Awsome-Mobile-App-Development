@@ -860,3 +860,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 ### Dependency / Package Manager
 
 - [Accio](https://github.com/JamitLabs/Accio) - A SwiftPM based dependency manager for iOS & Co. with improvements over Carthage.
+- [Carthage](https://github.com/Carthage/Carthage) - A simple, decentralized dependency manager for Cocoa.
