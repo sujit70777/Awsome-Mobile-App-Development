@@ -865,3 +865,6 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Rome](https://github.com/tmspzz/Rome) - A cache tool for Carthage built frameworks.
 - [swift-package-manager](https://github.com/apple/swift-package-manager) - The Package Manager for the Swift Programming Language.
 - [Xcode Maven](http://sap-production.github.io/xcode-maven-plugin/site/) - The Xcode Maven Plugin can be used in order to run Xcode builds embedded in a Maven lifecycle.
+
+### Deployment / Distribution
+
