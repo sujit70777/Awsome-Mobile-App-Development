@@ -873,3 +873,4 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [AppLaunchpad](https://theapplaunchpad.com/) - Free App Store screenshot builder.
 - [Bitrise](https://www.bitrise.io) - Mobile Continuous Integration & Delivery with dozens of integrations to build, test, deploy and collaborate.
 - [boarding](https://github.com/fastlane/boarding) - Instantly create a simple signup page for TestFlight beta testers.
+- [buddybuild](https://www.buddybuild.com/) - A mobile iteration platform - build, deploy, and collaborate.
