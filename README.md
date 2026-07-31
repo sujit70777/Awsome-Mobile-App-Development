@@ -4,6 +4,13 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
 > A single, curated collection of awesome resources for **Kotlin/Android**, **Flutter**, and **iOS** development — libraries, tools, articles, videos, and communities, all in one place.
 
 ## Table of Contents
@@ -296,6 +303,10 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 ---
 
 # 🐦 Flutter
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/1295961/45949308-cbb2f680-bffb-11e8-8054-28c35ed6d132.png" alt="Flutter" width="600">
+</p>
 
 <details>
 <summary><b>Articles</b></summary>
@@ -1234,6 +1245,10 @@ This section contains libraries that take an experimental or unorthodox approach
 ---
 
 # 🍎 iOS
+
+<p align="center">
+  <img src="https://github.com/vsouza/awesome-ios/blob/master/header.png?raw=true" alt="iOS" width="600">
+</p>
 
 <details>
 <summary><b>Analytics</b></summary>
